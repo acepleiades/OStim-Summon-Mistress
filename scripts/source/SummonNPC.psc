@@ -1,5 +1,4 @@
-Scriptname SS2BTeleportScript extends ActiveMagicEffect  
-
+Scriptname SummonNPC extends ActiveMagicEffect  
 
 Actor Property PlayerREF Auto
 {auto-fill with the player reference}
