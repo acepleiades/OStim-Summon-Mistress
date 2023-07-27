@@ -1,0 +1,1476 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Summon Mistress Vaeloria Outfit">
+        <DataFolder>Summon Mistress</DataFolder>
+        <SourceFile>Summon Mistress Vaeloria Outfit.nif</SourceFile>
+        <OutputPath>Meshes\Summon_Mistress_Meshes\outfit</OutputPath>
+        <OutputFile GenWeights="true">vaeloria_outfit</OutputFile>
+        <Shape target="BaseShape" DataFolder="BHUNP 3BBB Advanced">BaseShape</Shape>
+        <Shape target="BaseShapeAnus" DataFolder="BHUNP 3BBB Advanced">BaseShapeAnus</Shape>
+        <Shape target="BaseShapeCanal" DataFolder="BHUNP 3BBB Advanced">BaseShapeCanal</Shape>
+        <Shape target="BaseShapeVagina" DataFolder="BHUNP 3BBB Advanced">BaseShapeVagina</Shape>
+        <Shape target="Panties">Panties</Shape>
+        <Shape target="Robe">Robe</Shape>
+        <Slider name="Breasts" invert="true" small="100" big="100">
+            <Data name="BaseShapeBreasts" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBreasts</Data>
+            <Data name="RobeBreasts" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeBreasts</Data>
+            <Data name="BaseShapeVaginaBreasts" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaBreasts</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <Data name="BaseShapeBreastsSmall" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBreastsSmall</Data>
+            <Data name="RobeBreastsSmall" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeBreastsSmall</Data>
+            <Data name="PantiesBreastsSmall" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesBreastsSmall</Data>
+            <Data name="BaseShapeVaginaBreastsSmall" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaBreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastsSH" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBreastsSH</Data>
+            <Data name="RobeBreastsSH" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeBreastsSH</Data>
+            <Data name="BaseShapeVaginaBreastsSH" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaBreastsSH</Data>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastsSSH" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBreastsSSH</Data>
+            <Data name="RobeBreastsSSH" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeBreastsSSH</Data>
+            <Data name="BaseShapeVaginaBreastsSSH" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaBreastsSSH</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastsFantasy" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBreastsFantasy</Data>
+            <Data name="RobeBreastsFantasy" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeBreastsFantasy</Data>
+            <Data name="BaseShapeVaginaBreastsFantasy" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaBreastsFantasy</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="BaseShapeDoubleMelon" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeDoubleMelon</Data>
+            <Data name="RobeDoubleMelon" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeDoubleMelon</Data>
+            <Data name="BaseShapeVaginaDoubleMelon" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaDoubleMelon</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastCleavage" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBreastCleavage</Data>
+            <Data name="RobeBreastCleavage" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeBreastCleavage</Data>
+            <Data name="BaseShapeVaginaBreastCleavage" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaBreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastFlatness" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBreastFlatness</Data>
+            <Data name="RobeBreastFlatness" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeBreastFlatness</Data>
+            <Data name="BaseShapeVaginaBreastFlatness" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaBreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastGravity" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBreastGravity</Data>
+            <Data name="RobeBreastGravity" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeBreastGravity</Data>
+            <Data name="BaseShapeVaginaBreastGravity" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaBreastGravity</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="BaseShapePushUp" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapePushUp</Data>
+            <Data name="RobePushUp" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobePushUp</Data>
+            <Data name="BaseShapeVaginaPushUp" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaPushUp</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastHeight" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBreastHeight</Data>
+            <Data name="RobeBreastHeight" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeBreastHeight</Data>
+            <Data name="BaseShapeVaginaBreastHeight" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaBreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastPerkiness" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBreastPerkiness</Data>
+            <Data name="RobeBreastPerkiness" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeBreastPerkiness</Data>
+            <Data name="BaseShapeVaginaBreastPerkiness" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaBreastPerkiness</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastWidth" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBreastWidth</Data>
+            <Data name="RobeBreastWidth" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeBreastWidth</Data>
+            <Data name="BaseShapeVaginaBreastWidth" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaBreastWidth</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="true" small="100" big="100">
+            <Data name="BaseShapeNippleDistance" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeNippleDistance</Data>
+            <Data name="RobeNippleDistance" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeNippleDistance</Data>
+            <Data name="BaseShapeVaginaNippleDistance" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaNippleDistance</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" small="0" big="0">
+            <Data name="BaseShapeNipplePerkiness" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeNipplePerkiness</Data>
+            <Data name="RobeNipplePerkiness" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeNipplePerkiness</Data>
+            <Data name="BaseShapeVaginaNipplePerkiness" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaNipplePerkiness</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" small="0" big="0">
+            <Data name="BaseShapeNippleLength" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeNippleLength</Data>
+            <Data name="RobeNippleLength" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeNippleLength</Data>
+            <Data name="BaseShapeVaginaNippleLength" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaNippleLength</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="true" small="100" big="100">
+            <Data name="BaseShapeNippleSize" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeNippleSize</Data>
+            <Data name="RobeNippleSize" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeNippleSize</Data>
+            <Data name="BaseShapeVaginaNippleSize" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaNippleSize</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" small="0" big="0">
+            <Data name="BaseShapeNippleAreola" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeNippleAreola</Data>
+            <Data name="RobeNippleAreola" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeNippleAreola</Data>
+            <Data name="BaseShapeVaginaNippleAreola" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaNippleAreola</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="BaseShapeNippleUp" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeNippleUp</Data>
+            <Data name="RobeNippleUp" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeNippleUp</Data>
+            <Data name="BaseShapeVaginaNippleUp" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaNippleUp</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <Data name="BaseShapeNippleDown" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeNippleDown</Data>
+            <Data name="RobeNippleDown" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeNippleDown</Data>
+            <Data name="BaseShapeVaginaNippleDown" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaNippleDown</Data>
+        </Slider>
+        <Slider name="NippleTip" invert="false" small="0" big="0">
+            <Data name="BaseShapeNippleTip" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeNippleTip</Data>
+            <Data name="RobeNippleTip" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeNippleTip</Data>
+            <Data name="BaseShapeVaginaNippleTip" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaNippleTip</Data>
+        </Slider>
+        <Slider name="Arms" invert="true" small="100" big="100">
+            <Data name="BaseShapeArms" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeArms</Data>
+            <Data name="RobeArms" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeArms</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="BaseShapeChubbyArms" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeChubbyArms</Data>
+            <Data name="RobeChubbyArms" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeChubbyArms</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <Data name="BaseShapeShoulderSmooth" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeShoulderSmooth</Data>
+            <Data name="RobeShoulderSmooth" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <Data name="BaseShapeShoulderWidth" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeShoulderWidth</Data>
+            <Data name="RobeShoulderWidth" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeShoulderWidth</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="BaseShapeBigTorso" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBigTorso</Data>
+            <Data name="RobeBigTorso" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeBigTorso</Data>
+            <Data name="PantiesBigTorso" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesBigTorso</Data>
+            <Data name="BaseShapeAnusBigTorso" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusBigTorso</Data>
+            <Data name="BaseShapeVaginaBigTorso" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaBigTorso</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="0">
+            <Data name="BaseShapeWaist" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeWaist</Data>
+            <Data name="RobeWaist" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeWaist</Data>
+            <Data name="PantiesWaist" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesWaist</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <Data name="BaseShapeWideWaistLine" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeWideWaistLine</Data>
+            <Data name="RobeWideWaistLine" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeWideWaistLine</Data>
+            <Data name="PantiesWideWaistLine" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesWideWaistLine</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="BaseShapeChubbyWaist" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeChubbyWaist</Data>
+            <Data name="RobeChubbyWaist" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeChubbyWaist</Data>
+            <Data name="PantiesChubbyWaist" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesChubbyWaist</Data>
+            <Data name="BaseShapeAnusChubbyWaist" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusChubbyWaist</Data>
+            <Data name="BaseShapeVaginaChubbyWaist" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaChubbyWaist</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" small="0" big="0">
+            <Data name="BaseShapeBelly" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBelly</Data>
+            <Data name="RobeBelly" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeBelly</Data>
+            <Data name="PantiesBelly" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesBelly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <Data name="BaseShapeBigBelly" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBigBelly</Data>
+            <Data name="RobeBigBelly" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeBigBelly</Data>
+            <Data name="PantiesBigBelly" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesBigBelly</Data>
+            <Data name="BaseShapeVaginaBigBelly" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaBigBelly</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="BaseShapePregnancyBelly" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapePregnancyBelly</Data>
+            <Data name="RobePregnancyBelly" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobePregnancyBelly</Data>
+            <Data name="PantiesPregnancyBelly" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesPregnancyBelly</Data>
+            <Data name="BaseShapeCanalPregnancyBelly" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalPregnancyBelly</Data>
+            <Data name="BaseShapeVaginaPregnancyBelly" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaPregnancyBelly</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <Data name="BaseShapeTummyTuck" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeTummyTuck</Data>
+            <Data name="RobeTummyTuck" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeTummyTuck</Data>
+            <Data name="PantiesTummyTuck" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesTummyTuck</Data>
+            <Data name="BaseShapeVaginaTummyTuck" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaTummyTuck</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="BaseShapeBack" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBack</Data>
+            <Data name="RobeBack" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeBack</Data>
+            <Data name="PantiesBack" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesBack</Data>
+            <Data name="BaseShapeAnusBack" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusBack</Data>
+        </Slider>
+        <Slider name="Hipbone" invert="false" small="0" big="0">
+            <Data name="RobeHipbone" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeHipbone</Data>
+            <Data name="PantiesHipbone" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesHipbone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="BaseShapeHips" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeHips</Data>
+            <Data name="RobeHips" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeHips</Data>
+            <Data name="PantiesHips" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesHips</Data>
+            <Data name="BaseShapeCanalHips" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalHips</Data>
+            <Data name="BaseShapeAnusHips" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusHips</Data>
+            <Data name="BaseShapeVaginaHips" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaHips</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="true" small="100" big="100">
+            <Data name="BaseShapeButtCrack" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeButtCrack</Data>
+            <Data name="RobeButtCrack" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeButtCrack</Data>
+            <Data name="PantiesButtCrack" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesButtCrack</Data>
+            <Data name="BaseShapeCanalButtCrack" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalButtCrack</Data>
+            <Data name="BaseShapeAnusButtCrack" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusButtCrack</Data>
+            <Data name="BaseShapeVaginaButtCrack" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaButtCrack</Data>
+        </Slider>
+        <Slider name="Butt" invert="true" small="100" big="100">
+            <Data name="BaseShapeButt" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeButt</Data>
+            <Data name="RobeButt" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeButt</Data>
+            <Data name="PantiesButt" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesButt</Data>
+            <Data name="BaseShapeCanalButt" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalButt</Data>
+            <Data name="BaseShapeAnusButt" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusButt</Data>
+            <Data name="BaseShapeVaginaButt" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaButt</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="true" small="100" big="100">
+            <Data name="BaseShapeButtSmall" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeButtSmall</Data>
+            <Data name="RobeButtSmall" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeButtSmall</Data>
+            <Data name="PantiesButtSmall" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesButtSmall</Data>
+            <Data name="BaseShapeCanalButtSmall" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalButtSmall</Data>
+            <Data name="BaseShapeAnusButtSmall" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusButtSmall</Data>
+            <Data name="BaseShapeVaginaButtSmall" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaButtSmall</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="BaseShapeButtShape2" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeButtShape2</Data>
+            <Data name="RobeButtShape2" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeButtShape2</Data>
+            <Data name="PantiesButtShape2" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesButtShape2</Data>
+            <Data name="BaseShapeCanalButtShape2" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalButtShape2</Data>
+            <Data name="BaseShapeAnusButtShape2" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusButtShape2</Data>
+            <Data name="BaseShapeVaginaButtShape2" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaButtShape2</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="BaseShapeBigButt" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBigButt</Data>
+            <Data name="RobeBigButt" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeBigButt</Data>
+            <Data name="PantiesBigButt" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesBigButt</Data>
+            <Data name="BaseShapeCanalBigButt" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalBigButt</Data>
+            <Data name="BaseShapeAnusBigButt" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusBigButt</Data>
+            <Data name="BaseShapeVaginaBigButt" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaBigButt</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="BaseShapeChubbyButt" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeChubbyButt</Data>
+            <Data name="RobeChubbyButt" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeChubbyButt</Data>
+            <Data name="PantiesChubbyButt" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesChubbyButt</Data>
+            <Data name="BaseShapeCanalChubbyButt" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalChubbyButt</Data>
+            <Data name="BaseShapeAnusChubbyButt" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusChubbyButt</Data>
+            <Data name="BaseShapeVaginaChubbyButt" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaChubbyButt</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <Data name="BaseShapeAppleCheeks" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAppleCheeks</Data>
+            <Data name="RobeAppleCheeks" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeAppleCheeks</Data>
+            <Data name="PantiesAppleCheeks" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesAppleCheeks</Data>
+            <Data name="BaseShapeCanalAppleCheeks" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalAppleCheeks</Data>
+            <Data name="BaseShapeAnusAppleCheeks" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusAppleCheeks</Data>
+            <Data name="BaseShapeVaginaAppleCheeks" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaAppleCheeks</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <Data name="BaseShapeRoundAss" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeRoundAss</Data>
+            <Data name="RobeRoundAss" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeRoundAss</Data>
+            <Data name="PantiesRoundAss" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesRoundAss</Data>
+            <Data name="BaseShapeCanalRoundAss" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalRoundAss</Data>
+            <Data name="BaseShapeAnusRoundAss" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusRoundAss</Data>
+            <Data name="BaseShapeVaginaRoundAss" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaRoundAss</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="BaseShapeSlimThighs" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeSlimThighs</Data>
+            <Data name="RobeSlimThighs" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeSlimThighs</Data>
+            <Data name="PantiesSlimThighs" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesSlimThighs</Data>
+            <Data name="BaseShapeCanalSlimThighs" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalSlimThighs</Data>
+            <Data name="BaseShapeAnusSlimThighs" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusSlimThighs</Data>
+            <Data name="BaseShapeVaginaSlimThighs" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaSlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="BaseShapeThighs" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeThighs</Data>
+            <Data name="RobeThighs" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeThighs</Data>
+            <Data name="PantiesThighs" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesThighs</Data>
+            <Data name="BaseShapeCanalThighs" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalThighs</Data>
+            <Data name="BaseShapeAnusThighs" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusThighs</Data>
+            <Data name="BaseShapeVaginaThighs" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaThighs</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="BaseShapeChubbyLegs" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeChubbyLegs</Data>
+            <Data name="RobeChubbyLegs" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeChubbyLegs</Data>
+            <Data name="PantiesChubbyLegs" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesChubbyLegs</Data>
+            <Data name="BaseShapeCanalChubbyLegs" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalChubbyLegs</Data>
+            <Data name="BaseShapeAnusChubbyLegs" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusChubbyLegs</Data>
+            <Data name="BaseShapeVaginaChubbyLegs" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaChubbyLegs</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="BaseShapeLegs" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeLegs</Data>
+            <Data name="RobeLegs" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeLegs</Data>
+            <Data name="PantiesLegs" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesLegs</Data>
+            <Data name="BaseShapeCanalLegs" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalLegs</Data>
+            <Data name="BaseShapeAnusLegs" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusLegs</Data>
+            <Data name="BaseShapeVaginaLegs" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="BaseShapeKneeHeight" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeKneeHeight</Data>
+            <Data name="RobeKneeHeight" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeKneeHeight</Data>
+            <Data name="PantiesKneeHeight" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesKneeHeight</Data>
+            <Data name="BaseShapeCanalKneeHeight" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalKneeHeight</Data>
+        </Slider>
+        <Slider name="Neck" invert="false" small="100" big="0" hidden="true">
+            <Data name="BaseShapeNeck" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeNeck</Data>
+            <Data name="RobeNeck" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeNeck</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="BaseShape7B Low" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShape7B Low</Data>
+            <Data name="Robe7B Low" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\Robe7B Low</Data>
+            <Data name="Panties7B Low" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\Panties7B Low</Data>
+            <Data name="BaseShapeCanal7B Low" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanal7B Low</Data>
+            <Data name="BaseShapeAnus7B Low" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnus7B Low</Data>
+            <Data name="BaseShapeVagina7B Low" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVagina7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="BaseShape7B High" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShape7B High</Data>
+            <Data name="Robe7B High" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\Robe7B High</Data>
+            <Data name="Panties7B High" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\Panties7B High</Data>
+            <Data name="BaseShapeCanal7B High" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanal7B High</Data>
+            <Data name="BaseShapeAnus7B High" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnus7B High</Data>
+            <Data name="BaseShapeVagina7B High" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVagina7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="BaseShape7B Bombshell Low" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShape7B Bombshell Low</Data>
+            <Data name="Robe7B Bombshell Low" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\Robe7B Bombshell Low</Data>
+            <Data name="Panties7B Bombshell Low" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\Panties7B Bombshell Low</Data>
+            <Data name="BaseShapeCanal7B Bombshell Low" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanal7B Bombshell Low</Data>
+            <Data name="BaseShapeAnus7B Bombshell Low" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnus7B Bombshell Low</Data>
+            <Data name="BaseShapeVagina7B Bombshell Low" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVagina7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="BaseShape7B Bombshell High" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShape7B Bombshell High</Data>
+            <Data name="Robe7B Bombshell High" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\Robe7B Bombshell High</Data>
+            <Data name="Panties7B Bombshell High" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\Panties7B Bombshell High</Data>
+            <Data name="BaseShapeCanal7B Bombshell High" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanal7B Bombshell High</Data>
+            <Data name="BaseShapeAnus7B Bombshell High" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnus7B Bombshell High</Data>
+            <Data name="BaseShapeVagina7B Bombshell High" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVagina7B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="Robe7B Natural Low" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\Robe7B Natural Low</Data>
+            <Data name="Panties7B Natural Low" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\Panties7B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="Robe7B Natural High" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\Robe7B Natural High</Data>
+            <Data name="Panties7B Natural High" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\Panties7B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="Robe7B Cleavage Low" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\Robe7B Cleavage Low</Data>
+            <Data name="Panties7B Cleavage Low" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\Panties7B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="Robe7B Cleavage High" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\Robe7B Cleavage High</Data>
+            <Data name="Panties7B Cleavage High" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\Panties7B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="Robe7B BCup Low" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\Robe7B BCup Low</Data>
+            <Data name="Panties7B BCup Low" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\Panties7B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="Robe7B BCup High" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\Robe7B BCup High</Data>
+            <Data name="Panties7B BCup High" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\Panties7B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="Robe7BUNP Low" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\Robe7BUNP Low</Data>
+            <Data name="Panties7BUNP Low" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\Panties7BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="Robe7BUNP High" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\Robe7BUNP High</Data>
+            <Data name="Panties7BUNP High" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\Panties7BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="Robe7B Oppai Low" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\Robe7B Oppai Low</Data>
+            <Data name="Panties7B Oppai Low" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\Panties7B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="Robe7B Oppai High" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\Robe7B Oppai High</Data>
+            <Data name="Panties7B Oppai High" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\Panties7B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="Robe7B CH Low" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\Robe7B CH Low</Data>
+            <Data name="Panties7B CH Low" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\Panties7B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="Robe7B CH High" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\Robe7B CH High</Data>
+            <Data name="Panties7B CH High" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\Panties7B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="BaseShapeUNP Low" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeUNP Low</Data>
+            <Data name="RobeUNP Low" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeUNP Low</Data>
+            <Data name="PantiesUNP Low" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesUNP Low</Data>
+            <Data name="BaseShapeCanalUNP Low" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalUNP Low</Data>
+            <Data name="BaseShapeAnusUNP Low" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusUNP Low</Data>
+            <Data name="BaseShapeVaginaUNP Low" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="BaseShapeUNP High" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeUNP High</Data>
+            <Data name="RobeUNP High" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeUNP High</Data>
+            <Data name="PantiesUNP High" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesUNP High</Data>
+            <Data name="BaseShapeCanalUNP High" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalUNP High</Data>
+            <Data name="BaseShapeAnusUNP High" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusUNP High</Data>
+            <Data name="BaseShapeVaginaUNP High" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaUNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="RobeUNP Pushup Low" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeUNP Pushup Low</Data>
+            <Data name="PantiesUNP Pushup Low" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesUNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="RobeUNP Pushup High" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeUNP Pushup High</Data>
+            <Data name="PantiesUNP Pushup High" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesUNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="RobeUNP Skinny Low" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeUNP Skinny Low</Data>
+            <Data name="PantiesUNP Skinny Low" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesUNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="RobeUNP Skinny High" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeUNP Skinny High</Data>
+            <Data name="PantiesUNP Skinny High" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesUNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="RobeUNP Perky Low" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeUNP Perky Low</Data>
+            <Data name="PantiesUNP Perky Low" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesUNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="RobeUNP Perky High" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeUNP Perky High</Data>
+            <Data name="PantiesUNP Perky High" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesUNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="BaseShapeUNPB Low" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeUNPB Low</Data>
+            <Data name="RobeUNPB Low" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeUNPB Low</Data>
+            <Data name="PantiesUNPB Low" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesUNPB Low</Data>
+            <Data name="BaseShapeCanalUNPB Low" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalUNPB Low</Data>
+            <Data name="BaseShapeAnusUNPB Low" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusUNPB Low</Data>
+            <Data name="BaseShapeVaginaUNPB Low" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="BaseShapeUNPB High" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeUNPB High</Data>
+            <Data name="RobeUNPB High" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeUNPB High</Data>
+            <Data name="PantiesUNPB High" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesUNPB High</Data>
+            <Data name="BaseShapeCanalUNPB High" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalUNPB High</Data>
+            <Data name="BaseShapeAnusUNPB High" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusUNPB High</Data>
+            <Data name="BaseShapeVaginaUNPB High" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="BaseShapeUNPB Oppai v3.2 Low" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeUNPB Oppai v3.2 Low</Data>
+            <Data name="RobeUNPB Oppai v3.2 Low" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeUNPB Oppai v3.2 Low</Data>
+            <Data name="PantiesUNPB Oppai v3.2 Low" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesUNPB Oppai v3.2 Low</Data>
+            <Data name="BaseShapeCanalUNPB Oppai v3.2 Low" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalUNPB Oppai v3.2 Low</Data>
+            <Data name="BaseShapeAnusUNPB Oppai v3.2 Low" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusUNPB Oppai v3.2 Low</Data>
+            <Data name="BaseShapeVaginaUNPB Oppai v3.2 Low" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="BaseShapeUNPB Oppai v3.2 High" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeUNPB Oppai v3.2 High</Data>
+            <Data name="RobeUNPB Oppai v3.2 High" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeUNPB Oppai v3.2 High</Data>
+            <Data name="PantiesUNPB Oppai v3.2 High" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesUNPB Oppai v3.2 High</Data>
+            <Data name="BaseShapeCanalUNPB Oppai v3.2 High" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalUNPB Oppai v3.2 High</Data>
+            <Data name="BaseShapeAnusUNPB Oppai v3.2 High" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusUNPB Oppai v3.2 High</Data>
+            <Data name="BaseShapeVaginaUNPB Oppai v3.2 High" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="RobeUNPetite Low" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeUNPetite Low</Data>
+            <Data name="PantiesUNPetite Low" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesUNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="RobeUNPetite High" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeUNPetite High</Data>
+            <Data name="PantiesUNPetite High" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesUNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="BaseShapeUNPC Low" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeUNPC Low</Data>
+            <Data name="RobeUNPC Low" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeUNPC Low</Data>
+            <Data name="PantiesUNPC Low" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesUNPC Low</Data>
+            <Data name="BaseShapeCanalUNPC Low" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalUNPC Low</Data>
+            <Data name="BaseShapeAnusUNPC Low" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusUNPC Low</Data>
+            <Data name="BaseShapeVaginaUNPC Low" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="BaseShapeUNPC High" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeUNPC High</Data>
+            <Data name="RobeUNPC High" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeUNPC High</Data>
+            <Data name="PantiesUNPC High" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesUNPC High</Data>
+            <Data name="BaseShapeCanalUNPC High" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalUNPC High</Data>
+            <Data name="BaseShapeAnusUNPC High" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusUNPC High</Data>
+            <Data name="BaseShapeVaginaUNPC High" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaUNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="RobeUNPCM Low" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeUNPCM Low</Data>
+            <Data name="PantiesUNPCM Low" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesUNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="RobeUNPCM High" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeUNPCM High</Data>
+            <Data name="PantiesUNPCM High" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesUNPCM High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="RobeUNPK Low" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeUNPK Low</Data>
+            <Data name="PantiesUNPK Low" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesUNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="RobeUNPK High" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeUNPK High</Data>
+            <Data name="PantiesUNPK High" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesUNPK High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="RobeUN7B Low" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeUN7B Low</Data>
+            <Data name="PantiesUN7B Low" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesUN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="RobeUN7B High" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeUN7B High</Data>
+            <Data name="PantiesUN7B High" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesUN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="RobeUNPBB Low" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeUNPBB Low</Data>
+            <Data name="PantiesUNPBB Low" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesUNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="RobeUNPBB High" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeUNPBB High</Data>
+            <Data name="PantiesUNPBB High" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesUNPBB High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="BaseShapeTop Model Low" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeTop Model Low</Data>
+            <Data name="RobeTop Model Low" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeTop Model Low</Data>
+            <Data name="PantiesTop Model Low" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesTop Model Low</Data>
+            <Data name="BaseShapeCanalTop Model Low" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalTop Model Low</Data>
+            <Data name="BaseShapeAnusTop Model Low" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusTop Model Low</Data>
+            <Data name="BaseShapeVaginaTop Model Low" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="BaseShapeTop Model High" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeTop Model High</Data>
+            <Data name="RobeTop Model High" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeTop Model High</Data>
+            <Data name="PantiesTop Model High" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesTop Model High</Data>
+            <Data name="BaseShapeCanalTop Model High" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalTop Model High</Data>
+            <Data name="BaseShapeAnusTop Model High" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusTop Model High</Data>
+            <Data name="BaseShapeVaginaTop Model High" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaTop Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="RobeLeito Low" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeLeito Low</Data>
+            <Data name="PantiesLeito Low" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesLeito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="RobeLeito High" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeLeito High</Data>
+            <Data name="PantiesLeito High" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesLeito High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="RobeMCBM Low" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeMCBM Low</Data>
+            <Data name="PantiesMCBM Low" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesMCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="RobeMCBM High" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeMCBM High</Data>
+            <Data name="PantiesMCBM High" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesMCBM High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="RobeZGGB-R2 Low" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeZGGB-R2 Low</Data>
+            <Data name="PantiesZGGB-R2 Low" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="RobeZGGB-R2 High" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeZGGB-R2 High</Data>
+            <Data name="PantiesZGGB-R2 High" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="RobeManga Low" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeManga Low</Data>
+            <Data name="PantiesManga Low" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesManga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="RobeManga High" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeManga High</Data>
+            <Data name="PantiesManga High" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesManga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="RobeCHSBHC Low" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeCHSBHC Low</Data>
+            <Data name="PantiesCHSBHC Low" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesCHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="RobeCHSBHC High" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeCHSBHC High</Data>
+            <Data name="PantiesCHSBHC High" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesCHSBHC High</Data>
+        </Slider>
+        <Slider name="Aruru6Duck Low" invert="false" small="0" big="0">
+            <Data name="BaseShapeAruru6Duck Low" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAruru6Duck Low</Data>
+            <Data name="RobeAruru6Duck Low" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeAruru6Duck Low</Data>
+            <Data name="PantiesAruru6Duck Low" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesAruru6Duck Low</Data>
+            <Data name="BaseShapeCanalAruru6Duck Low" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalAruru6Duck Low</Data>
+            <Data name="BaseShapeAnusAruru6Duck Low" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusAruru6Duck Low</Data>
+            <Data name="BaseShapeVaginaAruru6Duck Low" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaAruru6Duck Low</Data>
+        </Slider>
+        <Slider name="Aruru6Duck High" invert="false" small="0" big="0">
+            <Data name="BaseShapeAruru6Duck High" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAruru6Duck High</Data>
+            <Data name="RobeAruru6Duck High" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeAruru6Duck High</Data>
+            <Data name="PantiesAruru6Duck High" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesAruru6Duck High</Data>
+            <Data name="BaseShapeCanalAruru6Duck High" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalAruru6Duck High</Data>
+            <Data name="BaseShapeAnusAruru6Duck High" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusAruru6Duck High</Data>
+            <Data name="BaseShapeVaginaAruru6Duck High" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaAruru6Duck High</Data>
+        </Slider>
+        <Slider name="NippleErection" invert="false" small="0" big="0">
+            <Data name="BaseShapeNippleErection" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeNippleErection</Data>
+            <Data name="RobeNippleErection" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeNippleErection</Data>
+            <Data name="PantiesNippleErection" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesNippleErection</Data>
+        </Slider>
+        <Slider name="BreastConverge" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastConverge" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBreastConverge</Data>
+            <Data name="RobeBreastConverge" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeBreastConverge</Data>
+            <Data name="PantiesBreastConverge" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesBreastConverge</Data>
+            <Data name="BaseShapeCanalBreastConverge" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalBreastConverge</Data>
+            <Data name="BaseShapeAnusBreastConverge" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusBreastConverge</Data>
+            <Data name="BaseShapeVaginaBreastConverge" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaBreastConverge</Data>
+        </Slider>
+        <Slider name="PussyCute" invert="false" small="0" big="0">
+            <Data name="BaseShapePussyCute" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapePussyCute</Data>
+            <Data name="RobePussyCute" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobePussyCute</Data>
+            <Data name="PantiesPussyCute" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesPussyCute</Data>
+            <Data name="BaseShapeCanalPussyCute" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalPussyCute</Data>
+            <Data name="BaseShapeAnusPussyCute" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusPussyCute</Data>
+            <Data name="BaseShapeVaginaPussyCute" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaPussyCute</Data>
+        </Slider>
+        <Slider name="PussyHilly" invert="false" small="0" big="0">
+            <Data name="BaseShapePussyHilly" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapePussyHilly</Data>
+            <Data name="RobePussyHilly" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobePussyHilly</Data>
+            <Data name="PantiesPussyHilly" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesPussyHilly</Data>
+            <Data name="BaseShapeVaginaPussyHilly" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaPussyHilly</Data>
+        </Slider>
+        <Slider name="ClitorisErection" invert="false" small="0" big="0">
+            <Data name="BaseShapeClitorisErection" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeClitorisErection</Data>
+            <Data name="RobeClitorisErection" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeClitorisErection</Data>
+            <Data name="PantiesClitorisErection" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesClitorisErection</Data>
+            <Data name="BaseShapeVaginaClitorisErection" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaClitorisErection</Data>
+        </Slider>
+        <Slider name="PussyMajora" invert="false" small="0" big="0">
+            <Data name="BaseShapePussyMajora" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapePussyMajora</Data>
+            <Data name="RobePussyMajora" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobePussyMajora</Data>
+            <Data name="PantiesPussyMajora" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesPussyMajora</Data>
+            <Data name="BaseShapeCanalPussyMajora" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalPussyMajora</Data>
+            <Data name="BaseShapeVaginaPussyMajora" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaPussyMajora</Data>
+        </Slider>
+        <Slider name="PussyMinora" invert="false" small="0" big="0">
+            <Data name="BaseShapePussyMinora" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapePussyMinora</Data>
+            <Data name="RobePussyMinora" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobePussyMinora</Data>
+            <Data name="PantiesPussyMinora" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesPussyMinora</Data>
+            <Data name="BaseShapeCanalPussyMinora" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalPussyMinora</Data>
+            <Data name="BaseShapeVaginaPussyMinora" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaPussyMinora</Data>
+        </Slider>
+        <Slider name="PussyMajoraBig" invert="false" small="0" big="0">
+            <Data name="BaseShapePussyMajoraBig" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapePussyMajoraBig</Data>
+            <Data name="RobePussyMajoraBig" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobePussyMajoraBig</Data>
+            <Data name="PantiesPussyMajoraBig" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesPussyMajoraBig</Data>
+            <Data name="BaseShapeCanalPussyMajoraBig" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalPussyMajoraBig</Data>
+            <Data name="BaseShapeVaginaPussyMajoraBig" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaPussyMajoraBig</Data>
+        </Slider>
+        <Slider name="BackArch" invert="false" small="0" big="0">
+            <Data name="BaseShapeBackArch" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBackArch</Data>
+            <Data name="RobeBackArch" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeBackArch</Data>
+            <Data name="PantiesBackArch" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesBackArch</Data>
+            <Data name="BaseShapeAnusBackArch" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusBackArch</Data>
+        </Slider>
+        <Slider name="BreastCenter" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastCenter" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBreastCenter</Data>
+            <Data name="RobeBreastCenter" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeBreastCenter</Data>
+        </Slider>
+        <Slider name="BreastCenterBig" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastCenterBig" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBreastCenterBig</Data>
+            <Data name="RobeBreastCenterBig" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeBreastCenterBig</Data>
+        </Slider>
+        <Slider name="BotePregnancy" invert="false" small="0" big="0">
+            <Data name="BaseShapeBotePregnancy" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBotePregnancy</Data>
+            <Data name="RobeBotePregnancy" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeBotePregnancy</Data>
+            <Data name="PantiesBotePregnancy" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesBotePregnancy</Data>
+            <Data name="BaseShapeVaginaBotePregnancy" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaBotePregnancy</Data>
+        </Slider>
+        <Slider name="ChestDepth" invert="false" small="0" big="0">
+            <Data name="BaseShapeChestDepth" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeChestDepth</Data>
+            <Data name="RobeChestDepth" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeChestDepth</Data>
+            <Data name="PantiesChestDepth" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesChestDepth</Data>
+        </Slider>
+        <Slider name="ChestWidth" invert="false" small="0" big="0">
+            <Data name="BaseShapeChestWidth" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeChestWidth</Data>
+            <Data name="RobeChestWidth" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeChestWidth</Data>
+            <Data name="PantiesChestWidth" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesChestWidth</Data>
+        </Slider>
+        <Slider name="CrotchBack" invert="false" small="0" big="0">
+            <Data name="BaseShapeCrotchBack" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCrotchBack</Data>
+            <Data name="RobeCrotchBack" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeCrotchBack</Data>
+            <Data name="PantiesCrotchBack" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesCrotchBack</Data>
+            <Data name="BaseShapeCanalCrotchBack" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalCrotchBack</Data>
+            <Data name="BaseShapeAnusCrotchBack" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusCrotchBack</Data>
+            <Data name="BaseShapeVaginaCrotchBack" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaCrotchBack</Data>
+        </Slider>
+        <Slider name="ForearmSize" invert="false" small="0" big="0">
+            <Data name="BaseShapeForearmSize" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeForearmSize</Data>
+            <Data name="RobeForearmSize" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeForearmSize</Data>
+        </Slider>
+        <Slider name="Groin" invert="false" small="0" big="0">
+            <Data name="BaseShapeGroin" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeGroin</Data>
+            <Data name="RobeGroin" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeGroin</Data>
+            <Data name="PantiesGroin" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesGroin</Data>
+            <Data name="BaseShapeCanalGroin" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalGroin</Data>
+            <Data name="BaseShapeAnusGroin" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusGroin</Data>
+            <Data name="BaseShapeVaginaGroin" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaGroin</Data>
+        </Slider>
+        <Slider name="HipBone" invert="false" small="0" big="0">
+            <Data name="BaseShapeHipBone" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeHipBone</Data>
+            <Data name="RobeHipBone" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeHipBone</Data>
+            <Data name="PantiesHipBone" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesHipBone</Data>
+            <Data name="BaseShapeCanalHipBone" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalHipBone</Data>
+            <Data name="BaseShapeVaginaHipBone" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaHipBone</Data>
+        </Slider>
+        <Slider name="HipForward" invert="false" small="0" big="0">
+            <Data name="BaseShapeHipForward" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeHipForward</Data>
+            <Data name="RobeHipForward" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeHipForward</Data>
+            <Data name="PantiesHipForward" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesHipForward</Data>
+            <Data name="BaseShapeCanalHipForward" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalHipForward</Data>
+            <Data name="BaseShapeAnusHipForward" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusHipForward</Data>
+            <Data name="BaseShapeVaginaHipForward" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaHipForward</Data>
+        </Slider>
+        <Slider name="HipUpperWidth" invert="false" small="0" big="0">
+            <Data name="BaseShapeHipUpperWidth" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeHipUpperWidth</Data>
+            <Data name="RobeHipUpperWidth" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeHipUpperWidth</Data>
+            <Data name="PantiesHipUpperWidth" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesHipUpperWidth</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" small="0" big="0">
+            <Data name="BaseShapeLegsThin" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeLegsThin</Data>
+            <Data name="RobeLegsThin" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeLegsThin</Data>
+            <Data name="PantiesLegsThin" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesLegsThin</Data>
+        </Slider>
+        <Slider name="MuscleArms" invert="false" small="0" big="0">
+            <Data name="BaseShapeMuscleArms" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeMuscleArms</Data>
+            <Data name="RobeMuscleArms" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeMuscleArms</Data>
+        </Slider>
+        <Slider name="MuscleLegs" invert="false" small="0" big="0">
+            <Data name="BaseShapeMuscleLegs" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeMuscleLegs</Data>
+            <Data name="RobeMuscleLegs" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeMuscleLegs</Data>
+            <Data name="PantiesMuscleLegs" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesMuscleLegs</Data>
+            <Data name="BaseShapeCanalMuscleLegs" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalMuscleLegs</Data>
+            <Data name="BaseShapeVaginaMuscleLegs" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaMuscleLegs</Data>
+        </Slider>
+        <Slider name="MuscleButt" invert="false" small="0" big="0">
+            <Data name="BaseShapeMuscleButt" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeMuscleButt</Data>
+            <Data name="RobeMuscleButt" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeMuscleButt</Data>
+            <Data name="PantiesMuscleButt" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesMuscleButt</Data>
+            <Data name="BaseShapeAnusMuscleButt" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusMuscleButt</Data>
+        </Slider>
+        <Slider name="MusclePecs" invert="false" small="0" big="0">
+            <Data name="BaseShapeMusclePecs" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeMusclePecs</Data>
+            <Data name="RobeMusclePecs" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeMusclePecs</Data>
+        </Slider>
+        <Slider name="MuscleAbs" invert="false" small="0" big="0">
+            <Data name="BaseShapeMuscleAbs" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeMuscleAbs</Data>
+            <Data name="RobeMuscleAbs" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeMuscleAbs</Data>
+            <Data name="PantiesMuscleAbs" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesMuscleAbs</Data>
+            <Data name="BaseShapeCanalMuscleAbs" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalMuscleAbs</Data>
+        </Slider>
+        <Slider name="NipplePuffyAreola" invert="false" small="0" big="0">
+            <Data name="BaseShapeNipplePuffyAreola" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeNipplePuffyAreola</Data>
+            <Data name="RobeNipplePuffyAreola" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeNipplePuffyAreola</Data>
+        </Slider>
+        <Slider name="PussyOpen" invert="false" small="0" big="0">
+            <Data name="BaseShapePussyOpen" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapePussyOpen</Data>
+            <Data name="RobePussyOpen" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobePussyOpen</Data>
+            <Data name="PantiesPussyOpen" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesPussyOpen</Data>
+            <Data name="BaseShapeCanalPussyOpen" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalPussyOpen</Data>
+            <Data name="BaseShapeVaginaPussyOpen" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaPussyOpen</Data>
+        </Slider>
+        <Slider name="PussyWide" invert="false" small="0" big="0">
+            <Data name="PantiesPussyWide" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesPussyWide</Data>
+            <Data name="BaseShapeCanalPussyWide" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalPussyWide</Data>
+            <Data name="BaseShapeVaginaPussyWide" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaPussyWide</Data>
+        </Slider>
+        <Slider name="RibsProminance" invert="false" small="0" big="0">
+            <Data name="BaseShapeRibsProminance" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeRibsProminance</Data>
+            <Data name="RobeRibsProminance" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeRibsProminance</Data>
+        </Slider>
+        <Slider name="ShoulderTweak" invert="false" small="0" big="0">
+            <Data name="BaseShapeShoulderTweak" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeShoulderTweak</Data>
+            <Data name="RobeShoulderTweak" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeShoulderTweak</Data>
+        </Slider>
+        <Slider name="SternumDepth" invert="false" small="0" big="0">
+            <Data name="BaseShapeSternumDepth" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeSternumDepth</Data>
+            <Data name="RobeSternumDepth" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeSternumDepth</Data>
+        </Slider>
+        <Slider name="SternumHeight" invert="false" small="0" big="0">
+            <Data name="BaseShapeSternumHeight" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeSternumHeight</Data>
+            <Data name="RobeSternumHeight" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeSternumHeight</Data>
+        </Slider>
+        <Slider name="Top Slope" invert="false" small="0" big="0">
+            <Data name="BaseShapeTop Slope" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeTop Slope</Data>
+            <Data name="RobeTop Slope" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeTop Slope</Data>
+        </Slider>
+        <Slider name="WaistHeight" invert="false" small="0" big="0">
+            <Data name="BaseShapeWaistHeight" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeWaistHeight</Data>
+            <Data name="RobeWaistHeight" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeWaistHeight</Data>
+            <Data name="PantiesWaistHeight" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesWaistHeight</Data>
+            <Data name="BaseShapeAnusWaistHeight" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusWaistHeight</Data>
+            <Data name="BaseShapeVaginaWaistHeight" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaWaistHeight</Data>
+        </Slider>
+        <Slider name="BreastsGone" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastsGone" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBreastsGone</Data>
+            <Data name="RobeBreastsGone" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeBreastsGone</Data>
+        </Slider>
+        <Slider name="BreastsPressed" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastsPressed" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBreastsPressed</Data>
+            <Data name="RobeBreastsPressed" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeBreastsPressed</Data>
+        </Slider>
+        <Slider name="ClitSpread" invert="false" small="0" big="0">
+            <Data name="BaseShapeClitSpread" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeClitSpread</Data>
+            <Data name="RobeClitSpread" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeClitSpread</Data>
+            <Data name="PantiesClitSpread" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesClitSpread</Data>
+            <Data name="BaseShapeVaginaClitSpread" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaClitSpread</Data>
+        </Slider>
+        <Slider name="BellyObesity" invert="false" small="0" big="0">
+            <Data name="BaseShapeBellyObesity" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBellyObesity</Data>
+            <Data name="RobeBellyObesity" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeBellyObesity</Data>
+            <Data name="PantiesBellyObesity" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesBellyObesity</Data>
+            <Data name="BaseShapeVaginaBellyObesity" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaBellyObesity</Data>
+        </Slider>
+        <Slider name="BellyLowerSwell1" invert="false" small="0" big="0">
+            <Data name="BaseShapeBellyLowerSwell1" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBellyLowerSwell1</Data>
+            <Data name="RobeBellyLowerSwell1" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeBellyLowerSwell1</Data>
+            <Data name="PantiesBellyLowerSwell1" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesBellyLowerSwell1</Data>
+        </Slider>
+        <Slider name="BellyLowerSwell2" invert="false" small="0" big="0">
+            <Data name="BaseShapeBellyLowerSwell2" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBellyLowerSwell2</Data>
+            <Data name="RobeBellyLowerSwell2" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeBellyLowerSwell2</Data>
+            <Data name="PantiesBellyLowerSwell2" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesBellyLowerSwell2</Data>
+            <Data name="BaseShapeVaginaBellyLowerSwell2" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaBellyLowerSwell2</Data>
+        </Slider>
+        <Slider name="BellyLowerSwell3" invert="false" small="0" big="0">
+            <Data name="BaseShapeBellyLowerSwell3" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBellyLowerSwell3</Data>
+            <Data name="RobeBellyLowerSwell3" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeBellyLowerSwell3</Data>
+            <Data name="PantiesBellyLowerSwell3" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesBellyLowerSwell3</Data>
+            <Data name="BaseShapeVaginaBellyLowerSwell3" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaBellyLowerSwell3</Data>
+        </Slider>
+        <Slider name="BellyCenterProtrude" invert="false" small="0" big="0">
+            <Data name="BaseShapeBellyCenterProtrude" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBellyCenterProtrude</Data>
+            <Data name="RobeBellyCenterProtrude" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeBellyCenterProtrude</Data>
+            <Data name="PantiesBellyCenterProtrude" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesBellyCenterProtrude</Data>
+            <Data name="BaseShapeVaginaBellyCenterProtrude" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaBellyCenterProtrude</Data>
+        </Slider>
+        <Slider name="BellyBalls" invert="false" small="0" big="0">
+            <Data name="BaseShapeBellyBalls" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBellyBalls</Data>
+            <Data name="RobeBellyBalls" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeBellyBalls</Data>
+            <Data name="PantiesBellyBalls" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesBellyBalls</Data>
+        </Slider>
+        <Slider name="BellyCenterUpperProtrude" invert="false" small="0" big="0">
+            <Data name="BaseShapeBellyCenterUpperProtrude" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBellyCenterUpperProtrude</Data>
+            <Data name="RobeBellyCenterUpperProtrude" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeBellyCenterUpperProtrude</Data>
+        </Slider>
+        <Slider name="NippleRightPinch" invert="false" small="0" big="0">
+            <Data name="BaseShapeNippleRightPinch" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeNippleRightPinch</Data>
+            <Data name="RobeNippleRightPinch" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeNippleRightPinch</Data>
+        </Slider>
+        <Slider name="NippleLeftPinch" invert="false" small="0" big="0">
+            <Data name="BaseShapeNippleLeftPinch" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeNippleLeftPinch</Data>
+            <Data name="RobeNippleLeftPinch" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeNippleLeftPinch</Data>
+        </Slider>
+        <Slider name="BellyFatLower" invert="false" small="0" big="0">
+            <Data name="BaseShapeBellyFatLower" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBellyFatLower</Data>
+            <Data name="RobeBellyFatLower" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeBellyFatLower</Data>
+            <Data name="PantiesBellyFatLower" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesBellyFatLower</Data>
+            <Data name="BaseShapeVaginaBellyFatLower" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaBellyFatLower</Data>
+        </Slider>
+        <Slider name="BellyFatUpper" invert="false" small="0" big="0">
+            <Data name="BaseShapeBellyFatUpper" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBellyFatUpper</Data>
+            <Data name="RobeBellyFatUpper" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeBellyFatUpper</Data>
+        </Slider>
+        <Slider name="Clit" invert="false" small="0" big="0">
+            <Data name="RobeClit" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeClit</Data>
+            <Data name="PantiesClit" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesClit</Data>
+            <Data name="BaseShapeVaginaClit" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaClit</Data>
+        </Slider>
+        <Slider name="BellyUnder" invert="false" small="0" big="0">
+            <Data name="BaseShapeBellyUnder" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBellyUnder</Data>
+            <Data name="RobeBellyUnder" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeBellyUnder</Data>
+            <Data name="PantiesBellyUnder" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesBellyUnder</Data>
+        </Slider>
+        <Slider name="ButtSaggy" invert="false" small="0" big="0">
+            <Data name="BaseShapeButtSaggy" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeButtSaggy</Data>
+            <Data name="RobeButtSaggy" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeButtSaggy</Data>
+            <Data name="PantiesButtSaggy" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesButtSaggy</Data>
+            <Data name="BaseShapeAnusButtSaggy" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusButtSaggy</Data>
+        </Slider>
+        <Slider name="ButtDimples" invert="false" small="0" big="0">
+            <Data name="BaseShapeButtDimples" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeButtDimples</Data>
+            <Data name="RobeButtDimples" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeButtDimples</Data>
+        </Slider>
+        <Slider name="ButtUnderFold" invert="false" small="0" big="0">
+            <Data name="BaseShapeButtUnderFold" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeButtUnderFold</Data>
+            <Data name="RobeButtUnderFold" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeButtUnderFold</Data>
+            <Data name="PantiesButtUnderFold" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesButtUnderFold</Data>
+        </Slider>
+        <Slider name="HipCarved" invert="false" small="0" big="0">
+            <Data name="BaseShapeHipCarved" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeHipCarved</Data>
+            <Data name="RobeHipCarved" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeHipCarved</Data>
+            <Data name="PantiesHipCarved" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesHipCarved</Data>
+        </Slider>
+        <Slider name="HipNarrow" invert="false" small="0" big="0">
+            <Data name="BaseShapeHipNarrow" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeHipNarrow</Data>
+            <Data name="RobeHipNarrow" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeHipNarrow</Data>
+            <Data name="PantiesHipNarrow" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesHipNarrow</Data>
+        </Slider>
+        <Slider name="NavelEven" invert="false" small="0" big="0">
+            <Data name="BaseShapeNavelEven" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeNavelEven</Data>
+            <Data name="RobeNavelEven" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeNavelEven</Data>
+        </Slider>
+        <Slider name="NipplePerkManga" invert="false" small="0" big="0">
+            <Data name="BaseShapeNipplePerkManga" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeNipplePerkManga</Data>
+            <Data name="RobeNipplePerkManga" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeNipplePerkManga</Data>
+        </Slider>
+        <Slider name="NippleThicc" invert="false" small="0" big="0">
+            <Data name="BaseShapeNippleThicc" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeNippleThicc</Data>
+            <Data name="RobeNippleThicc" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeNippleThicc</Data>
+        </Slider>
+        <Slider name="RibsMore" invert="false" small="0" big="0">
+            <Data name="BaseShapeRibsMore" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeRibsMore</Data>
+            <Data name="RobeRibsMore" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeRibsMore</Data>
+        </Slider>
+        <Slider name="ThighInnerThicker" invert="false" small="0" big="0">
+            <Data name="BaseShapeThighInnerThicker" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeThighInnerThicker</Data>
+            <Data name="RobeThighInnerThicker" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeThighInnerThicker</Data>
+            <Data name="PantiesThighInnerThicker" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesThighInnerThicker</Data>
+        </Slider>
+        <Slider name="ThighFBThicker" invert="false" small="0" big="0">
+            <Data name="BaseShapeThighFBThicker" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeThighFBThicker</Data>
+            <Data name="RobeThighFBThicker" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeThighFBThicker</Data>
+            <Data name="PantiesThighFBThicker" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesThighFBThicker</Data>
+        </Slider>
+        <Slider name="LegSpread" invert="false" small="0" big="0">
+            <Data name="BaseShapeLegSpread" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeLegSpread</Data>
+            <Data name="RobeLegSpread" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeLegSpread</Data>
+            <Data name="PantiesLegSpread" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesLegSpread</Data>
+            <Data name="BaseShapeVaginaLegSpread" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaLegSpread</Data>
+        </Slider>
+        <Slider name="BreastSaggy" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastSaggy" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBreastSaggy</Data>
+            <Data name="RobeBreastSaggy" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeBreastSaggy</Data>
+        </Slider>
+        <Slider name="BreastsSpread" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastsSpread" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBreastsSpread</Data>
+            <Data name="RobeBreastsSpread" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeBreastsSpread</Data>
+        </Slider>
+        <Slider name="ButtConverge" invert="false" small="0" big="0">
+            <Data name="BaseShapeButtConverge" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeButtConverge</Data>
+            <Data name="RobeButtConverge" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeButtConverge</Data>
+            <Data name="PantiesButtConverge" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesButtConverge</Data>
+        </Slider>
+        <Slider name="AnalPositionlow" invert="false" small="0" big="0">
+            <Data name="BaseShapeAnalPositionlow" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnalPositionlow</Data>
+            <Data name="RobeAnalPositionlow" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeAnalPositionlow</Data>
+            <Data name="PantiesAnalPositionlow" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesAnalPositionlow</Data>
+            <Data name="BaseShapeAnusAnalPositionlow" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusAnalPositionlow</Data>
+        </Slider>
+        <Slider name="LabiaStretch" invert="false" small="0" big="0">
+            <Data name="BaseShapeLabiaStretch" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeLabiaStretch</Data>
+            <Data name="PantiesLabiaStretch" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesLabiaStretch</Data>
+            <Data name="BaseShapeCanalLabiaStretch" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalLabiaStretch</Data>
+            <Data name="BaseShapeVaginaLabiaStretch" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaLabiaStretch</Data>
+        </Slider>
+        <Slider name="CrotchGap" invert="false" small="0" big="0">
+            <Data name="BaseShapeCrotchGap" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCrotchGap</Data>
+            <Data name="RobeCrotchGap" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeCrotchGap</Data>
+            <Data name="PantiesCrotchGap" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesCrotchGap</Data>
+            <Data name="BaseShapeCanalCrotchGap" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalCrotchGap</Data>
+            <Data name="BaseShapeAnusCrotchGap" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusCrotchGap</Data>
+            <Data name="BaseShapeVaginaCrotchGap" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaCrotchGap</Data>
+        </Slider>
+        <Slider name="ArmpitShape" invert="false" small="0" big="0">
+            <Data name="BaseShapeArmpitShape" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeArmpitShape</Data>
+            <Data name="RobeArmpitShape" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeArmpitShape</Data>
+            <Data name="PantiesArmpitShape" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesArmpitShape</Data>
+        </Slider>
+        <Slider name="ClitorisPrepuce" invert="false" small="0" big="0">
+            <Data name="BaseShapeClitorisPrepuce" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeClitorisPrepuce</Data>
+            <Data name="RobeClitorisPrepuce" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeClitorisPrepuce</Data>
+            <Data name="PantiesClitorisPrepuce" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesClitorisPrepuce</Data>
+            <Data name="BaseShapeVaginaClitorisPrepuce" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaClitorisPrepuce</Data>
+        </Slider>
+        <Slider name="BreastDiameter" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastDiameter" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBreastDiameter</Data>
+            <Data name="RobeBreastDiameter" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeBreastDiameter</Data>
+        </Slider>
+        <Slider name="Biceps" invert="false" small="0" big="0">
+            <Data name="BaseShapeBiceps" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBiceps</Data>
+            <Data name="RobeBiceps" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeBiceps</Data>
+        </Slider>
+        <Slider name="ClaviclesSize" invert="false" small="0" big="0">
+            <Data name="BaseShapeClaviclesSize" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeClaviclesSize</Data>
+            <Data name="RobeClaviclesSize" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeClaviclesSize</Data>
+        </Slider>
+        <Slider name="ClaviclesFront" invert="false" small="0" big="0">
+            <Data name="BaseShapeClaviclesFront" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeClaviclesFront</Data>
+            <Data name="RobeClaviclesFront" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeClaviclesFront</Data>
+        </Slider>
+        <Slider name="ClaviclesAngle" invert="false" small="0" big="0">
+            <Data name="BaseShapeClaviclesAngle" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeClaviclesAngle</Data>
+            <Data name="RobeClaviclesAngle" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeClaviclesAngle</Data>
+        </Slider>
+        <Slider name="BellyDefine" invert="false" small="0" big="0">
+            <Data name="BaseShapeBellyDefine" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBellyDefine</Data>
+            <Data name="RobeBellyDefine" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeBellyDefine</Data>
+            <Data name="PantiesBellyDefine" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesBellyDefine</Data>
+        </Slider>
+        <Slider name="RectusOuterDetail" invert="false" small="0" big="0">
+            <Data name="BaseShapeRectusOuterDetail" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeRectusOuterDetail</Data>
+            <Data name="RobeRectusOuterDetail" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeRectusOuterDetail</Data>
+            <Data name="PantiesRectusOuterDetail" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesRectusOuterDetail</Data>
+        </Slider>
+        <Slider name="RectusAbdominis" invert="false" small="0" big="0">
+            <Data name="BaseShapeRectusAbdominis" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeRectusAbdominis</Data>
+            <Data name="RobeRectusAbdominis" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeRectusAbdominis</Data>
+            <Data name="PantiesRectusAbdominis" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesRectusAbdominis</Data>
+        </Slider>
+        <Slider name="AnusSize" invert="false" small="0" big="0">
+            <Data name="BaseShapeAnusSize" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusSize</Data>
+            <Data name="RobeAnusSize" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeAnusSize</Data>
+            <Data name="PantiesAnusSize" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesAnusSize</Data>
+            <Data name="BaseShapeAnusAnusSize" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusAnusSize</Data>
+        </Slider>
+        <Slider name="ThighApart" invert="false" small="0" big="0">
+            <Data name="BaseShapeThighApart" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeThighApart</Data>
+            <Data name="RobeThighApart" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeThighApart</Data>
+            <Data name="PantiesThighApart" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesThighApart</Data>
+            <Data name="BaseShapeCanalThighApart" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalThighApart</Data>
+            <Data name="BaseShapeVaginaThighApart" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaThighApart</Data>
+        </Slider>
+        <Slider name="ThighOuter" invert="false" small="0" big="0">
+            <Data name="BaseShapeThighOuter" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeThighOuter</Data>
+            <Data name="RobeThighOuter" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeThighOuter</Data>
+            <Data name="PantiesThighOuter" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesThighOuter</Data>
+        </Slider>
+        <Slider name="ThighThicker" invert="false" small="0" big="0">
+            <Data name="BaseShapeThighThicker" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeThighThicker</Data>
+            <Data name="RobeThighThicker" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeThighThicker</Data>
+            <Data name="PantiesThighThicker" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesThighThicker</Data>
+        </Slider>
+        <Slider name="Sartorius" invert="false" small="0" big="0">
+            <Data name="BaseShapeSartorius" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeSartorius</Data>
+            <Data name="RobeSartorius" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeSartorius</Data>
+            <Data name="PantiesSartorius" target="Panties" local="true">Summon Mistress Vaeloria Outfit.osd\PantiesSartorius</Data>
+        </Slider>
+        <Slider name="RectusFemoris" invert="false" small="0" big="0">
+            <Data name="BaseShapeRectusFemoris" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeRectusFemoris</Data>
+            <Data name="RobeRectusFemoris" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeRectusFemoris</Data>
+        </Slider>
+        <Slider name="VastusLateralis" invert="false" small="0" big="0">
+            <Data name="BaseShapeVastusLateralis" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVastusLateralis</Data>
+            <Data name="RobeVastusLateralis" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeVastusLateralis</Data>
+        </Slider>
+        <Slider name="Hamstrings" invert="false" small="0" big="0">
+            <Data name="BaseShapeHamstrings" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeHamstrings</Data>
+            <Data name="RobeHamstrings" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeHamstrings</Data>
+        </Slider>
+        <Slider name="BicepsFemoris" invert="false" small="0" big="0">
+            <Data name="BaseShapeBicepsFemoris" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBicepsFemoris</Data>
+            <Data name="RobeBicepsFemoris" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeBicepsFemoris</Data>
+        </Slider>
+        <Slider name="Clavicle" invert="false" small="0" big="0">
+            <Data name="BaseShapeClavicle" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeClavicle</Data>
+            <Data name="RobeClavicle" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeClavicle</Data>
+        </Slider>
+        <Slider name="AreolaPull" invert="false" small="0" big="0">
+            <Data name="BaseShapeAreolaPull" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAreolaPull</Data>
+            <Data name="RobeAreolaPull" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeAreolaPull</Data>
+        </Slider>
+        <Slider name="BackValley" invert="false" small="0" big="0">
+            <Data name="BaseShapeBackValley" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBackValley</Data>
+            <Data name="RobeBackValley" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeBackValley</Data>
+        </Slider>
+        <Slider name="BackWing" invert="false" small="0" big="0">
+            <Data name="BaseShapeBackWing" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBackWing</Data>
+            <Data name="RobeBackWing" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeBackWing</Data>
+        </Slider>
+        <Slider name="BreastSideShape" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastSideShape" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBreastSideShape</Data>
+            <Data name="RobeBreastSideShape" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeBreastSideShape</Data>
+        </Slider>
+        <Slider name="BreastUnderDepth" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastUnderDepth" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBreastUnderDepth</Data>
+            <Data name="RobeBreastUnderDepth" target="Robe" local="true">Summon Mistress Vaeloria Outfit.osd\RobeBreastUnderDepth</Data>
+        </Slider>
+        <Slider name="AnusSpread" invert="false" small="0" big="0">
+            <Data name="BaseShapeAnusSpread" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusSpread</Data>
+            <Data name="BaseShapeCanalAnusSpread" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalAnusSpread</Data>
+            <Data name="BaseShapeAnusAnusSpread" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusAnusSpread</Data>
+        </Slider>
+        <Slider name="BellyPressed" invert="false" small="0" big="0">
+            <Data name="BaseShapeBellyPressed" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBellyPressed</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="BaseShapeCalfSize" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="BaseShapeCalfSmooth" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCalfSmooth</Data>
+        </Slider>
+        <Slider name="KneeShape" invert="false" small="0" big="0">
+            <Data name="BaseShapeKneeShape" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeKneeShape</Data>
+        </Slider>
+        <Slider name="KneeSlim" invert="false" small="0" big="0">
+            <Data name="BaseShapeKneeSlim" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeKneeSlim</Data>
+        </Slider>
+        <Slider name="LeftBreastFuck" invert="false" small="0" big="0">
+            <Data name="BaseShapeLeftBreastFuck" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeLeftBreastFuck</Data>
+            <Data name="BaseShapeVaginaLeftBreastFuck" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaLeftBreastFuck</Data>
+        </Slider>
+        <Slider name="NipBGone" invert="false" small="0" big="0">
+            <Data name="BaseShapeNipBGone" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeNipBGone</Data>
+        </Slider>
+        <Slider name="NippleInverted" invert="false" small="0" big="0">
+            <Data name="BaseShapeNippleInverted" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeNippleInverted</Data>
+        </Slider>
+        <Slider name="NippleLeftPressed" invert="false" small="0" big="0">
+            <Data name="BaseShapeNippleLeftPressed" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeNippleLeftPressed</Data>
+        </Slider>
+        <Slider name="NippleRightPressed" invert="false" small="0" big="0">
+            <Data name="BaseShapeNippleRightPressed" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeNippleRightPressed</Data>
+        </Slider>
+        <Slider name="PussyClipFix" invert="false" small="0" big="0">
+            <Data name="BaseShapePussyClipFix" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapePussyClipFix</Data>
+            <Data name="BaseShapeCanalPussyClipFix" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalPussyClipFix</Data>
+            <Data name="BaseShapeVaginaPussyClipFix" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaPussyClipFix</Data>
+        </Slider>
+        <Slider name="RightBreastFuck" invert="false" small="0" big="0">
+            <Data name="BaseShapeRightBreastFuck" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeRightBreastFuck</Data>
+            <Data name="BaseShapeVaginaRightBreastFuck" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaRightBreastFuck</Data>
+        </Slider>
+        <Slider name="VastusMedialis" invert="false" small="0" big="0">
+            <Data name="BaseShapeVastusMedialis" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVastusMedialis</Data>
+        </Slider>
+        <Slider name="Soleus" invert="false" small="0" big="0">
+            <Data name="BaseShapeSoleus" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeSoleus</Data>
+        </Slider>
+        <Slider name="PussyClosed" invert="false" small="0" big="0">
+            <Data name="BaseShapeCanalPussyClosed" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalPussyClosed</Data>
+            <Data name="BaseShapeVaginaPussyClosed" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaPussyClosed</Data>
+        </Slider>
+        <Slider name="NeckSmooth" invert="false" small="0" big="0">
+            <Data name="BaseShapeNeckSmooth" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeNeckSmooth</Data>
+        </Slider>
+    </SliderSet>
+    <SliderSet name="Summon Mistress Vaeloria Boots">
+        <DataFolder>Summon Mistress</DataFolder>
+        <SourceFile>Summon Mistress Vaeloria Boots.nif</SourceFile>
+        <OutputPath>\Meshes\Summon_Mistress_Meshes\outfit</OutputPath>
+        <OutputFile GenWeights="true">vaeloria_boots</OutputFile>
+        <Shape target="Boots">Boots</Shape>
+        <Shape target="Socks">Socks</Shape>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="Socks7B Low" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\Socks7B Low</Data>
+            <Data name="Boots7B Low" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\Boots7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="Socks7B High" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\Socks7B High</Data>
+            <Data name="Boots7B High" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\Boots7B High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="Socks7BUNP Low" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\Socks7BUNP Low</Data>
+            <Data name="Boots7BUNP Low" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\Boots7BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="Socks7BUNP High" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\Socks7BUNP High</Data>
+            <Data name="Boots7BUNP High" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\Boots7BUNP High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="Socks7B Bombshell Low" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\Socks7B Bombshell Low</Data>
+            <Data name="Boots7B Bombshell Low" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\Boots7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="Socks7B Bombshell High" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\Socks7B Bombshell High</Data>
+            <Data name="Boots7B Bombshell High" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\Boots7B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="Socks7B Natural Low" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\Socks7B Natural Low</Data>
+            <Data name="Boots7B Natural Low" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\Boots7B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="Socks7B Natural High" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\Socks7B Natural High</Data>
+            <Data name="Boots7B Natural High" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\Boots7B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="Socks7B Cleavage Low" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\Socks7B Cleavage Low</Data>
+            <Data name="Boots7B Cleavage Low" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\Boots7B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="Socks7B Cleavage High" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\Socks7B Cleavage High</Data>
+            <Data name="Boots7B Cleavage High" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\Boots7B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="Socks7B BCup Low" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\Socks7B BCup Low</Data>
+            <Data name="Boots7B BCup Low" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\Boots7B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="Socks7B BCup High" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\Socks7B BCup High</Data>
+            <Data name="Boots7B BCup High" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\Boots7B BCup High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="Socks7B Oppai Low" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\Socks7B Oppai Low</Data>
+            <Data name="Boots7B Oppai Low" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\Boots7B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="Socks7B Oppai High" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\Socks7B Oppai High</Data>
+            <Data name="Boots7B Oppai High" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\Boots7B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="Socks7B CH Low" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\Socks7B CH Low</Data>
+            <Data name="Boots7B CH Low" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\Boots7B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="Socks7B CH High" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\Socks7B CH High</Data>
+            <Data name="Boots7B CH High" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\Boots7B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="SocksUNP Low" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksUNP Low</Data>
+            <Data name="BootsUNP Low" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="SocksUNP High" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksUNP High</Data>
+            <Data name="BootsUNP High" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsUNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="SocksUNP Pushup Low" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksUNP Pushup Low</Data>
+            <Data name="BootsUNP Pushup Low" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsUNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="SocksUNP Pushup High" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksUNP Pushup High</Data>
+            <Data name="BootsUNP Pushup High" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsUNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="SocksUNP Skinny Low" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksUNP Skinny Low</Data>
+            <Data name="BootsUNP Skinny Low" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsUNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="SocksUNP Skinny High" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksUNP Skinny High</Data>
+            <Data name="BootsUNP Skinny High" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsUNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="SocksUNP Perky Low" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksUNP Perky Low</Data>
+            <Data name="BootsUNP Perky Low" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsUNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="SocksUNP Perky High" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksUNP Perky High</Data>
+            <Data name="BootsUNP Perky High" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsUNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="SocksUNPB Low" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksUNPB Low</Data>
+            <Data name="BootsUNPB Low" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="SocksUNPB High" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksUNPB High</Data>
+            <Data name="BootsUNPB High" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="SocksUNPB Oppai v3.2 Low" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksUNPB Oppai v3.2 Low</Data>
+            <Data name="BootsUNPB Oppai v3.2 Low" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="SocksUNPB Oppai v3.2 High" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksUNPB Oppai v3.2 High</Data>
+            <Data name="BootsUNPB Oppai v3.2 High" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="SocksUNPetite Low" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksUNPetite Low</Data>
+            <Data name="BootsUNPetite Low" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsUNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="SocksUNPetite High" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksUNPetite High</Data>
+            <Data name="BootsUNPetite High" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsUNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="SocksUNPC Low" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksUNPC Low</Data>
+            <Data name="BootsUNPC Low" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="SocksUNPC High" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksUNPC High</Data>
+            <Data name="BootsUNPC High" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsUNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="SocksUNPCM Low" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksUNPCM Low</Data>
+            <Data name="BootsUNPCM Low" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsUNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="SocksUNPCM High" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksUNPCM High</Data>
+            <Data name="BootsUNPCM High" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsUNPCM High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="SocksUNPK Low" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksUNPK Low</Data>
+            <Data name="BootsUNPK Low" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsUNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="SocksUNPK High" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksUNPK High</Data>
+            <Data name="BootsUNPK High" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsUNPK High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="SocksUN7B Low" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksUN7B Low</Data>
+            <Data name="BootsUN7B Low" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsUN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="SocksUN7B High" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksUN7B High</Data>
+            <Data name="BootsUN7B High" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsUN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="SocksUNPBB Low" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksUNPBB Low</Data>
+            <Data name="BootsUNPBB Low" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsUNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="SocksUNPBB High" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksUNPBB High</Data>
+            <Data name="BootsUNPBB High" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsUNPBB High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="SocksTop Model Low" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksTop Model Low</Data>
+            <Data name="BootsTop Model Low" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="SocksTop Model High" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksTop Model High</Data>
+            <Data name="BootsTop Model High" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsTop Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="SocksLeito Low" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksLeito Low</Data>
+            <Data name="BootsLeito Low" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsLeito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="SocksLeito High" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksLeito High</Data>
+            <Data name="BootsLeito High" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsLeito High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="SocksMCBM Low" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksMCBM Low</Data>
+            <Data name="BootsMCBM Low" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsMCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="SocksMCBM High" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksMCBM High</Data>
+            <Data name="BootsMCBM High" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsMCBM High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="SocksManga Low" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksManga Low</Data>
+            <Data name="BootsManga Low" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsManga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="SocksManga High" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksManga High</Data>
+            <Data name="BootsManga High" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsManga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="SocksCHSBHC Low" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksCHSBHC Low</Data>
+            <Data name="BootsCHSBHC Low" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsCHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="SocksCHSBHC High" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksCHSBHC High</Data>
+            <Data name="BootsCHSBHC High" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsCHSBHC High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="SocksZGGB-R2 Low" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksZGGB-R2 Low</Data>
+            <Data name="BootsZGGB-R2 Low" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="SocksZGGB-R2 High" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksZGGB-R2 High</Data>
+            <Data name="BootsZGGB-R2 High" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Aruru6Duck Low" invert="false" small="0" big="0">
+            <Data name="SocksAruru6Duck Low" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksAruru6Duck Low</Data>
+            <Data name="BootsAruru6Duck Low" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsAruru6Duck Low</Data>
+        </Slider>
+        <Slider name="Aruru6Duck High" invert="false" small="0" big="0">
+            <Data name="SocksAruru6Duck High" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksAruru6Duck High</Data>
+            <Data name="BootsAruru6Duck High" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsAruru6Duck High</Data>
+        </Slider>
+        <Slider name="BellyObesity" invert="false" small="0" big="0">
+            <Data name="SocksBellyObesity" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksBellyObesity</Data>
+        </Slider>
+        <Slider name="BreastConverge" invert="false" small="0" big="0">
+            <Data name="SocksBreastConverge" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksBreastConverge</Data>
+            <Data name="BootsBreastConverge" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsBreastConverge</Data>
+        </Slider>
+        <Slider name="Butt" invert="true" small="100" big="100">
+            <Data name="SocksButt" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksButt</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="true" small="100" big="100">
+            <Data name="SocksButtSmall" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksButtSmall</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="SocksButtShape2" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksButtShape2</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="SocksBigButt" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksBigButt</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="SocksCalfSize" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksCalfSize</Data>
+            <Data name="BootsCalfSize" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="SocksCalfSmooth" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksCalfSmooth</Data>
+            <Data name="BootsCalfSmooth" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsCalfSmooth</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="SocksChubbyLegs" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksChubbyLegs</Data>
+            <Data name="BootsChubbyLegs" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsChubbyLegs</Data>
+        </Slider>
+        <Slider name="CrotchBack" invert="false" small="0" big="0">
+            <Data name="SocksCrotchBack" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksCrotchBack</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="SocksChubbyButt" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksChubbyButt</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="SocksHips" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksHips</Data>
+        </Slider>
+        <Slider name="HipForward" invert="false" small="0" big="0">
+            <Data name="SocksHipForward" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksHipForward</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="SocksKneeHeight" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksKneeHeight</Data>
+            <Data name="BootsKneeHeight" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsKneeHeight</Data>
+        </Slider>
+        <Slider name="KneeShape" invert="false" small="0" big="0">
+            <Data name="SocksKneeShape" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksKneeShape</Data>
+            <Data name="BootsKneeShape" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsKneeShape</Data>
+        </Slider>
+        <Slider name="KneeSlim" invert="false" small="0" big="0">
+            <Data name="SocksKneeSlim" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksKneeSlim</Data>
+            <Data name="BootsKneeSlim" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsKneeSlim</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="SocksLegs" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksLegs</Data>
+            <Data name="BootsLegs" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsLegs</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" small="0" big="0">
+            <Data name="SocksLegsThin" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksLegsThin</Data>
+            <Data name="BootsLegsThin" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsLegsThin</Data>
+        </Slider>
+        <Slider name="MuscleLegs" invert="false" small="0" big="0">
+            <Data name="SocksMuscleLegs" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksMuscleLegs</Data>
+            <Data name="BootsMuscleLegs" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsMuscleLegs</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="SocksSlimThighs" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksSlimThighs</Data>
+            <Data name="BootsSlimThighs" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsSlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="SocksThighs" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksThighs</Data>
+            <Data name="BootsThighs" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsThighs</Data>
+        </Slider>
+        <Slider name="HighHeel" invert="false" small="0" big="0">
+            <Data name="BootsHighHeel" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsHighHeel</Data>
+        </Slider>
+        <Slider name="ThighInnerThicker" invert="false" small="0" big="0">
+            <Data name="SocksThighInnerThicker" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksThighInnerThicker</Data>
+        </Slider>
+        <Slider name="ThighFBThicker" invert="false" small="0" big="0">
+            <Data name="SocksThighFBThicker" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksThighFBThicker</Data>
+        </Slider>
+        <Slider name="LegSpread" invert="false" small="0" big="0">
+            <Data name="SocksLegSpread" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksLegSpread</Data>
+            <Data name="BootsLegSpread" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsLegSpread</Data>
+        </Slider>
+        <Slider name="CrotchGap" invert="false" small="0" big="0">
+            <Data name="SocksCrotchGap" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksCrotchGap</Data>
+        </Slider>
+        <Slider name="ThighApart" invert="false" small="0" big="0">
+            <Data name="SocksThighApart" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksThighApart</Data>
+        </Slider>
+        <Slider name="ThighOuter" invert="false" small="0" big="0">
+            <Data name="SocksThighOuter" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksThighOuter</Data>
+        </Slider>
+        <Slider name="ThighThicker" invert="false" small="0" big="0">
+            <Data name="SocksThighThicker" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksThighThicker</Data>
+        </Slider>
+        <Slider name="Sartorius" invert="false" small="0" big="0">
+            <Data name="SocksSartorius" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksSartorius</Data>
+        </Slider>
+        <Slider name="RectusFemoris" invert="false" small="0" big="0">
+            <Data name="SocksRectusFemoris" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksRectusFemoris</Data>
+        </Slider>
+        <Slider name="VastusLateralis" invert="false" small="0" big="0">
+            <Data name="SocksVastusLateralis" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksVastusLateralis</Data>
+        </Slider>
+        <Slider name="VastusMedialis" invert="false" small="0" big="0">
+            <Data name="SocksVastusMedialis" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksVastusMedialis</Data>
+        </Slider>
+        <Slider name="Hamstrings" invert="false" small="0" big="0">
+            <Data name="SocksHamstrings" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksHamstrings</Data>
+        </Slider>
+        <Slider name="BicepsFemoris" invert="false" small="0" big="0">
+            <Data name="SocksBicepsFemoris" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksBicepsFemoris</Data>
+        </Slider>
+        <Slider name="Soleus" invert="false" small="0" big="0">
+            <Data name="SocksSoleus" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksSoleus</Data>
+            <Data name="BootsSoleus" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsSoleus</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
