@@ -1130,7 +1130,7 @@
     <SliderSet name="Summon Mistress Vaeloria Boots">
         <DataFolder>Summon Mistress</DataFolder>
         <SourceFile>Summon Mistress Vaeloria Boots.nif</SourceFile>
-        <OutputPath>\Meshes\Summon_Mistress_Meshes\outfit</OutputPath>
+        <OutputPath>Meshes\Summon_Mistress_Meshes\outfit</OutputPath>
         <OutputFile GenWeights="true">vaeloria_boots</OutputFile>
         <Shape target="Boots">Boots</Shape>
         <Shape target="Socks">Socks</Shape>
@@ -1471,6 +1471,914 @@
         <Slider name="Soleus" invert="false" small="0" big="0">
             <Data name="SocksSoleus" target="Socks" local="true">Summon Mistress Vaeloria Boots.osd\SocksSoleus</Data>
             <Data name="BootsSoleus" target="Boots" local="true">Summon Mistress Vaeloria Boots.osd\BootsSoleus</Data>
+        </Slider>
+    </SliderSet>
+    <SliderSet name="Summon Mistress Vaeloria Outfit 3BA">
+        <DataFolder>Summon Mistress</DataFolder>
+        <SourceFile>Summon Mistress Vaeloria Outfit 3BA.nif</SourceFile>
+        <OutputPath>Meshes\Summon_Mistress_Meshes\outfit</OutputPath>
+        <OutputFile GenWeights="true">vaeloria_outfit</OutputFile>
+        <Shape target="3BA" DataFolder="Vampire Royal Armor 2 MDSE">3BA</Shape>
+        <Shape target="3BA_Anus">3BA_Anus</Shape>
+        <Shape target="3BA_Vagina">3BA_Vagina</Shape>
+        <Shape target="Panties">Panties</Shape>
+        <Shape target="vampire_robes_alt">vampire_robes_alt</Shape>
+        <Slider name="AnkleSize" invert="false" small="100" big="0">
+            <Data name="3BAAnkleSize" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAAnkleSize</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <Data name="3BAAppleCheeks" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAAppleCheeks</Data>
+            <Data name="vampire_robes_altAppleCheeks" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altAppleCheeks</Data>
+            <Data name="PantiesAppleCheeks" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesAppleCheeks</Data>
+            <Data name="3BA_VaginaAppleCheeks" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaAppleCheeks</Data>
+            <Data name="3BA_AnusAppleCheeks" target="3BA_Anus" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_AnusAppleCheeks</Data>
+        </Slider>
+        <Slider name="AreolaSize" invert="false" small="0" big="0" uv="true">
+            <Data name="3BAAreolaSize" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAAreolaSize</Data>
+        </Slider>
+        <Slider name="Arms" invert="false" small="0" big="0">
+            <Data name="3BAArms" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAArms</Data>
+            <Data name="vampire_robes_altArms" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altArms</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="3BABack" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BABack</Data>
+            <Data name="vampire_robes_altBack" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altBack</Data>
+            <Data name="PantiesBack" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesBack</Data>
+        </Slider>
+        <Slider name="BackArch" invert="false" small="0" big="0">
+            <Data name="3BABackArch" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BABackArch</Data>
+            <Data name="vampire_robes_altBackArch" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altBackArch</Data>
+            <Data name="PantiesBackArch" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesBackArch</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" small="0" big="0">
+            <Data name="3BABelly" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BABelly</Data>
+            <Data name="vampire_robes_altBelly" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altBelly</Data>
+            <Data name="PantiesBelly" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesBelly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <Data name="3BABigBelly" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BABigBelly</Data>
+            <Data name="vampire_robes_altBigBelly" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altBigBelly</Data>
+            <Data name="PantiesBigBelly" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesBigBelly</Data>
+            <Data name="3BA_VaginaBigBelly" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaBigBelly</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="3BABigButt" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BABigButt</Data>
+            <Data name="vampire_robes_altBigButt" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altBigButt</Data>
+            <Data name="PantiesBigButt" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesBigButt</Data>
+            <Data name="3BA_VaginaBigButt" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaBigButt</Data>
+            <Data name="3BA_AnusBigButt" target="3BA_Anus" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_AnusBigButt</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="3BABigTorso" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BABigTorso</Data>
+            <Data name="vampire_robes_altBigTorso" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altBigTorso</Data>
+            <Data name="PantiesBigTorso" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesBigTorso</Data>
+        </Slider>
+        <Slider name="BreastCenter" invert="false" small="0" big="0">
+            <Data name="3BABreastCenter" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BABreastCenter</Data>
+            <Data name="vampire_robes_altBreastCenter" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altBreastCenter</Data>
+        </Slider>
+        <Slider name="BreastCenterBig" invert="false" small="0" big="0">
+            <Data name="3BABreastCenterBig" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BABreastCenterBig</Data>
+            <Data name="vampire_robes_altBreastCenterBig" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altBreastCenterBig</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="3BABreastCleavage" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BABreastCleavage</Data>
+            <Data name="vampire_robes_altBreastCleavage" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altBreastCleavage</Data>
+            <Data name="PantiesBreastCleavage" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesBreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastFlatness2" invert="false" small="0" big="0">
+            <Data name="3BABreastFlatness2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BABreastFlatness2</Data>
+            <Data name="vampire_robes_altBreastFlatness2" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altBreastFlatness2</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="3BABreastFlatness" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BABreastFlatness</Data>
+            <Data name="vampire_robes_altBreastFlatness" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altBreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity2" invert="false" small="0" big="0">
+            <Data name="3BABreastGravity2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BABreastGravity2</Data>
+            <Data name="vampire_robes_altBreastGravity2" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altBreastGravity2</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="3BABreastHeight" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BABreastHeight</Data>
+            <Data name="vampire_robes_altBreastHeight" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altBreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="3BABreastPerkiness" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BABreastPerkiness</Data>
+            <Data name="vampire_robes_altBreastPerkiness" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altBreastPerkiness</Data>
+        </Slider>
+        <Slider name="Breasts" invert="false" small="0" big="0">
+            <Data name="3BABreasts" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BABreasts</Data>
+            <Data name="vampire_robes_altBreasts" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altBreasts</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="3BABreastsFantasy" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BABreastsFantasy</Data>
+            <Data name="vampire_robes_altBreastsFantasy" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altBreastsFantasy</Data>
+        </Slider>
+        <Slider name="BreastsGone" invert="false" small="0" big="0">
+            <Data name="3BABreastsGone" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BABreastsGone</Data>
+            <Data name="vampire_robes_altBreastsGone" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altBreastsGone</Data>
+        </Slider>
+        <Slider name="BreastsNewSH" invert="false" small="0" big="0">
+            <Data name="3BABreastsNewSH" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BABreastsNewSH</Data>
+            <Data name="vampire_robes_altBreastsNewSH" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altBreastsNewSH</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="false" small="0" big="0">
+            <Data name="3BABreastsSmall" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BABreastsSmall</Data>
+            <Data name="vampire_robes_altBreastsSmall" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altBreastsSmall</Data>
+            <Data name="PantiesBreastsSmall" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesBreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSmall2" invert="false" small="0" big="0">
+            <Data name="3BABreastsSmall2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BABreastsSmall2</Data>
+            <Data name="vampire_robes_altBreastsSmall2" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altBreastsSmall2</Data>
+            <Data name="PantiesBreastsSmall2" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesBreastsSmall2</Data>
+        </Slider>
+        <Slider name="BreastsTogether" invert="false" small="0" big="0">
+            <Data name="3BABreastsTogether" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BABreastsTogether</Data>
+            <Data name="vampire_robes_altBreastsTogether" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altBreastsTogether</Data>
+        </Slider>
+        <Slider name="BreastTopSlope" invert="false" small="0" big="0">
+            <Data name="3BABreastTopSlope" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BABreastTopSlope</Data>
+            <Data name="vampire_robes_altBreastTopSlope" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altBreastTopSlope</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="3BABreastWidth" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BABreastWidth</Data>
+            <Data name="vampire_robes_altBreastWidth" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altBreastWidth</Data>
+        </Slider>
+        <Slider name="Butt" invert="false" small="0" big="0">
+            <Data name="3BAButt" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAButt</Data>
+            <Data name="vampire_robes_altButt" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altButt</Data>
+            <Data name="PantiesButt" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesButt</Data>
+            <Data name="3BA_VaginaButt" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaButt</Data>
+            <Data name="3BA_AnusButt" target="3BA_Anus" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_AnusButt</Data>
+        </Slider>
+        <Slider name="ButtClassic" invert="false" small="0" big="0">
+            <Data name="3BAButtClassic" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAButtClassic</Data>
+            <Data name="vampire_robes_altButtClassic" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altButtClassic</Data>
+            <Data name="PantiesButtClassic" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesButtClassic</Data>
+            <Data name="3BA_VaginaButtClassic" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaButtClassic</Data>
+            <Data name="3BA_AnusButtClassic" target="3BA_Anus" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_AnusButtClassic</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="false" small="0" big="0">
+            <Data name="3BAButtCrack" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAButtCrack</Data>
+            <Data name="vampire_robes_altButtCrack" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altButtCrack</Data>
+            <Data name="PantiesButtCrack" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesButtCrack</Data>
+            <Data name="3BA_VaginaButtCrack" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaButtCrack</Data>
+            <Data name="3BA_AnusButtCrack" target="3BA_Anus" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_AnusButtCrack</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="3BAButtShape2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAButtShape2</Data>
+            <Data name="vampire_robes_altButtShape2" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altButtShape2</Data>
+            <Data name="PantiesButtShape2" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesButtShape2</Data>
+            <Data name="3BA_VaginaButtShape2" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaButtShape2</Data>
+            <Data name="3BA_AnusButtShape2" target="3BA_Anus" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_AnusButtShape2</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="false" small="0" big="0">
+            <Data name="3BAButtSmall" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAButtSmall</Data>
+            <Data name="vampire_robes_altButtSmall" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altButtSmall</Data>
+            <Data name="PantiesButtSmall" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesButtSmall</Data>
+            <Data name="3BA_VaginaButtSmall" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaButtSmall</Data>
+            <Data name="3BA_AnusButtSmall" target="3BA_Anus" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_AnusButtSmall</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="3BACalfSize" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BACalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="3BACalfSmooth" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BACalfSmooth</Data>
+        </Slider>
+        <Slider name="ChestDepth" invert="false" small="0" big="0">
+            <Data name="3BAChestDepth" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAChestDepth</Data>
+            <Data name="vampire_robes_altChestDepth" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altChestDepth</Data>
+            <Data name="PantiesChestDepth" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesChestDepth</Data>
+        </Slider>
+        <Slider name="ChestWidth" invert="false" small="0" big="0">
+            <Data name="3BAChestWidth" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAChestWidth</Data>
+            <Data name="vampire_robes_altChestWidth" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altChestWidth</Data>
+            <Data name="PantiesChestWidth" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesChestWidth</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="3BAChubbyArms" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAChubbyArms</Data>
+            <Data name="vampire_robes_altChubbyArms" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altChubbyArms</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="3BAChubbyButt" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAChubbyButt</Data>
+            <Data name="vampire_robes_altChubbyButt" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altChubbyButt</Data>
+            <Data name="PantiesChubbyButt" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesChubbyButt</Data>
+            <Data name="3BA_VaginaChubbyButt" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaChubbyButt</Data>
+            <Data name="3BA_AnusChubbyButt" target="3BA_Anus" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_AnusChubbyButt</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="3BAChubbyLegs" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAChubbyLegs</Data>
+            <Data name="vampire_robes_altChubbyLegs" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altChubbyLegs</Data>
+            <Data name="PantiesChubbyLegs" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesChubbyLegs</Data>
+            <Data name="3BA_VaginaChubbyLegs" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaChubbyLegs</Data>
+            <Data name="3BA_AnusChubbyLegs" target="3BA_Anus" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_AnusChubbyLegs</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="3BAChubbyWaist" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAChubbyWaist</Data>
+            <Data name="vampire_robes_altChubbyWaist" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altChubbyWaist</Data>
+            <Data name="PantiesChubbyWaist" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesChubbyWaist</Data>
+            <Data name="3BA_VaginaChubbyWaist" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaChubbyWaist</Data>
+            <Data name="3BA_AnusChubbyWaist" target="3BA_Anus" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_AnusChubbyWaist</Data>
+        </Slider>
+        <Slider name="CrotchBack" invert="false" small="0" big="0">
+            <Data name="3BACrotchBack" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BACrotchBack</Data>
+            <Data name="vampire_robes_altCrotchBack" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altCrotchBack</Data>
+            <Data name="PantiesCrotchBack" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesCrotchBack</Data>
+            <Data name="3BA_VaginaCrotchBack" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaCrotchBack</Data>
+            <Data name="3BA_AnusCrotchBack" target="3BA_Anus" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_AnusCrotchBack</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="3BADoubleMelon" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BADoubleMelon</Data>
+            <Data name="vampire_robes_altDoubleMelon" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altDoubleMelon</Data>
+        </Slider>
+        <Slider name="ForearmSize" invert="false" small="0" big="0">
+            <Data name="3BAForearmSize" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAForearmSize</Data>
+            <Data name="vampire_robes_altForearmSize" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altForearmSize</Data>
+        </Slider>
+        <Slider name="Groin" invert="false" small="0" big="0">
+            <Data name="3BAGroin" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAGroin</Data>
+            <Data name="vampire_robes_altGroin" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altGroin</Data>
+            <Data name="PantiesGroin" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesGroin</Data>
+            <Data name="3BA_VaginaGroin" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaGroin</Data>
+            <Data name="3BA_AnusGroin" target="3BA_Anus" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_AnusGroin</Data>
+        </Slider>
+        <Slider name="HipBone" invert="false" small="0" big="0">
+            <Data name="3BAHipBone" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAHipBone</Data>
+            <Data name="vampire_robes_altHipBone" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altHipBone</Data>
+            <Data name="PantiesHipBone" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesHipBone</Data>
+            <Data name="3BA_VaginaHipBone" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaHipBone</Data>
+        </Slider>
+        <Slider name="HipForward" invert="false" small="0" big="0">
+            <Data name="3BAHipForward" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAHipForward</Data>
+            <Data name="vampire_robes_altHipForward" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altHipForward</Data>
+            <Data name="PantiesHipForward" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesHipForward</Data>
+            <Data name="3BA_VaginaHipForward" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaHipForward</Data>
+            <Data name="3BA_AnusHipForward" target="3BA_Anus" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_AnusHipForward</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="3BAHips" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAHips</Data>
+            <Data name="vampire_robes_altHips" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altHips</Data>
+            <Data name="PantiesHips" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesHips</Data>
+            <Data name="3BA_VaginaHips" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaHips</Data>
+            <Data name="3BA_AnusHips" target="3BA_Anus" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_AnusHips</Data>
+        </Slider>
+        <Slider name="HipUpperWidth" invert="false" small="0" big="0">
+            <Data name="3BAHipUpperWidth" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAHipUpperWidth</Data>
+            <Data name="vampire_robes_altHipUpperWidth" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altHipUpperWidth</Data>
+            <Data name="PantiesHipUpperWidth" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesHipUpperWidth</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="3BAKneeHeight" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAKneeHeight</Data>
+        </Slider>
+        <Slider name="LegShapeClassic" invert="false" small="0" big="0">
+            <Data name="3BALegShapeClassic" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BALegShapeClassic</Data>
+            <Data name="vampire_robes_altLegShapeClassic" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altLegShapeClassic</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" small="0" big="0">
+            <Data name="3BALegsThin" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BALegsThin</Data>
+            <Data name="vampire_robes_altLegsThin" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altLegsThin</Data>
+            <Data name="PantiesLegsThin" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesLegsThin</Data>
+        </Slider>
+        <Slider name="MuscleAbs" invert="false" small="0" big="0">
+            <Data name="3BAMuscleAbs" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAMuscleAbs</Data>
+            <Data name="vampire_robes_altMuscleAbs" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altMuscleAbs</Data>
+            <Data name="PantiesMuscleAbs" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesMuscleAbs</Data>
+        </Slider>
+        <Slider name="MuscleArms" invert="false" small="0" big="0">
+            <Data name="3BAMuscleArms" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAMuscleArms</Data>
+            <Data name="vampire_robes_altMuscleArms" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altMuscleArms</Data>
+        </Slider>
+        <Slider name="MuscleButt" invert="false" small="0" big="0">
+            <Data name="3BAMuscleButt" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAMuscleButt</Data>
+            <Data name="vampire_robes_altMuscleButt" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altMuscleButt</Data>
+            <Data name="PantiesMuscleButt" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesMuscleButt</Data>
+        </Slider>
+        <Slider name="MuscleLegs" invert="false" small="0" big="0">
+            <Data name="3BAMuscleLegs" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAMuscleLegs</Data>
+            <Data name="vampire_robes_altMuscleLegs" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altMuscleLegs</Data>
+            <Data name="PantiesMuscleLegs" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesMuscleLegs</Data>
+            <Data name="3BA_VaginaMuscleLegs" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaMuscleLegs</Data>
+            <Data name="3BA_AnusMuscleLegs" target="3BA_Anus" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_AnusMuscleLegs</Data>
+        </Slider>
+        <Slider name="MusclePecs" invert="false" small="0" big="0">
+            <Data name="3BAMusclePecs" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAMusclePecs</Data>
+            <Data name="vampire_robes_altMusclePecs" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altMusclePecs</Data>
+        </Slider>
+        <Slider name="NeckSeam" invert="false" small="100" big="0" hidden="true">
+            <Data name="3BANeckSeam" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BANeckSeam</Data>
+            <Data name="vampire_robes_altNeckSeam" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altNeckSeam</Data>
+        </Slider>
+        <Slider name="NipBGone" invert="false" small="0" big="0">
+            <Data name="3BANipBGone" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BANipBGone</Data>
+            <Data name="vampire_robes_altNipBGone" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altNipBGone</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="false" small="0" big="0">
+            <Data name="3BANippleDistance" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BANippleDistance</Data>
+            <Data name="vampire_robes_altNippleDistance" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altNippleDistance</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <Data name="3BANippleDown" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BANippleDown</Data>
+            <Data name="vampire_robes_altNippleDown" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altNippleDown</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" small="0" big="0">
+            <Data name="3BANippleLength" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BANippleLength</Data>
+            <Data name="vampire_robes_altNippleLength" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altNippleLength</Data>
+        </Slider>
+        <Slider name="NippleManga" invert="false" small="0" big="0">
+            <Data name="3BANippleManga" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BANippleManga</Data>
+            <Data name="vampire_robes_altNippleManga" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altNippleManga</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" small="0" big="0">
+            <Data name="3BANipplePerkiness" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BANipplePerkiness</Data>
+            <Data name="vampire_robes_altNipplePerkiness" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altNipplePerkiness</Data>
+        </Slider>
+        <Slider name="NipplePerkManga" invert="false" small="0" big="0">
+            <Data name="3BANipplePerkManga" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BANipplePerkManga</Data>
+            <Data name="vampire_robes_altNipplePerkManga" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altNipplePerkManga</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="false" small="0" big="0">
+            <Data name="3BANippleSize" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BANippleSize</Data>
+            <Data name="vampire_robes_altNippleSize" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altNippleSize</Data>
+        </Slider>
+        <Slider name="NippleTip" invert="false" small="0" big="0">
+            <Data name="3BANippleTip" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BANippleTip</Data>
+            <Data name="vampire_robes_altNippleTip" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altNippleTip</Data>
+        </Slider>
+        <Slider name="NippleTipManga" invert="false" small="0" big="0">
+            <Data name="3BANippleTipManga" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BANippleTipManga</Data>
+            <Data name="vampire_robes_altNippleTipManga" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altNippleTipManga</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="3BANippleUp" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BANippleUp</Data>
+            <Data name="vampire_robes_altNippleUp" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altNippleUp</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="3BAPregnancyBelly" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAPregnancyBelly</Data>
+            <Data name="vampire_robes_altPregnancyBelly" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altPregnancyBelly</Data>
+            <Data name="PantiesPregnancyBelly" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesPregnancyBelly</Data>
+            <Data name="3BA_VaginaPregnancyBelly" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaPregnancyBelly</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="3BAPushUp" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAPushUp</Data>
+            <Data name="vampire_robes_altPushUp" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altPushUp</Data>
+        </Slider>
+        <Slider name="RibsProminance" invert="false" small="0" big="0">
+            <Data name="3BARibsProminance" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BARibsProminance</Data>
+            <Data name="vampire_robes_altRibsProminance" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altRibsProminance</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <Data name="3BARoundAss" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BARoundAss</Data>
+            <Data name="vampire_robes_altRoundAss" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altRoundAss</Data>
+            <Data name="PantiesRoundAss" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesRoundAss</Data>
+            <Data name="3BA_VaginaRoundAss" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaRoundAss</Data>
+            <Data name="3BA_AnusRoundAss" target="3BA_Anus" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_AnusRoundAss</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <Data name="3BAShoulderSmooth" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAShoulderSmooth</Data>
+            <Data name="vampire_robes_altShoulderSmooth" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderTweak" invert="false" small="0" big="0">
+            <Data name="3BAShoulderTweak" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAShoulderTweak</Data>
+            <Data name="vampire_robes_altShoulderTweak" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altShoulderTweak</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="false" small="0" big="0">
+            <Data name="3BAShoulderWidth" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAShoulderWidth</Data>
+            <Data name="vampire_robes_altShoulderWidth" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altShoulderWidth</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="3BASlimThighs" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BASlimThighs</Data>
+            <Data name="vampire_robes_altSlimThighs" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altSlimThighs</Data>
+            <Data name="PantiesSlimThighs" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesSlimThighs</Data>
+            <Data name="3BA_VaginaSlimThighs" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaSlimThighs</Data>
+            <Data name="3BA_AnusSlimThighs" target="3BA_Anus" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_AnusSlimThighs</Data>
+        </Slider>
+        <Slider name="SternumDepth" invert="false" small="0" big="0">
+            <Data name="3BASternumDepth" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BASternumDepth</Data>
+            <Data name="vampire_robes_altSternumDepth" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altSternumDepth</Data>
+        </Slider>
+        <Slider name="SternumHeight" invert="false" small="0" big="0">
+            <Data name="3BASternumHeight" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BASternumHeight</Data>
+            <Data name="vampire_robes_altSternumHeight" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altSternumHeight</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="3BAThighs" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAThighs</Data>
+            <Data name="vampire_robes_altThighs" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altThighs</Data>
+            <Data name="PantiesThighs" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesThighs</Data>
+            <Data name="3BA_VaginaThighs" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaThighs</Data>
+            <Data name="3BA_AnusThighs" target="3BA_Anus" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_AnusThighs</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <Data name="3BATummyTuck" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BATummyTuck</Data>
+            <Data name="vampire_robes_altTummyTuck" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altTummyTuck</Data>
+            <Data name="PantiesTummyTuck" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesTummyTuck</Data>
+            <Data name="3BA_VaginaTummyTuck" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaTummyTuck</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="0">
+            <Data name="3BAWaist" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAWaist</Data>
+            <Data name="vampire_robes_altWaist" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altWaist</Data>
+            <Data name="PantiesWaist" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesWaist</Data>
+        </Slider>
+        <Slider name="WaistHeight" invert="false" small="0" big="0">
+            <Data name="3BAWaistHeight" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAWaistHeight</Data>
+            <Data name="vampire_robes_altWaistHeight" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altWaistHeight</Data>
+            <Data name="PantiesWaistHeight" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesWaistHeight</Data>
+            <Data name="3BA_VaginaWaistHeight" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaWaistHeight</Data>
+            <Data name="3BA_AnusWaistHeight" target="3BA_Anus" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_AnusWaistHeight</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <Data name="3BAWideWaistLine" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAWideWaistLine</Data>
+            <Data name="vampire_robes_altWideWaistLine" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altWideWaistLine</Data>
+            <Data name="PantiesWideWaistLine" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesWideWaistLine</Data>
+        </Slider>
+        <Slider name="WristSize" invert="false" small="100" big="0">
+            <Data name="3BAWristSize" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAWristSize</Data>
+            <Data name="vampire_robes_altWristSize" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altWristSize</Data>
+        </Slider>
+        <Slider name="7B Lower" invert="false" small="0" big="0">
+            <Data name="3BA7B Lower" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA7B Lower</Data>
+            <Data name="vampire_robes_alt7B Lower" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_alt7B Lower</Data>
+            <Data name="Panties7B Lower" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\Panties7B Lower</Data>
+            <Data name="3BA_Vagina7B Lower" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_Vagina7B Lower</Data>
+            <Data name="3BA_Anus7B Lower" target="3BA_Anus" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_Anus7B Lower</Data>
+        </Slider>
+        <Slider name="7B Upper" invert="false" small="0" big="0">
+            <Data name="3BA7B Upper" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA7B Upper</Data>
+            <Data name="vampire_robes_alt7B Upper" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_alt7B Upper</Data>
+        </Slider>
+        <Slider name="VanillaSSEHi" invert="false" small="0" big="0">
+            <Data name="3BAVanillaSSEHi" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAVanillaSSEHi</Data>
+            <Data name="vampire_robes_altVanillaSSEHi" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altVanillaSSEHi</Data>
+            <Data name="PantiesVanillaSSEHi" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesVanillaSSEHi</Data>
+            <Data name="3BA_VaginaVanillaSSEHi" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaVanillaSSEHi</Data>
+            <Data name="3BA_AnusVanillaSSEHi" target="3BA_Anus" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_AnusVanillaSSEHi</Data>
+        </Slider>
+        <Slider name="VanillaSSELo" invert="false" small="0" big="0">
+            <Data name="3BAVanillaSSELo" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAVanillaSSELo</Data>
+            <Data name="vampire_robes_altVanillaSSELo" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altVanillaSSELo</Data>
+            <Data name="PantiesVanillaSSELo" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesVanillaSSELo</Data>
+            <Data name="3BA_VaginaVanillaSSELo" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaVanillaSSELo</Data>
+            <Data name="3BA_AnusVanillaSSELo" target="3BA_Anus" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_AnusVanillaSSELo</Data>
+        </Slider>
+        <Slider name="OldBaseShape" invert="false" small="0" big="0">
+            <Data name="3BAOldBaseShape" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAOldBaseShape</Data>
+            <Data name="vampire_robes_altOldBaseShape" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altOldBaseShape</Data>
+            <Data name="PantiesOldBaseShape" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesOldBaseShape</Data>
+            <Data name="3BA_VaginaOldBaseShape" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaOldBaseShape</Data>
+            <Data name="3BA_AnusOldBaseShape" target="3BA_Anus" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_AnusOldBaseShape</Data>
+        </Slider>
+        <Slider name="CBBE to CBBE - Uniboob" invert="false" small="0" big="0">
+            <Data name="vampire_robes_altCBBE to CBBE - Uniboob" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altCBBE to CBBE - Uniboob</Data>
+            <Data name="PantiesCBBE to CBBE - Uniboob" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesCBBE to CBBE - Uniboob</Data>
+        </Slider>
+        <Slider name="ArmpitShape_v2" invert="false" small="0" big="0">
+            <Data name="3BAArmpitShape_v2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAArmpitShape_v2</Data>
+            <Data name="vampire_robes_altArmpitShape_v2" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altArmpitShape_v2</Data>
+        </Slider>
+        <Slider name="AreolaPull_v2" invert="false" small="0" big="0">
+            <Data name="3BAAreolaPull_v2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAAreolaPull_v2</Data>
+            <Data name="vampire_robes_altAreolaPull_v2" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altAreolaPull_v2</Data>
+        </Slider>
+        <Slider name="BackValley_v2" invert="false" small="0" big="0">
+            <Data name="3BABackValley_v2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BABackValley_v2</Data>
+            <Data name="vampire_robes_altBackValley_v2" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altBackValley_v2</Data>
+        </Slider>
+        <Slider name="BackWing_v2" invert="false" small="0" big="0">
+            <Data name="3BABackWing_v2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BABackWing_v2</Data>
+            <Data name="vampire_robes_altBackWing_v2" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altBackWing_v2</Data>
+        </Slider>
+        <Slider name="BellyFrontUpFat_v2" invert="false" small="0" big="0">
+            <Data name="3BABellyFrontUpFat_v2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BABellyFrontUpFat_v2</Data>
+            <Data name="vampire_robes_altBellyFrontUpFat_v2" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altBellyFrontUpFat_v2</Data>
+        </Slider>
+        <Slider name="BellyFrontDownFat_v2" invert="false" small="0" big="0">
+            <Data name="3BABellyFrontDownFat_v2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BABellyFrontDownFat_v2</Data>
+            <Data name="vampire_robes_altBellyFrontDownFat_v2" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altBellyFrontDownFat_v2</Data>
+            <Data name="PantiesBellyFrontDownFat_v2" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesBellyFrontDownFat_v2</Data>
+        </Slider>
+        <Slider name="BellySideUpFat_v2" invert="false" small="0" big="0">
+            <Data name="3BABellySideUpFat_v2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BABellySideUpFat_v2</Data>
+            <Data name="vampire_robes_altBellySideUpFat_v2" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altBellySideUpFat_v2</Data>
+        </Slider>
+        <Slider name="BellySideDownFat_v2" invert="false" small="0" big="0">
+            <Data name="3BABellySideDownFat_v2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BABellySideDownFat_v2</Data>
+            <Data name="vampire_robes_altBellySideDownFat_v2" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altBellySideDownFat_v2</Data>
+        </Slider>
+        <Slider name="BellyUnder_v2" invert="false" small="0" big="0">
+            <Data name="3BABellyUnder_v2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BABellyUnder_v2</Data>
+            <Data name="vampire_robes_altBellyUnder_v2" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altBellyUnder_v2</Data>
+            <Data name="PantiesBellyUnder_v2" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesBellyUnder_v2</Data>
+            <Data name="3BA_VaginaBellyUnder_v2" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaBellyUnder_v2</Data>
+        </Slider>
+        <Slider name="BreastsConverage_v2" invert="false" small="0" big="0">
+            <Data name="3BABreastsConverage_v2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BABreastsConverage_v2</Data>
+            <Data name="vampire_robes_altBreastsConverage_v2" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altBreastsConverage_v2</Data>
+        </Slider>
+        <Slider name="BreastsNewSHSymmetry" invert="false" small="0" big="0">
+            <Data name="3BABreastsNewSHSymmetry" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BABreastsNewSHSymmetry</Data>
+            <Data name="vampire_robes_altBreastsNewSHSymmetry" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altBreastsNewSHSymmetry</Data>
+        </Slider>
+        <Slider name="BreastSideShape" invert="false" small="0" big="0">
+            <Data name="3BABreastSideShape" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BABreastSideShape</Data>
+            <Data name="vampire_robes_altBreastSideShape" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altBreastSideShape</Data>
+        </Slider>
+        <Slider name="BreastUnderDepth" invert="false" small="0" big="0">
+            <Data name="3BABreastUnderDepth" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BABreastUnderDepth</Data>
+            <Data name="vampire_robes_altBreastUnderDepth" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altBreastUnderDepth</Data>
+        </Slider>
+        <Slider name="BreastsPressed_v2" invert="false" small="0" big="0">
+            <Data name="3BABreastsPressed_v2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BABreastsPressed_v2</Data>
+            <Data name="vampire_robes_altBreastsPressed_v2" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altBreastsPressed_v2</Data>
+        </Slider>
+        <Slider name="ButtSaggy_v2" invert="false" small="0" big="0">
+            <Data name="3BAButtSaggy_v2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAButtSaggy_v2</Data>
+            <Data name="vampire_robes_altButtSaggy_v2" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altButtSaggy_v2</Data>
+            <Data name="PantiesButtSaggy_v2" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesButtSaggy_v2</Data>
+            <Data name="3BA_AnusButtSaggy_v2" target="3BA_Anus" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_AnusButtSaggy_v2</Data>
+        </Slider>
+        <Slider name="ButtDimples" invert="false" small="0" big="0">
+            <Data name="3BAButtDimples" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAButtDimples</Data>
+            <Data name="vampire_robes_altButtDimples" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altButtDimples</Data>
+        </Slider>
+        <Slider name="ButtUnderFold" invert="false" small="0" big="0">
+            <Data name="3BAButtUnderFold" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAButtUnderFold</Data>
+            <Data name="vampire_robes_altButtUnderFold" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altButtUnderFold</Data>
+            <Data name="PantiesButtUnderFold" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesButtUnderFold</Data>
+            <Data name="3BA_VaginaButtUnderFold" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaButtUnderFold</Data>
+        </Slider>
+        <Slider name="ButtPressed_v2" invert="false" small="0" big="0">
+            <Data name="3BAButtPressed_v2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAButtPressed_v2</Data>
+            <Data name="vampire_robes_altButtPressed_v2" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altButtPressed_v2</Data>
+            <Data name="PantiesButtPressed_v2" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesButtPressed_v2</Data>
+            <Data name="3BA_VaginaButtPressed_v2" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaButtPressed_v2</Data>
+            <Data name="3BA_AnusButtPressed_v2" target="3BA_Anus" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_AnusButtPressed_v2</Data>
+        </Slider>
+        <Slider name="ButtNarrow_v2" invert="false" small="0" big="0">
+            <Data name="3BAButtNarrow_v2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAButtNarrow_v2</Data>
+            <Data name="vampire_robes_altButtNarrow_v2" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altButtNarrow_v2</Data>
+            <Data name="PantiesButtNarrow_v2" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesButtNarrow_v2</Data>
+        </Slider>
+        <Slider name="CalfFBThicc_v2" invert="false" small="0" big="0">
+            <Data name="3BACalfFBThicc_v2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BACalfFBThicc_v2</Data>
+        </Slider>
+        <Slider name="Clavicle_v2" invert="false" small="0" big="0">
+            <Data name="3BAClavicle_v2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAClavicle_v2</Data>
+            <Data name="vampire_robes_altClavicle_v2" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altClavicle_v2</Data>
+        </Slider>
+        <Slider name="HipCarved" invert="false" small="0" big="0">
+            <Data name="3BAHipCarved" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAHipCarved</Data>
+            <Data name="vampire_robes_altHipCarved" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altHipCarved</Data>
+            <Data name="PantiesHipCarved" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesHipCarved</Data>
+        </Slider>
+        <Slider name="HipNarrow_v2" invert="false" small="0" big="0">
+            <Data name="3BAHipNarrow_v2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAHipNarrow_v2</Data>
+            <Data name="vampire_robes_altHipNarrow_v2" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altHipNarrow_v2</Data>
+            <Data name="PantiesHipNarrow_v2" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesHipNarrow_v2</Data>
+        </Slider>
+        <Slider name="KneeShape" invert="false" small="0" big="0">
+            <Data name="3BAKneeShape" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAKneeShape</Data>
+        </Slider>
+        <Slider name="KneeTogether_v2" invert="false" small="0" big="0">
+            <Data name="3BAKneeTogether_v2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAKneeTogether_v2</Data>
+        </Slider>
+        <Slider name="MuscleBack_v2" invert="false" small="0" big="0">
+            <Data name="3BAMuscleBack_v2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAMuscleBack_v2</Data>
+            <Data name="vampire_robes_altMuscleBack_v2" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altMuscleBack_v2</Data>
+            <Data name="PantiesMuscleBack_v2" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesMuscleBack_v2</Data>
+        </Slider>
+        <Slider name="MuscleMoreAbs_v2" invert="false" small="0" big="0">
+            <Data name="3BAMuscleMoreAbs_v2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAMuscleMoreAbs_v2</Data>
+            <Data name="vampire_robes_altMuscleMoreAbs_v2" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altMuscleMoreAbs_v2</Data>
+            <Data name="PantiesMuscleMoreAbs_v2" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesMuscleMoreAbs_v2</Data>
+        </Slider>
+        <Slider name="MuscleMoreArms_v2" invert="false" small="0" big="0">
+            <Data name="3BAMuscleMoreArms_v2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAMuscleMoreArms_v2</Data>
+            <Data name="vampire_robes_altMuscleMoreArms_v2" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altMuscleMoreArms_v2</Data>
+        </Slider>
+        <Slider name="MuscleMoreLegs_v2" invert="false" small="0" big="0">
+            <Data name="3BAMuscleMoreLegs_v2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAMuscleMoreLegs_v2</Data>
+            <Data name="vampire_robes_altMuscleMoreLegs_v2" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altMuscleMoreLegs_v2</Data>
+            <Data name="PantiesMuscleMoreLegs_v2" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesMuscleMoreLegs_v2</Data>
+        </Slider>
+        <Slider name="NavelEven" invert="false" small="0" big="0">
+            <Data name="3BANavelEven" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BANavelEven</Data>
+            <Data name="vampire_robes_altNavelEven" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altNavelEven</Data>
+        </Slider>
+        <Slider name="NippleDip" invert="false" small="0" big="0">
+            <Data name="3BANippleDip" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BANippleDip</Data>
+            <Data name="vampire_robes_altNippleDip" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altNippleDip</Data>
+        </Slider>
+        <Slider name="NippleCrease_v2" invert="false" small="0" big="0">
+            <Data name="3BANippleCrease_v2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BANippleCrease_v2</Data>
+        </Slider>
+        <Slider name="NipplePuffy_v2" invert="false" small="0" big="0">
+            <Data name="3BANipplePuffy_v2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BANipplePuffy_v2</Data>
+            <Data name="vampire_robes_altNipplePuffy_v2" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altNipplePuffy_v2</Data>
+        </Slider>
+        <Slider name="NippleShy_v2" invert="false" small="0" big="0">
+            <Data name="3BANippleShy_v2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BANippleShy_v2</Data>
+            <Data name="vampire_robes_altNippleShy_v2" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altNippleShy_v2</Data>
+        </Slider>
+        <Slider name="NippleThicc_v2" invert="false" small="0" big="0">
+            <Data name="3BANippleThicc_v2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BANippleThicc_v2</Data>
+            <Data name="vampire_robes_altNippleThicc_v2" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altNippleThicc_v2</Data>
+        </Slider>
+        <Slider name="NippleInvert_v2" invert="false" small="0" big="0">
+            <Data name="3BANippleInvert_v2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BANippleInvert_v2</Data>
+            <Data name="vampire_robes_altNippleInvert_v2" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altNippleInvert_v2</Data>
+        </Slider>
+        <Slider name="NippleSquash1_v2" invert="false" small="0" big="0">
+            <Data name="3BANippleSquash1_v2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BANippleSquash1_v2</Data>
+            <Data name="vampire_robes_altNippleSquash1_v2" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altNippleSquash1_v2</Data>
+        </Slider>
+        <Slider name="NippleSquash2_v2" invert="false" small="0" big="0">
+            <Data name="3BANippleSquash2_v2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BANippleSquash2_v2</Data>
+            <Data name="vampire_robes_altNippleSquash2_v2" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altNippleSquash2_v2</Data>
+        </Slider>
+        <Slider name="NippleBump_v2" invert="false" small="0" big="0">
+            <Data name="3BANippleBump_v2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BANippleBump_v2</Data>
+            <Data name="vampire_robes_altNippleBump_v2" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altNippleBump_v2</Data>
+        </Slider>
+        <Slider name="NippleCrumpled_v2" invert="false" small="0" big="0">
+            <Data name="3BANippleCrumpled_v2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BANippleCrumpled_v2</Data>
+            <Data name="vampire_robes_altNippleCrumpled_v2" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altNippleCrumpled_v2</Data>
+        </Slider>
+        <Slider name="NippleTube_v2" invert="false" small="0" big="0">
+            <Data name="3BANippleTube_v2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BANippleTube_v2</Data>
+            <Data name="vampire_robes_altNippleTube_v2" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altNippleTube_v2</Data>
+        </Slider>
+        <Slider name="RibsMore_v2" invert="false" small="0" big="0">
+            <Data name="3BARibsMore_v2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BARibsMore_v2</Data>
+            <Data name="vampire_robes_altRibsMore_v2" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altRibsMore_v2</Data>
+        </Slider>
+        <Slider name="ThighOutsideThicc_v2" invert="false" small="0" big="0">
+            <Data name="3BAThighOutsideThicc_v2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAThighOutsideThicc_v2</Data>
+            <Data name="vampire_robes_altThighOutsideThicc_v2" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altThighOutsideThicc_v2</Data>
+            <Data name="PantiesThighOutsideThicc_v2" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesThighOutsideThicc_v2</Data>
+        </Slider>
+        <Slider name="ThighInsideThicc_v2" invert="false" small="0" big="0">
+            <Data name="3BAThighInsideThicc_v2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAThighInsideThicc_v2</Data>
+            <Data name="vampire_robes_altThighInsideThicc_v2" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altThighInsideThicc_v2</Data>
+            <Data name="PantiesThighInsideThicc_v2" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesThighInsideThicc_v2</Data>
+            <Data name="3BA_VaginaThighInsideThicc_v2" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaThighInsideThicc_v2</Data>
+        </Slider>
+        <Slider name="ThighFBThicc_v2" invert="false" small="0" big="0">
+            <Data name="3BAThighFBThicc_v2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAThighFBThicc_v2</Data>
+            <Data name="vampire_robes_altThighFBThicc_v2" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altThighFBThicc_v2</Data>
+            <Data name="PantiesThighFBThicc_v2" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesThighFBThicc_v2</Data>
+        </Slider>
+        <Slider name="LegSpread_v2" invert="false" small="0" big="0">
+            <Data name="3BALegSpread_v2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BALegSpread_v2</Data>
+            <Data name="vampire_robes_altLegSpread_v2" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altLegSpread_v2</Data>
+            <Data name="PantiesLegSpread_v2" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesLegSpread_v2</Data>
+        </Slider>
+        <Slider name="UNPHip_v2" invert="false" small="0" big="0">
+            <Data name="3BAUNPHip_v2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAUNPHip_v2</Data>
+            <Data name="vampire_robes_altUNPHip_v2" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altUNPHip_v2</Data>
+            <Data name="PantiesUNPHip_v2" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesUNPHip_v2</Data>
+        </Slider>
+        <Slider name="7BLeg_v2" invert="false" small="0" big="0">
+            <Data name="3BA7BLeg_v2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA7BLeg_v2</Data>
+            <Data name="vampire_robes_alt7BLeg_v2" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_alt7BLeg_v2</Data>
+            <Data name="Panties7BLeg_v2" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\Panties7BLeg_v2</Data>
+        </Slider>
+        <Slider name="Innieoutie" invert="false" small="0" big="0">
+            <Data name="3BAInnieoutie" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAInnieoutie</Data>
+            <Data name="PantiesInnieoutie" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesInnieoutie</Data>
+            <Data name="3BA_VaginaInnieoutie" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaInnieoutie</Data>
+        </Slider>
+        <Slider name="LabiaTightUp" invert="false" small="0" big="0">
+            <Data name="3BALabiaTightUp" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BALabiaTightUp</Data>
+            <Data name="vampire_robes_altLabiaTightUp" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altLabiaTightUp</Data>
+            <Data name="PantiesLabiaTightUp" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesLabiaTightUp</Data>
+            <Data name="3BA_VaginaLabiaTightUp" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaLabiaTightUp</Data>
+        </Slider>
+        <Slider name="Labiapuffyness" invert="false" small="0" big="0">
+            <Data name="3BALabiapuffyness" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BALabiapuffyness</Data>
+            <Data name="vampire_robes_altLabiapuffyness" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altLabiapuffyness</Data>
+            <Data name="PantiesLabiapuffyness" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesLabiapuffyness</Data>
+            <Data name="3BA_VaginaLabiapuffyness" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaLabiapuffyness</Data>
+        </Slider>
+        <Slider name="LabiaMorePuffyness_v2" invert="false" small="0" big="0">
+            <Data name="3BALabiaMorePuffyness_v2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BALabiaMorePuffyness_v2</Data>
+            <Data name="vampire_robes_altLabiaMorePuffyness_v2" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altLabiaMorePuffyness_v2</Data>
+            <Data name="PantiesLabiaMorePuffyness_v2" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesLabiaMorePuffyness_v2</Data>
+            <Data name="3BA_VaginaLabiaMorePuffyness_v2" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaLabiaMorePuffyness_v2</Data>
+        </Slider>
+        <Slider name="Labiaprotrude" invert="false" small="0" big="0">
+            <Data name="3BALabiaprotrude" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BALabiaprotrude</Data>
+            <Data name="PantiesLabiaprotrude" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesLabiaprotrude</Data>
+            <Data name="3BA_VaginaLabiaprotrude" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaLabiaprotrude</Data>
+        </Slider>
+        <Slider name="Labiaprotrude2" invert="false" small="0" big="0">
+            <Data name="3BALabiaprotrude2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BALabiaprotrude2</Data>
+            <Data name="vampire_robes_altLabiaprotrude2" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altLabiaprotrude2</Data>
+            <Data name="PantiesLabiaprotrude2" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesLabiaprotrude2</Data>
+            <Data name="3BA_VaginaLabiaprotrude2" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaLabiaprotrude2</Data>
+        </Slider>
+        <Slider name="Labiaprotrudeback" invert="false" small="0" big="0">
+            <Data name="PantiesLabiaprotrudeback" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesLabiaprotrudeback</Data>
+            <Data name="3BA_VaginaLabiaprotrudeback" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaLabiaprotrudeback</Data>
+        </Slider>
+        <Slider name="Labiaspread" invert="false" small="0" big="0">
+            <Data name="3BALabiaspread" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BALabiaspread</Data>
+            <Data name="3BA_VaginaLabiaspread" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaLabiaspread</Data>
+        </Slider>
+        <Slider name="LabiaCrumpled_v2" invert="false" small="0" big="0">
+            <Data name="3BALabiaCrumpled_v2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BALabiaCrumpled_v2</Data>
+            <Data name="vampire_robes_altLabiaCrumpled_v2" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altLabiaCrumpled_v2</Data>
+            <Data name="PantiesLabiaCrumpled_v2" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesLabiaCrumpled_v2</Data>
+            <Data name="3BA_VaginaLabiaCrumpled_v2" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaLabiaCrumpled_v2</Data>
+        </Slider>
+        <Slider name="LabiaNeat_v2" invert="false" small="0" big="0">
+            <Data name="3BALabiaNeat_v2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BALabiaNeat_v2</Data>
+            <Data name="vampire_robes_altLabiaNeat_v2" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altLabiaNeat_v2</Data>
+            <Data name="PantiesLabiaNeat_v2" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesLabiaNeat_v2</Data>
+            <Data name="3BA_VaginaLabiaNeat_v2" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaLabiaNeat_v2</Data>
+        </Slider>
+        <Slider name="LabiaBulgogi_v2" invert="false" small="0" big="0">
+            <Data name="3BALabiaBulgogi_v2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BALabiaBulgogi_v2</Data>
+            <Data name="vampire_robes_altLabiaBulgogi_v2" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altLabiaBulgogi_v2</Data>
+            <Data name="PantiesLabiaBulgogi_v2" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesLabiaBulgogi_v2</Data>
+            <Data name="3BA_VaginaLabiaBulgogi_v2" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaLabiaBulgogi_v2</Data>
+        </Slider>
+        <Slider name="Vaginasize" invert="false" small="0" big="0">
+            <Data name="3BA_VaginaVaginasize" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaVaginasize</Data>
+        </Slider>
+        <Slider name="VaginaHole" invert="false" small="0" big="0">
+            <Data name="3BAVaginaHole" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAVaginaHole</Data>
+            <Data name="3BA_VaginaVaginaHole" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaVaginaHole</Data>
+        </Slider>
+        <Slider name="Clit" invert="false" small="0" big="0">
+            <Data name="3BAClit" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAClit</Data>
+            <Data name="vampire_robes_altClit" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altClit</Data>
+            <Data name="PantiesClit" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesClit</Data>
+            <Data name="3BA_VaginaClit" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaClit</Data>
+        </Slider>
+        <Slider name="ClitSwell_v2" invert="false" small="0" big="0">
+            <Data name="3BAClitSwell_v2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAClitSwell_v2</Data>
+            <Data name="vampire_robes_altClitSwell_v2" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altClitSwell_v2</Data>
+            <Data name="PantiesClitSwell_v2" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesClitSwell_v2</Data>
+            <Data name="3BA_VaginaClitSwell_v2" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaClitSwell_v2</Data>
+        </Slider>
+        <Slider name="Cutepuffyness" invert="false" small="0" big="0">
+            <Data name="3BACutepuffyness" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BACutepuffyness</Data>
+            <Data name="vampire_robes_altCutepuffyness" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altCutepuffyness</Data>
+            <Data name="PantiesCutepuffyness" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesCutepuffyness</Data>
+            <Data name="3BA_VaginaCutepuffyness" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaCutepuffyness</Data>
+        </Slider>
+        <Slider name="CBPC" invert="false" small="0" big="0">
+            <Data name="3BACBPC" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BACBPC</Data>
+            <Data name="vampire_robes_altCBPC" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altCBPC</Data>
+            <Data name="PantiesCBPC" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesCBPC</Data>
+            <Data name="3BA_VaginaCBPC" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaCBPC</Data>
+        </Slider>
+        <Slider name="CrotchGap" invert="false" small="0" big="0">
+            <Data name="3BACrotchGap" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BACrotchGap</Data>
+            <Data name="vampire_robes_altCrotchGap" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altCrotchGap</Data>
+            <Data name="PantiesCrotchGap" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesCrotchGap</Data>
+            <Data name="3BA_VaginaCrotchGap" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaCrotchGap</Data>
+        </Slider>
+        <Slider name="AnalLoose_v2" invert="false" small="0" big="0">
+            <Data name="3BAAnalLoose_v2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAAnalLoose_v2</Data>
+            <Data name="PantiesAnalLoose_v2" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesAnalLoose_v2</Data>
+            <Data name="3BA_VaginaAnalLoose_v2" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaAnalLoose_v2</Data>
+            <Data name="3BA_AnusAnalLoose_v2" target="3BA_Anus" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_AnusAnalLoose_v2</Data>
+        </Slider>
+        <Slider name="AnalPosition_v2" invert="false" small="0" big="0">
+            <Data name="3BAAnalPosition_v2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAAnalPosition_v2</Data>
+            <Data name="vampire_robes_altAnalPosition_v2" target="vampire_robes_alt" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\vampire_robes_altAnalPosition_v2</Data>
+            <Data name="PantiesAnalPosition_v2" target="Panties" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\PantiesAnalPosition_v2</Data>
+            <Data name="3BA_VaginaAnalPosition_v2" target="3BA_Vagina" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_VaginaAnalPosition_v2</Data>
+            <Data name="3BA_AnusAnalPosition_v2" target="3BA_Anus" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BA_AnusAnalPosition_v2</Data>
+        </Slider>
+        <Slider name="AnalTexPos_v2" invert="false" small="0" big="0" uv="true">
+            <Data name="3BAAnalTexPos_v2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAAnalTexPos_v2</Data>
+        </Slider>
+        <Slider name="AnalTexPosRe_v2" invert="false" small="0" big="0" uv="true">
+            <Data name="3BAAnalTexPosRe_v2" target="3BA" local="true">Summon Mistress Vaeloria Outfit 3BA.osd\3BAAnalTexPosRe_v2</Data>
+        </Slider>
+    </SliderSet>
+    <SliderSet name="Summon Mistress Vaeloria Boots 3BA">
+        <DataFolder>Summon Mistress</DataFolder>
+        <SourceFile>Summon Mistress Vaeloria Boots 3BA.nif</SourceFile>
+        <OutputPath>Meshes\Summon_Mistress_Meshes\outfit</OutputPath>
+        <OutputFile GenWeights="true">vaeloria_boots</OutputFile>
+        <Shape target="Boots">Boots</Shape>
+        <Shape target="Socks">Socks</Shape>
+        <Slider name="AnkleSize" invert="false" small="100" big="0">
+            <Data name="SocksAnkleSize" target="Socks" local="true">Summon Mistress Vaeloria Boots 3BA.osd\SocksAnkleSize</Data>
+            <Data name="BootsAnkleSize" target="Boots" local="true">Summon Mistress Vaeloria Boots 3BA.osd\BootsAnkleSize</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="SocksBigButt" target="Socks" local="true">Summon Mistress Vaeloria Boots 3BA.osd\SocksBigButt</Data>
+        </Slider>
+        <Slider name="Butt" invert="false" small="0" big="0">
+            <Data name="SocksButt" target="Socks" local="true">Summon Mistress Vaeloria Boots 3BA.osd\SocksButt</Data>
+        </Slider>
+        <Slider name="ButtClassic" invert="false" small="0" big="0">
+            <Data name="SocksButtClassic" target="Socks" local="true">Summon Mistress Vaeloria Boots 3BA.osd\SocksButtClassic</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="false" small="0" big="0">
+            <Data name="SocksButtSmall" target="Socks" local="true">Summon Mistress Vaeloria Boots 3BA.osd\SocksButtSmall</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="SocksCalfSize" target="Socks" local="true">Summon Mistress Vaeloria Boots 3BA.osd\SocksCalfSize</Data>
+            <Data name="BootsCalfSize" target="Boots" local="true">Summon Mistress Vaeloria Boots 3BA.osd\BootsCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="SocksCalfSmooth" target="Socks" local="true">Summon Mistress Vaeloria Boots 3BA.osd\SocksCalfSmooth</Data>
+            <Data name="BootsCalfSmooth" target="Boots" local="true">Summon Mistress Vaeloria Boots 3BA.osd\BootsCalfSmooth</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="SocksChubbyButt" target="Socks" local="true">Summon Mistress Vaeloria Boots 3BA.osd\SocksChubbyButt</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="SocksChubbyLegs" target="Socks" local="true">Summon Mistress Vaeloria Boots 3BA.osd\SocksChubbyLegs</Data>
+            <Data name="BootsChubbyLegs" target="Boots" local="true">Summon Mistress Vaeloria Boots 3BA.osd\BootsChubbyLegs</Data>
+        </Slider>
+        <Slider name="CrotchBack" invert="false" small="0" big="0">
+            <Data name="SocksCrotchBack" target="Socks" local="true">Summon Mistress Vaeloria Boots 3BA.osd\SocksCrotchBack</Data>
+        </Slider>
+        <Slider name="HipForward" invert="false" small="0" big="0">
+            <Data name="SocksHipForward" target="Socks" local="true">Summon Mistress Vaeloria Boots 3BA.osd\SocksHipForward</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="SocksHips" target="Socks" local="true">Summon Mistress Vaeloria Boots 3BA.osd\SocksHips</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="SocksKneeHeight" target="Socks" local="true">Summon Mistress Vaeloria Boots 3BA.osd\SocksKneeHeight</Data>
+            <Data name="BootsKneeHeight" target="Boots" local="true">Summon Mistress Vaeloria Boots 3BA.osd\BootsKneeHeight</Data>
+        </Slider>
+        <Slider name="LegShapeClassic" invert="false" small="0" big="0">
+            <Data name="SocksLegShapeClassic" target="Socks" local="true">Summon Mistress Vaeloria Boots 3BA.osd\SocksLegShapeClassic</Data>
+            <Data name="BootsLegShapeClassic" target="Boots" local="true">Summon Mistress Vaeloria Boots 3BA.osd\BootsLegShapeClassic</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" small="0" big="0">
+            <Data name="SocksLegsThin" target="Socks" local="true">Summon Mistress Vaeloria Boots 3BA.osd\SocksLegsThin</Data>
+            <Data name="BootsLegsThin" target="Boots" local="true">Summon Mistress Vaeloria Boots 3BA.osd\BootsLegsThin</Data>
+        </Slider>
+        <Slider name="MuscleLegs" invert="false" small="0" big="0">
+            <Data name="SocksMuscleLegs" target="Socks" local="true">Summon Mistress Vaeloria Boots 3BA.osd\SocksMuscleLegs</Data>
+            <Data name="BootsMuscleLegs" target="Boots" local="true">Summon Mistress Vaeloria Boots 3BA.osd\BootsMuscleLegs</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="SocksSlimThighs" target="Socks" local="true">Summon Mistress Vaeloria Boots 3BA.osd\SocksSlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="SocksThighs" target="Socks" local="true">Summon Mistress Vaeloria Boots 3BA.osd\SocksThighs</Data>
+            <Data name="BootsThighs" target="Boots" local="true">Summon Mistress Vaeloria Boots 3BA.osd\BootsThighs</Data>
+        </Slider>
+        <Slider name="7B Lower" invert="false" small="0" big="0">
+            <Data name="Socks7B Lower" target="Socks" local="true">Summon Mistress Vaeloria Boots 3BA.osd\Socks7B Lower</Data>
+            <Data name="Boots7B Lower" target="Boots" local="true">Summon Mistress Vaeloria Boots 3BA.osd\Boots7B Lower</Data>
+        </Slider>
+        <Slider name="VanillaSSEHi" invert="false" small="0" big="0">
+            <Data name="SocksVanillaSSEHi" target="Socks" local="true">Summon Mistress Vaeloria Boots 3BA.osd\SocksVanillaSSEHi</Data>
+            <Data name="BootsVanillaSSEHi" target="Boots" local="true">Summon Mistress Vaeloria Boots 3BA.osd\BootsVanillaSSEHi</Data>
+        </Slider>
+        <Slider name="VanillaSSELo" invert="false" small="0" big="0">
+            <Data name="SocksVanillaSSELo" target="Socks" local="true">Summon Mistress Vaeloria Boots 3BA.osd\SocksVanillaSSELo</Data>
+            <Data name="BootsVanillaSSELo" target="Boots" local="true">Summon Mistress Vaeloria Boots 3BA.osd\BootsVanillaSSELo</Data>
+        </Slider>
+        <Slider name="OldBaseShape" invert="false" small="0" big="0">
+            <Data name="SocksOldBaseShape" target="Socks" local="true">Summon Mistress Vaeloria Boots 3BA.osd\SocksOldBaseShape</Data>
+            <Data name="BootsOldBaseShape" target="Boots" local="true">Summon Mistress Vaeloria Boots 3BA.osd\BootsOldBaseShape</Data>
+        </Slider>
+        <Slider name="CalfFBThicc_v2" invert="false" small="0" big="0">
+            <Data name="SocksCalfFBThicc_v2" target="Socks" local="true">Summon Mistress Vaeloria Boots 3BA.osd\SocksCalfFBThicc_v2</Data>
+            <Data name="BootsCalfFBThicc_v2" target="Boots" local="true">Summon Mistress Vaeloria Boots 3BA.osd\BootsCalfFBThicc_v2</Data>
+        </Slider>
+        <Slider name="KneeShape" invert="false" small="0" big="0">
+            <Data name="SocksKneeShape" target="Socks" local="true">Summon Mistress Vaeloria Boots 3BA.osd\SocksKneeShape</Data>
+            <Data name="BootsKneeShape" target="Boots" local="true">Summon Mistress Vaeloria Boots 3BA.osd\BootsKneeShape</Data>
+        </Slider>
+        <Slider name="KneeTogether_v2" invert="false" small="0" big="0">
+            <Data name="SocksKneeTogether_v2" target="Socks" local="true">Summon Mistress Vaeloria Boots 3BA.osd\SocksKneeTogether_v2</Data>
+            <Data name="BootsKneeTogether_v2" target="Boots" local="true">Summon Mistress Vaeloria Boots 3BA.osd\BootsKneeTogether_v2</Data>
+        </Slider>
+        <Slider name="MuscleMoreLegs_v2" invert="false" small="0" big="0">
+            <Data name="SocksMuscleMoreLegs_v2" target="Socks" local="true">Summon Mistress Vaeloria Boots 3BA.osd\SocksMuscleMoreLegs_v2</Data>
+            <Data name="BootsMuscleMoreLegs_v2" target="Boots" local="true">Summon Mistress Vaeloria Boots 3BA.osd\BootsMuscleMoreLegs_v2</Data>
+        </Slider>
+        <Slider name="ThighOutsideThicc_v2" invert="false" small="0" big="0">
+            <Data name="SocksThighOutsideThicc_v2" target="Socks" local="true">Summon Mistress Vaeloria Boots 3BA.osd\SocksThighOutsideThicc_v2</Data>
+        </Slider>
+        <Slider name="ThighInsideThicc_v2" invert="false" small="0" big="0">
+            <Data name="SocksThighInsideThicc_v2" target="Socks" local="true">Summon Mistress Vaeloria Boots 3BA.osd\SocksThighInsideThicc_v2</Data>
+        </Slider>
+        <Slider name="ThighFBThicc_v2" invert="false" small="0" big="0">
+            <Data name="SocksThighFBThicc_v2" target="Socks" local="true">Summon Mistress Vaeloria Boots 3BA.osd\SocksThighFBThicc_v2</Data>
+        </Slider>
+        <Slider name="LegSpread_v2" invert="false" small="0" big="0">
+            <Data name="SocksLegSpread_v2" target="Socks" local="true">Summon Mistress Vaeloria Boots 3BA.osd\SocksLegSpread_v2</Data>
+            <Data name="BootsLegSpread_v2" target="Boots" local="true">Summon Mistress Vaeloria Boots 3BA.osd\BootsLegSpread_v2</Data>
+        </Slider>
+        <Slider name="UNPHip_v2" invert="false" small="0" big="0">
+            <Data name="SocksUNPHip_v2" target="Socks" local="true">Summon Mistress Vaeloria Boots 3BA.osd\SocksUNPHip_v2</Data>
+        </Slider>
+        <Slider name="7BLeg_v2" invert="false" small="0" big="0">
+            <Data name="Socks7BLeg_v2" target="Socks" local="true">Summon Mistress Vaeloria Boots 3BA.osd\Socks7BLeg_v2</Data>
+            <Data name="Boots7BLeg_v2" target="Boots" local="true">Summon Mistress Vaeloria Boots 3BA.osd\Boots7BLeg_v2</Data>
         </Slider>
     </SliderSet>
 </SliderSetInfo>
