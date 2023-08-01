@@ -6,11 +6,11 @@ Scriptname TIF__041083C1 Extends TopicInfo Hidden
 Function Fragment_1(ObjectReference akSpeakerRef)
 Actor akSpeaker = akSpeakerRef as Actor
 ;BEGIN CODE
-akspeaker.AddToFaction(SM_MistressVaeloriaMetSerana)
+Alias_VaeloriaMetSerana.ForceRefTo(akspeaker)
 ;END CODE
 EndFunction
 ;END FRAGMENT
 
 ;END FRAGMENT CODE - Do not edit anything between this and the begin comment
 
-Faction property SM_MistressVaeloriaMetSerana auto
+ReferenceAlias property Alias_VaeloriaMetSerana  auto
