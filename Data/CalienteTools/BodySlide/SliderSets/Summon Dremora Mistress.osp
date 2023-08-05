@@ -1,0 +1,907 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Summon Dremora Mistress Adriette Dress">
+        <DataFolder>Summon Dremora Mistress Adriette Dress</DataFolder>
+        <SourceFile>Summon Dremora Mistress Adriette Dress.nif</SourceFile>
+        <OutputPath>Meshes\Summon_Mistress_Meshes\outfit</OutputPath>
+        <OutputFile GenWeights="true">adriette_dress</OutputFile>
+        <Shape target="BaseShape" DataFolder="0VCE_02f_HumbleAttire">BaseShape</Shape>
+        <Shape target="Corset">Corset</Shape>
+        <Shape target="Dress">Dress</Shape>
+        <Slider name="AnkleSize" invert="false" small="100" big="0">
+            <Data name="DressAnkleSize" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressAnkleSize</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <Data name="BaseShapeAppleCheeks" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeAppleCheeks</Data>
+            <Data name="CorsetAppleCheeks" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetAppleCheeks</Data>
+            <Data name="DressAppleCheeks" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressAppleCheeks</Data>
+        </Slider>
+        <Slider name="Arms" invert="false" small="0" big="0">
+            <Data name="BaseShapeArms" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeArms</Data>
+            <Data name="CorsetArms" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetArms</Data>
+            <Data name="DressArms" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressArms</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="BaseShapeBack" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeBack</Data>
+            <Data name="CorsetBack" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetBack</Data>
+            <Data name="DressBack" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBack</Data>
+        </Slider>
+        <Slider name="BackArch" invert="false" small="0" big="0">
+            <Data name="BaseShapeBackArch" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeBackArch</Data>
+            <Data name="CorsetBackArch" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetBackArch</Data>
+            <Data name="DressBackArch" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBackArch</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" small="0" big="0">
+            <Data name="BaseShapeBelly" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeBelly</Data>
+            <Data name="CorsetBelly" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetBelly</Data>
+            <Data name="DressBelly" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBelly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <Data name="BaseShapeBigBelly" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeBigBelly</Data>
+            <Data name="CorsetBigBelly" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetBigBelly</Data>
+            <Data name="DressBigBelly" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBigBelly</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="BaseShapeBigButt" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeBigButt</Data>
+            <Data name="CorsetBigButt" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetBigButt</Data>
+            <Data name="DressBigButt" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBigButt</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="BaseShapeBigTorso" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeBigTorso</Data>
+            <Data name="CorsetBigTorso" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetBigTorso</Data>
+            <Data name="DressBigTorso" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBigTorso</Data>
+        </Slider>
+        <Slider name="BreastCenter" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastCenter" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeBreastCenter</Data>
+            <Data name="CorsetBreastCenter" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetBreastCenter</Data>
+            <Data name="DressBreastCenter" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBreastCenter</Data>
+        </Slider>
+        <Slider name="BreastCenterBig" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastCenterBig" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeBreastCenterBig</Data>
+            <Data name="CorsetBreastCenterBig" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetBreastCenterBig</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastCleavage" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeBreastCleavage</Data>
+            <Data name="CorsetBreastCleavage" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetBreastCleavage</Data>
+            <Data name="DressBreastCleavage" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastFlatness2" invert="false" small="0" big="0">
+            <Data name="CorsetBreastFlatness2" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetBreastFlatness2</Data>
+            <Data name="DressBreastFlatness2" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBreastFlatness2</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastFlatness" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeBreastFlatness</Data>
+            <Data name="CorsetBreastFlatness" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetBreastFlatness</Data>
+            <Data name="DressBreastFlatness" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity2" invert="false" small="0" big="0">
+            <Data name="CorsetBreastGravity2" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetBreastGravity2</Data>
+            <Data name="DressBreastGravity2" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBreastGravity2</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastHeight" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeBreastHeight</Data>
+            <Data name="CorsetBreastHeight" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetBreastHeight</Data>
+            <Data name="DressBreastHeight" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastPerkiness" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeBreastPerkiness</Data>
+            <Data name="CorsetBreastPerkiness" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetBreastPerkiness</Data>
+            <Data name="DressBreastPerkiness" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBreastPerkiness</Data>
+        </Slider>
+        <Slider name="Breasts" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreasts" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeBreasts</Data>
+            <Data name="CorsetBreasts" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetBreasts</Data>
+            <Data name="DressBreasts" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBreasts</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastsFantasy" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeBreastsFantasy</Data>
+            <Data name="CorsetBreastsFantasy" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetBreastsFantasy</Data>
+            <Data name="DressBreastsFantasy" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBreastsFantasy</Data>
+        </Slider>
+        <Slider name="BreastsGone" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastsGone" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeBreastsGone</Data>
+            <Data name="CorsetBreastsGone" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetBreastsGone</Data>
+            <Data name="DressBreastsGone" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBreastsGone</Data>
+        </Slider>
+        <Slider name="BreastsNewSH" invert="false" small="0" big="0">
+            <Data name="CorsetBreastsNewSH" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetBreastsNewSH</Data>
+            <Data name="DressBreastsNewSH" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBreastsNewSH</Data>
+        </Slider>
+        <Slider name="BreastsNewSHSymmetry" invert="false" small="0" big="0">
+            <Data name="CorsetBreastsNewSHSymmetry" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetBreastsNewSHSymmetry</Data>
+            <Data name="DressBreastsNewSHSymmetry" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBreastsNewSHSymmetry</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastsSmall" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeBreastsSmall</Data>
+            <Data name="CorsetBreastsSmall" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetBreastsSmall</Data>
+            <Data name="DressBreastsSmall" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSmall2" invert="false" small="0" big="0">
+            <Data name="CorsetBreastsSmall2" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetBreastsSmall2</Data>
+            <Data name="DressBreastsSmall2" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBreastsSmall2</Data>
+        </Slider>
+        <Slider name="BreastsTogether" invert="false" small="0" big="0">
+            <Data name="CorsetBreastsTogether" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetBreastsTogether</Data>
+            <Data name="DressBreastsTogether" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBreastsTogether</Data>
+        </Slider>
+        <Slider name="BreastTopSlope" invert="false" small="0" big="0">
+            <Data name="CorsetBreastTopSlope" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetBreastTopSlope</Data>
+            <Data name="DressBreastTopSlope" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBreastTopSlope</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastWidth" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeBreastWidth</Data>
+            <Data name="CorsetBreastWidth" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetBreastWidth</Data>
+            <Data name="DressBreastWidth" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBreastWidth</Data>
+        </Slider>
+        <Slider name="BreastSideShape" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastSideShape" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeBreastSideShape</Data>
+            <Data name="CorsetBreastSideShape" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetBreastSideShape</Data>
+            <Data name="DressBreastSideShape" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBreastSideShape</Data>
+        </Slider>
+        <Slider name="BreastUnderDepth" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastUnderDepth" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeBreastUnderDepth</Data>
+            <Data name="CorsetBreastUnderDepth" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetBreastUnderDepth</Data>
+            <Data name="DressBreastUnderDepth" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBreastUnderDepth</Data>
+        </Slider>
+        <Slider name="Butt" invert="false" small="0" big="0">
+            <Data name="BaseShapeButt" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeButt</Data>
+            <Data name="CorsetButt" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetButt</Data>
+            <Data name="DressButt" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressButt</Data>
+        </Slider>
+        <Slider name="ButtClassic" invert="false" small="0" big="0">
+            <Data name="CorsetButtClassic" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetButtClassic</Data>
+            <Data name="DressButtClassic" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressButtClassic</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="false" small="0" big="0">
+            <Data name="BaseShapeButtCrack" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeButtCrack</Data>
+            <Data name="DressButtCrack" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressButtCrack</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="BaseShapeButtShape2" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeButtShape2</Data>
+            <Data name="CorsetButtShape2" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetButtShape2</Data>
+            <Data name="DressButtShape2" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressButtShape2</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="false" small="0" big="0">
+            <Data name="BaseShapeButtSmall" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeButtSmall</Data>
+            <Data name="CorsetButtSmall" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetButtSmall</Data>
+            <Data name="DressButtSmall" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressButtSmall</Data>
+        </Slider>
+        <Slider name="ButtDimples" invert="false" small="0" big="0">
+            <Data name="BaseShapeButtDimples" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeButtDimples</Data>
+            <Data name="CorsetButtDimples" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetButtDimples</Data>
+            <Data name="DressButtDimples" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressButtDimples</Data>
+        </Slider>
+        <Slider name="ButtUnderFold" invert="false" small="0" big="0">
+            <Data name="BaseShapeButtUnderFold" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeButtUnderFold</Data>
+            <Data name="DressButtUnderFold" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressButtUnderFold</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="BaseShapeCalfSize" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeCalfSize</Data>
+            <Data name="DressCalfSize" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="BaseShapeCalfSmooth" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeCalfSmooth</Data>
+            <Data name="DressCalfSmooth" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressCalfSmooth</Data>
+        </Slider>
+        <Slider name="ChestDepth" invert="false" small="0" big="0">
+            <Data name="BaseShapeChestDepth" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeChestDepth</Data>
+            <Data name="CorsetChestDepth" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetChestDepth</Data>
+            <Data name="DressChestDepth" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressChestDepth</Data>
+        </Slider>
+        <Slider name="ChestWidth" invert="false" small="0" big="0">
+            <Data name="BaseShapeChestWidth" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeChestWidth</Data>
+            <Data name="CorsetChestWidth" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetChestWidth</Data>
+            <Data name="DressChestWidth" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressChestWidth</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="BaseShapeChubbyArms" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeChubbyArms</Data>
+            <Data name="CorsetChubbyArms" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetChubbyArms</Data>
+            <Data name="DressChubbyArms" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressChubbyArms</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="BaseShapeChubbyButt" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeChubbyButt</Data>
+            <Data name="CorsetChubbyButt" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetChubbyButt</Data>
+            <Data name="DressChubbyButt" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressChubbyButt</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="BaseShapeChubbyLegs" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeChubbyLegs</Data>
+            <Data name="CorsetChubbyLegs" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetChubbyLegs</Data>
+            <Data name="DressChubbyLegs" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressChubbyLegs</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="BaseShapeChubbyWaist" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeChubbyWaist</Data>
+            <Data name="CorsetChubbyWaist" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetChubbyWaist</Data>
+            <Data name="DressChubbyWaist" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressChubbyWaist</Data>
+        </Slider>
+        <Slider name="CrotchBack" invert="false" small="0" big="0">
+            <Data name="BaseShapeCrotchBack" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeCrotchBack</Data>
+            <Data name="CorsetCrotchBack" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetCrotchBack</Data>
+            <Data name="DressCrotchBack" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressCrotchBack</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="BaseShapeDoubleMelon" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeDoubleMelon</Data>
+            <Data name="CorsetDoubleMelon" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetDoubleMelon</Data>
+            <Data name="DressDoubleMelon" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressDoubleMelon</Data>
+        </Slider>
+        <Slider name="ForearmSize" invert="false" small="0" big="0">
+            <Data name="BaseShapeForearmSize" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeForearmSize</Data>
+            <Data name="DressForearmSize" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressForearmSize</Data>
+        </Slider>
+        <Slider name="Groin" invert="false" small="0" big="0">
+            <Data name="BaseShapeGroin" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeGroin</Data>
+            <Data name="DressGroin" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressGroin</Data>
+        </Slider>
+        <Slider name="HipBone" invert="false" small="0" big="0">
+            <Data name="BaseShapeHipBone" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeHipBone</Data>
+            <Data name="CorsetHipBone" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetHipBone</Data>
+            <Data name="DressHipBone" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressHipBone</Data>
+        </Slider>
+        <Slider name="HipForward" invert="false" small="0" big="0">
+            <Data name="BaseShapeHipForward" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeHipForward</Data>
+            <Data name="CorsetHipForward" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetHipForward</Data>
+            <Data name="DressHipForward" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressHipForward</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="BaseShapeHips" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeHips</Data>
+            <Data name="CorsetHips" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetHips</Data>
+            <Data name="DressHips" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressHips</Data>
+        </Slider>
+        <Slider name="HipUpperWidth" invert="false" small="0" big="0">
+            <Data name="BaseShapeHipUpperWidth" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeHipUpperWidth</Data>
+            <Data name="CorsetHipUpperWidth" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetHipUpperWidth</Data>
+            <Data name="DressHipUpperWidth" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressHipUpperWidth</Data>
+        </Slider>
+        <Slider name="HipCarved" invert="false" small="0" big="0">
+            <Data name="BaseShapeHipCarved" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeHipCarved</Data>
+            <Data name="DressHipCarved" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressHipCarved</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="BaseShapeKneeHeight" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeKneeHeight</Data>
+            <Data name="DressKneeHeight" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressKneeHeight</Data>
+        </Slider>
+        <Slider name="KneeShape" invert="false" small="0" big="0">
+            <Data name="BaseShapeKneeShape" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeKneeShape</Data>
+            <Data name="DressKneeShape" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressKneeShape</Data>
+        </Slider>
+        <Slider name="LegShapeClassic" invert="false" small="0" big="0">
+            <Data name="DressLegShapeClassic" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressLegShapeClassic</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" small="0" big="0">
+            <Data name="BaseShapeLegsThin" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeLegsThin</Data>
+            <Data name="DressLegsThin" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressLegsThin</Data>
+        </Slider>
+        <Slider name="MuscleAbs" invert="false" small="0" big="0">
+            <Data name="BaseShapeMuscleAbs" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeMuscleAbs</Data>
+            <Data name="CorsetMuscleAbs" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetMuscleAbs</Data>
+            <Data name="DressMuscleAbs" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressMuscleAbs</Data>
+        </Slider>
+        <Slider name="MuscleArms" invert="false" small="0" big="0">
+            <Data name="BaseShapeMuscleArms" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeMuscleArms</Data>
+            <Data name="CorsetMuscleArms" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetMuscleArms</Data>
+            <Data name="DressMuscleArms" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressMuscleArms</Data>
+        </Slider>
+        <Slider name="MuscleButt" invert="false" small="0" big="0">
+            <Data name="BaseShapeMuscleButt" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeMuscleButt</Data>
+            <Data name="CorsetMuscleButt" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetMuscleButt</Data>
+            <Data name="DressMuscleButt" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressMuscleButt</Data>
+        </Slider>
+        <Slider name="MuscleLegs" invert="false" small="0" big="0">
+            <Data name="BaseShapeMuscleLegs" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeMuscleLegs</Data>
+            <Data name="DressMuscleLegs" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressMuscleLegs</Data>
+        </Slider>
+        <Slider name="MusclePecs" invert="false" small="0" big="0">
+            <Data name="BaseShapeMusclePecs" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeMusclePecs</Data>
+            <Data name="CorsetMusclePecs" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetMusclePecs</Data>
+            <Data name="DressMusclePecs" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressMusclePecs</Data>
+        </Slider>
+        <Slider name="NavelEven" invert="false" small="0" big="0">
+            <Data name="BaseShapeNavelEven" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeNavelEven</Data>
+            <Data name="CorsetNavelEven" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetNavelEven</Data>
+            <Data name="DressNavelEven" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressNavelEven</Data>
+        </Slider>
+        <Slider name="NipBGone" invert="false" small="0" big="0">
+            <Data name="BaseShapeNipBGone" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeNipBGone</Data>
+            <Data name="CorsetNipBGone" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetNipBGone</Data>
+            <Data name="DressNipBGone" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressNipBGone</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="false" small="0" big="0">
+            <Data name="BaseShapeNippleDistance" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeNippleDistance</Data>
+            <Data name="CorsetNippleDistance" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetNippleDistance</Data>
+            <Data name="DressNippleDistance" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressNippleDistance</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <Data name="BaseShapeNippleDown" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeNippleDown</Data>
+            <Data name="CorsetNippleDown" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetNippleDown</Data>
+            <Data name="DressNippleDown" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressNippleDown</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" small="0" big="0">
+            <Data name="BaseShapeNippleLength" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeNippleLength</Data>
+            <Data name="CorsetNippleLength" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetNippleLength</Data>
+        </Slider>
+        <Slider name="NippleManga" invert="false" small="0" big="0">
+            <Data name="CorsetNippleManga" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetNippleManga</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" small="0" big="0">
+            <Data name="BaseShapeNipplePerkiness" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeNipplePerkiness</Data>
+            <Data name="CorsetNipplePerkiness" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetNipplePerkiness</Data>
+            <Data name="DressNipplePerkiness" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressNipplePerkiness</Data>
+        </Slider>
+        <Slider name="NipplePerkManga" invert="false" small="0" big="0">
+            <Data name="BaseShapeNipplePerkManga" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeNipplePerkManga</Data>
+            <Data name="CorsetNipplePerkManga" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetNipplePerkManga</Data>
+            <Data name="DressNipplePerkManga" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressNipplePerkManga</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="false" small="0" big="0">
+            <Data name="BaseShapeNippleSize" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeNippleSize</Data>
+            <Data name="CorsetNippleSize" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetNippleSize</Data>
+            <Data name="DressNippleSize" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressNippleSize</Data>
+        </Slider>
+        <Slider name="NippleTip" invert="false" small="0" big="0">
+            <Data name="BaseShapeNippleTip" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeNippleTip</Data>
+            <Data name="CorsetNippleTip" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetNippleTip</Data>
+            <Data name="DressNippleTip" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressNippleTip</Data>
+        </Slider>
+        <Slider name="NippleTipManga" invert="false" small="0" big="0">
+            <Data name="CorsetNippleTipManga" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetNippleTipManga</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="BaseShapeNippleUp" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeNippleUp</Data>
+            <Data name="CorsetNippleUp" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetNippleUp</Data>
+            <Data name="DressNippleUp" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressNippleUp</Data>
+        </Slider>
+        <Slider name="NippleDip" invert="false" small="0" big="0">
+            <Data name="CorsetNippleDip" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetNippleDip</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="BaseShapePregnancyBelly" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapePregnancyBelly</Data>
+            <Data name="CorsetPregnancyBelly" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetPregnancyBelly</Data>
+            <Data name="DressPregnancyBelly" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressPregnancyBelly</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="BaseShapePushUp" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapePushUp</Data>
+            <Data name="CorsetPushUp" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetPushUp</Data>
+            <Data name="DressPushUp" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressPushUp</Data>
+        </Slider>
+        <Slider name="RibsProminance" invert="false" small="0" big="0">
+            <Data name="BaseShapeRibsProminance" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeRibsProminance</Data>
+            <Data name="CorsetRibsProminance" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetRibsProminance</Data>
+            <Data name="DressRibsProminance" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressRibsProminance</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <Data name="BaseShapeRoundAss" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeRoundAss</Data>
+            <Data name="CorsetRoundAss" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetRoundAss</Data>
+            <Data name="DressRoundAss" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressRoundAss</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <Data name="BaseShapeShoulderSmooth" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeShoulderSmooth</Data>
+            <Data name="CorsetShoulderSmooth" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetShoulderSmooth</Data>
+            <Data name="DressShoulderSmooth" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderTweak" invert="false" small="0" big="0">
+            <Data name="BaseShapeShoulderTweak" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeShoulderTweak</Data>
+            <Data name="DressShoulderTweak" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressShoulderTweak</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="false" small="0" big="0">
+            <Data name="BaseShapeShoulderWidth" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeShoulderWidth</Data>
+            <Data name="CorsetShoulderWidth" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetShoulderWidth</Data>
+            <Data name="DressShoulderWidth" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressShoulderWidth</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="BaseShapeSlimThighs" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeSlimThighs</Data>
+            <Data name="CorsetSlimThighs" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetSlimThighs</Data>
+            <Data name="DressSlimThighs" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressSlimThighs</Data>
+        </Slider>
+        <Slider name="SternumDepth" invert="false" small="0" big="0">
+            <Data name="BaseShapeSternumDepth" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeSternumDepth</Data>
+            <Data name="CorsetSternumDepth" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetSternumDepth</Data>
+        </Slider>
+        <Slider name="SternumHeight" invert="false" small="0" big="0">
+            <Data name="BaseShapeSternumHeight" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeSternumHeight</Data>
+            <Data name="CorsetSternumHeight" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetSternumHeight</Data>
+            <Data name="DressSternumHeight" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressSternumHeight</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="BaseShapeThighs" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeThighs</Data>
+            <Data name="DressThighs" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressThighs</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <Data name="BaseShapeTummyTuck" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeTummyTuck</Data>
+            <Data name="CorsetTummyTuck" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetTummyTuck</Data>
+            <Data name="DressTummyTuck" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressTummyTuck</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="0">
+            <Data name="BaseShapeWaist" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeWaist</Data>
+            <Data name="CorsetWaist" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetWaist</Data>
+            <Data name="DressWaist" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressWaist</Data>
+        </Slider>
+        <Slider name="WaistHeight" invert="false" small="0" big="0">
+            <Data name="BaseShapeWaistHeight" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeWaistHeight</Data>
+            <Data name="CorsetWaistHeight" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetWaistHeight</Data>
+            <Data name="DressWaistHeight" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressWaistHeight</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <Data name="BaseShapeWideWaistLine" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeWideWaistLine</Data>
+            <Data name="CorsetWideWaistLine" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetWideWaistLine</Data>
+            <Data name="DressWideWaistLine" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressWideWaistLine</Data>
+        </Slider>
+        <Slider name="WristSize" invert="false" small="100" big="0">
+            <Data name="DressWristSize" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressWristSize</Data>
+        </Slider>
+        <Slider name="7B Lower" invert="false" small="0" big="0">
+            <Data name="Corset7B Lower" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\Corset7B Lower</Data>
+            <Data name="Dress7B Lower" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\Dress7B Lower</Data>
+        </Slider>
+        <Slider name="7B Upper" invert="false" small="0" big="0">
+            <Data name="Corset7B Upper" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\Corset7B Upper</Data>
+            <Data name="Dress7B Upper" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\Dress7B Upper</Data>
+        </Slider>
+        <Slider name="VanillaSSEHi" invert="false" small="0" big="0">
+            <Data name="CorsetVanillaSSEHi" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetVanillaSSEHi</Data>
+            <Data name="DressVanillaSSEHi" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressVanillaSSEHi</Data>
+        </Slider>
+        <Slider name="VanillaSSELo" invert="false" small="0" big="0">
+            <Data name="CorsetVanillaSSELo" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetVanillaSSELo</Data>
+            <Data name="DressVanillaSSELo" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressVanillaSSELo</Data>
+        </Slider>
+        <Slider name="OldBaseShape" invert="false" small="0" big="0">
+            <Data name="CorsetOldBaseShape" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetOldBaseShape</Data>
+            <Data name="DressOldBaseShape" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressOldBaseShape</Data>
+        </Slider>
+        <Slider name="CBBE SE to BHUNP" invert="false" small="0" big="0">
+            <Data name="CorsetCBBE SE to BHUNP" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetCBBE SE to BHUNP</Data>
+            <Data name="DressCBBE SE to BHUNP" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressCBBE SE to BHUNP</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="BaseShape7B Low" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShape7B Low</Data>
+            <Data name="Corset7B Low" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\Corset7B Low</Data>
+            <Data name="Dress7B Low" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\Dress7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="BaseShape7B High" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShape7B High</Data>
+            <Data name="Corset7B High" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\Corset7B High</Data>
+            <Data name="Dress7B High" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\Dress7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="BaseShape7B Bombshell Low" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShape7B Bombshell Low</Data>
+            <Data name="Corset7B Bombshell Low" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\Corset7B Bombshell Low</Data>
+            <Data name="Dress7B Bombshell Low" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\Dress7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="BaseShape7B Bombshell High" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShape7B Bombshell High</Data>
+            <Data name="Corset7B Bombshell High" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\Corset7B Bombshell High</Data>
+            <Data name="Dress7B Bombshell High" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\Dress7B Bombshell High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="BaseShapeUNP Low" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeUNP Low</Data>
+            <Data name="CorsetUNP Low" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetUNP Low</Data>
+            <Data name="DressUNP Low" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="BaseShapeUNP High" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeUNP High</Data>
+            <Data name="CorsetUNP High" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetUNP High</Data>
+            <Data name="DressUNP High" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressUNP High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="BaseShapeUNPB Low" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeUNPB Low</Data>
+            <Data name="CorsetUNPB Low" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetUNPB Low</Data>
+            <Data name="DressUNPB Low" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="BaseShapeUNPB High" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeUNPB High</Data>
+            <Data name="CorsetUNPB High" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetUNPB High</Data>
+            <Data name="DressUNPB High" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="BaseShapeUNPB Oppai v3.2 Low" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeUNPB Oppai v3.2 Low</Data>
+            <Data name="CorsetUNPB Oppai v3.2 Low" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetUNPB Oppai v3.2 Low</Data>
+            <Data name="DressUNPB Oppai v3.2 Low" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="BaseShapeUNPB Oppai v3.2 High" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeUNPB Oppai v3.2 High</Data>
+            <Data name="CorsetUNPB Oppai v3.2 High" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetUNPB Oppai v3.2 High</Data>
+            <Data name="DressUNPB Oppai v3.2 High" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="BaseShapeUNPC Low" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeUNPC Low</Data>
+            <Data name="CorsetUNPC Low" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetUNPC Low</Data>
+            <Data name="DressUNPC Low" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="BaseShapeUNPC High" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeUNPC High</Data>
+            <Data name="CorsetUNPC High" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetUNPC High</Data>
+            <Data name="DressUNPC High" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressUNPC High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="BaseShapeTop Model Low" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeTop Model Low</Data>
+            <Data name="CorsetTop Model Low" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetTop Model Low</Data>
+            <Data name="DressTop Model Low" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="BaseShapeTop Model High" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeTop Model High</Data>
+            <Data name="CorsetTop Model High" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetTop Model High</Data>
+            <Data name="DressTop Model High" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressTop Model High</Data>
+        </Slider>
+        <Slider name="Aruru6Duck Low" invert="false" small="0" big="0">
+            <Data name="BaseShapeAruru6Duck Low" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeAruru6Duck Low</Data>
+            <Data name="CorsetAruru6Duck Low" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetAruru6Duck Low</Data>
+            <Data name="DressAruru6Duck Low" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressAruru6Duck Low</Data>
+        </Slider>
+        <Slider name="Aruru6Duck High" invert="false" small="0" big="0">
+            <Data name="BaseShapeAruru6Duck High" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeAruru6Duck High</Data>
+            <Data name="CorsetAruru6Duck High" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetAruru6Duck High</Data>
+            <Data name="DressAruru6Duck High" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressAruru6Duck High</Data>
+        </Slider>
+        <Slider name="AnusSpread" invert="false" small="0" big="0">
+            <Data name="BaseShapeAnusSpread" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeAnusSpread</Data>
+        </Slider>
+        <Slider name="BellyBalls" invert="false" small="0" big="0">
+            <Data name="BaseShapeBellyBalls" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeBellyBalls</Data>
+            <Data name="CorsetBellyBalls" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetBellyBalls</Data>
+            <Data name="DressBellyBalls" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBellyBalls</Data>
+        </Slider>
+        <Slider name="BellyCenterProtrude" invert="false" small="0" big="0">
+            <Data name="BaseShapeBellyCenterProtrude" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeBellyCenterProtrude</Data>
+            <Data name="CorsetBellyCenterProtrude" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetBellyCenterProtrude</Data>
+            <Data name="DressBellyCenterProtrude" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBellyCenterProtrude</Data>
+        </Slider>
+        <Slider name="BellyCenterUpperProtrude" invert="false" small="0" big="0">
+            <Data name="BaseShapeBellyCenterUpperProtrude" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeBellyCenterUpperProtrude</Data>
+            <Data name="CorsetBellyCenterUpperProtrude" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetBellyCenterUpperProtrude</Data>
+            <Data name="DressBellyCenterUpperProtrude" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBellyCenterUpperProtrude</Data>
+        </Slider>
+        <Slider name="BellyFatLower" invert="false" small="0" big="0">
+            <Data name="BaseShapeBellyFatLower" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeBellyFatLower</Data>
+            <Data name="CorsetBellyFatLower" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetBellyFatLower</Data>
+            <Data name="DressBellyFatLower" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBellyFatLower</Data>
+        </Slider>
+        <Slider name="BellyFatUpper" invert="false" small="0" big="0">
+            <Data name="BaseShapeBellyFatUpper" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeBellyFatUpper</Data>
+            <Data name="CorsetBellyFatUpper" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetBellyFatUpper</Data>
+            <Data name="DressBellyFatUpper" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBellyFatUpper</Data>
+        </Slider>
+        <Slider name="BellyPressed" invert="false" small="0" big="0">
+            <Data name="BaseShapeBellyPressed" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeBellyPressed</Data>
+            <Data name="CorsetBellyPressed" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetBellyPressed</Data>
+            <Data name="DressBellyPressed" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBellyPressed</Data>
+        </Slider>
+        <Slider name="BellyLowerSwell1" invert="false" small="0" big="0">
+            <Data name="BaseShapeBellyLowerSwell1" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeBellyLowerSwell1</Data>
+            <Data name="DressBellyLowerSwell1" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBellyLowerSwell1</Data>
+        </Slider>
+        <Slider name="BellyLowerSwell2" invert="false" small="0" big="0">
+            <Data name="BaseShapeBellyLowerSwell2" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeBellyLowerSwell2</Data>
+            <Data name="DressBellyLowerSwell2" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBellyLowerSwell2</Data>
+        </Slider>
+        <Slider name="BellyLowerSwell3" invert="false" small="0" big="0">
+            <Data name="BaseShapeBellyLowerSwell3" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeBellyLowerSwell3</Data>
+            <Data name="CorsetBellyLowerSwell3" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetBellyLowerSwell3</Data>
+            <Data name="DressBellyLowerSwell3" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBellyLowerSwell3</Data>
+        </Slider>
+        <Slider name="BellyObesity" invert="false" small="0" big="0">
+            <Data name="BaseShapeBellyObesity" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeBellyObesity</Data>
+            <Data name="CorsetBellyObesity" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetBellyObesity</Data>
+            <Data name="DressBellyObesity" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBellyObesity</Data>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastsSH" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeBreastsSH</Data>
+            <Data name="CorsetBreastsSH" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetBreastsSH</Data>
+            <Data name="DressBreastsSH" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBreastsSH</Data>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastsSSH" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeBreastsSSH</Data>
+            <Data name="CorsetBreastsSSH" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetBreastsSSH</Data>
+            <Data name="DressBreastsSSH" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBreastsSSH</Data>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastGravity" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeBreastGravity</Data>
+            <Data name="CorsetBreastGravity" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetBreastGravity</Data>
+            <Data name="DressBreastGravity" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBreastGravity</Data>
+        </Slider>
+        <Slider name="BreastsPressed" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastsPressed" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeBreastsPressed</Data>
+            <Data name="CorsetBreastsPressed" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetBreastsPressed</Data>
+            <Data name="DressBreastsPressed" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBreastsPressed</Data>
+        </Slider>
+        <Slider name="BreastConverge" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastConverge" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeBreastConverge</Data>
+            <Data name="CorsetBreastConverge" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetBreastConverge</Data>
+            <Data name="DressBreastConverge" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBreastConverge</Data>
+        </Slider>
+        <Slider name="BotePregnancy" invert="false" small="0" big="0">
+            <Data name="BaseShapeBotePregnancy" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeBotePregnancy</Data>
+            <Data name="CorsetBotePregnancy" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetBotePregnancy</Data>
+            <Data name="DressBotePregnancy" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBotePregnancy</Data>
+        </Slider>
+        <Slider name="ClitorisErection" invert="false" small="0" big="0">
+            <Data name="BaseShapeClitorisErection" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeClitorisErection</Data>
+            <Data name="DressClitorisErection" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressClitorisErection</Data>
+        </Slider>
+        <Slider name="ClitSpread" invert="false" small="0" big="0">
+            <Data name="BaseShapeClitSpread" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeClitSpread</Data>
+        </Slider>
+        <Slider name="KneeSlim" invert="false" small="0" big="0">
+            <Data name="BaseShapeKneeSlim" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeKneeSlim</Data>
+            <Data name="DressKneeSlim" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressKneeSlim</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="BaseShapeLegs" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeLegs</Data>
+            <Data name="DressLegs" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressLegs</Data>
+        </Slider>
+        <Slider name="LeftBreastFuck" invert="false" small="0" big="0">
+            <Data name="BaseShapeLeftBreastFuck" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeLeftBreastFuck</Data>
+            <Data name="CorsetLeftBreastFuck" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetLeftBreastFuck</Data>
+            <Data name="DressLeftBreastFuck" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressLeftBreastFuck</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" small="0" big="0">
+            <Data name="BaseShapeNippleAreola" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeNippleAreola</Data>
+            <Data name="CorsetNippleAreola" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetNippleAreola</Data>
+            <Data name="DressNippleAreola" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressNippleAreola</Data>
+        </Slider>
+        <Slider name="NippleErection" invert="false" small="0" big="0">
+            <Data name="BaseShapeNippleErection" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeNippleErection</Data>
+            <Data name="CorsetNippleErection" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetNippleErection</Data>
+        </Slider>
+        <Slider name="NippleInverted" invert="false" small="0" big="0">
+            <Data name="BaseShapeNippleInverted" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeNippleInverted</Data>
+            <Data name="CorsetNippleInverted" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetNippleInverted</Data>
+        </Slider>
+        <Slider name="NippleLeftPinch" invert="false" small="0" big="0">
+            <Data name="BaseShapeNippleLeftPinch" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeNippleLeftPinch</Data>
+            <Data name="CorsetNippleLeftPinch" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetNippleLeftPinch</Data>
+        </Slider>
+        <Slider name="NippleLeftPressed" invert="false" small="0" big="0">
+            <Data name="BaseShapeNippleLeftPressed" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeNippleLeftPressed</Data>
+            <Data name="CorsetNippleLeftPressed" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetNippleLeftPressed</Data>
+        </Slider>
+        <Slider name="NipplePuffyAreola" invert="false" small="0" big="0">
+            <Data name="BaseShapeNipplePuffyAreola" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeNipplePuffyAreola</Data>
+            <Data name="CorsetNipplePuffyAreola" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetNipplePuffyAreola</Data>
+        </Slider>
+        <Slider name="NippleRightPinch" invert="false" small="0" big="0">
+            <Data name="BaseShapeNippleRightPinch" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeNippleRightPinch</Data>
+            <Data name="CorsetNippleRightPinch" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetNippleRightPinch</Data>
+        </Slider>
+        <Slider name="NippleRightPressed" invert="false" small="0" big="0">
+            <Data name="BaseShapeNippleRightPressed" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeNippleRightPressed</Data>
+            <Data name="CorsetNippleRightPressed" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetNippleRightPressed</Data>
+        </Slider>
+        <Slider name="Neck" invert="false" small="100" big="0" hidden="true">
+            <Data name="BaseShapeNeck" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeNeck</Data>
+        </Slider>
+        <Slider name="PussyClipFix" invert="false" small="0" big="0">
+            <Data name="BaseShapePussyClipFix" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapePussyClipFix</Data>
+            <Data name="DressPussyClipFix" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressPussyClipFix</Data>
+        </Slider>
+        <Slider name="PussyCute" invert="false" small="0" big="0">
+            <Data name="BaseShapePussyCute" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapePussyCute</Data>
+            <Data name="DressPussyCute" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressPussyCute</Data>
+        </Slider>
+        <Slider name="PussyMajora" invert="false" small="0" big="0">
+            <Data name="BaseShapePussyMajora" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapePussyMajora</Data>
+            <Data name="DressPussyMajora" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressPussyMajora</Data>
+        </Slider>
+        <Slider name="PussyMinora" invert="false" small="0" big="0">
+            <Data name="BaseShapePussyMinora" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapePussyMinora</Data>
+        </Slider>
+        <Slider name="PussyMajoraBig" invert="false" small="0" big="0">
+            <Data name="BaseShapePussyMajoraBig" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapePussyMajoraBig</Data>
+            <Data name="DressPussyMajoraBig" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressPussyMajoraBig</Data>
+        </Slider>
+        <Slider name="PussyHilly" invert="false" small="0" big="0">
+            <Data name="BaseShapePussyHilly" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapePussyHilly</Data>
+            <Data name="DressPussyHilly" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressPussyHilly</Data>
+        </Slider>
+        <Slider name="PussyOpen" invert="false" small="0" big="0">
+            <Data name="BaseShapePussyOpen" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapePussyOpen</Data>
+        </Slider>
+        <Slider name="RightBreastFuck" invert="false" small="0" big="0">
+            <Data name="BaseShapeRightBreastFuck" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeRightBreastFuck</Data>
+            <Data name="CorsetRightBreastFuck" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetRightBreastFuck</Data>
+            <Data name="DressRightBreastFuck" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressRightBreastFuck</Data>
+        </Slider>
+        <Slider name="Top Slope" invert="false" small="0" big="0">
+            <Data name="BaseShapeTop Slope" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeTop Slope</Data>
+            <Data name="CorsetTop Slope" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetTop Slope</Data>
+            <Data name="DressTop Slope" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressTop Slope</Data>
+        </Slider>
+        <Slider name="ArmpitShape" invert="false" small="0" big="0">
+            <Data name="BaseShapeArmpitShape" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeArmpitShape</Data>
+            <Data name="CorsetArmpitShape" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetArmpitShape</Data>
+            <Data name="DressArmpitShape" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressArmpitShape</Data>
+        </Slider>
+        <Slider name="Biceps" invert="false" small="0" big="0">
+            <Data name="BaseShapeBiceps" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeBiceps</Data>
+            <Data name="DressBiceps" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBiceps</Data>
+        </Slider>
+        <Slider name="Clavicle" invert="false" small="0" big="0">
+            <Data name="BaseShapeClavicle" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeClavicle</Data>
+            <Data name="DressClavicle" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressClavicle</Data>
+        </Slider>
+        <Slider name="ClaviclesSize" invert="false" small="0" big="0">
+            <Data name="BaseShapeClaviclesSize" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeClaviclesSize</Data>
+            <Data name="DressClaviclesSize" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressClaviclesSize</Data>
+        </Slider>
+        <Slider name="ClaviclesFront" invert="false" small="0" big="0">
+            <Data name="BaseShapeClaviclesFront" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeClaviclesFront</Data>
+            <Data name="DressClaviclesFront" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressClaviclesFront</Data>
+        </Slider>
+        <Slider name="ClaviclesAngle" invert="false" small="0" big="0">
+            <Data name="BaseShapeClaviclesAngle" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeClaviclesAngle</Data>
+            <Data name="DressClaviclesAngle" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressClaviclesAngle</Data>
+        </Slider>
+        <Slider name="BellyDefine" invert="false" small="0" big="0">
+            <Data name="BaseShapeBellyDefine" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeBellyDefine</Data>
+            <Data name="CorsetBellyDefine" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetBellyDefine</Data>
+            <Data name="DressBellyDefine" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBellyDefine</Data>
+        </Slider>
+        <Slider name="RectusOuterDetail" invert="false" small="0" big="0">
+            <Data name="BaseShapeRectusOuterDetail" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeRectusOuterDetail</Data>
+            <Data name="CorsetRectusOuterDetail" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetRectusOuterDetail</Data>
+            <Data name="DressRectusOuterDetail" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressRectusOuterDetail</Data>
+        </Slider>
+        <Slider name="RectusAbdominis" invert="false" small="0" big="0">
+            <Data name="BaseShapeRectusAbdominis" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeRectusAbdominis</Data>
+            <Data name="CorsetRectusAbdominis" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetRectusAbdominis</Data>
+            <Data name="DressRectusAbdominis" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressRectusAbdominis</Data>
+        </Slider>
+        <Slider name="BellyUnder" invert="false" small="0" big="0">
+            <Data name="BaseShapeBellyUnder" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeBellyUnder</Data>
+            <Data name="DressBellyUnder" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBellyUnder</Data>
+        </Slider>
+        <Slider name="RibsMore" invert="false" small="0" big="0">
+            <Data name="BaseShapeRibsMore" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeRibsMore</Data>
+            <Data name="CorsetRibsMore" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetRibsMore</Data>
+            <Data name="DressRibsMore" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressRibsMore</Data>
+        </Slider>
+        <Slider name="BackValley" invert="false" small="0" big="0">
+            <Data name="BaseShapeBackValley" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeBackValley</Data>
+            <Data name="CorsetBackValley" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetBackValley</Data>
+            <Data name="DressBackValley" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBackValley</Data>
+        </Slider>
+        <Slider name="BackWing" invert="false" small="0" big="0">
+            <Data name="BaseShapeBackWing" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeBackWing</Data>
+            <Data name="CorsetBackWing" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetBackWing</Data>
+            <Data name="DressBackWing" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBackWing</Data>
+        </Slider>
+        <Slider name="BreastSaggy" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastSaggy" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeBreastSaggy</Data>
+            <Data name="CorsetBreastSaggy" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetBreastSaggy</Data>
+            <Data name="DressBreastSaggy" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBreastSaggy</Data>
+        </Slider>
+        <Slider name="BreastsSpread" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastsSpread" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeBreastsSpread</Data>
+            <Data name="CorsetBreastsSpread" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetBreastsSpread</Data>
+            <Data name="DressBreastsSpread" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBreastsSpread</Data>
+        </Slider>
+        <Slider name="BreastDiameter" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastDiameter" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeBreastDiameter</Data>
+            <Data name="CorsetBreastDiameter" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetBreastDiameter</Data>
+            <Data name="DressBreastDiameter" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBreastDiameter</Data>
+        </Slider>
+        <Slider name="AreolaPull" invert="false" small="0" big="0">
+            <Data name="BaseShapeAreolaPull" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeAreolaPull</Data>
+            <Data name="CorsetAreolaPull" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetAreolaPull</Data>
+            <Data name="DressAreolaPull" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressAreolaPull</Data>
+        </Slider>
+        <Slider name="NippleThicc" invert="false" small="0" big="0">
+            <Data name="BaseShapeNippleThicc" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeNippleThicc</Data>
+            <Data name="CorsetNippleThicc" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetNippleThicc</Data>
+        </Slider>
+        <Slider name="ButtSaggy" invert="false" small="0" big="0">
+            <Data name="BaseShapeButtSaggy" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeButtSaggy</Data>
+            <Data name="DressButtSaggy" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressButtSaggy</Data>
+        </Slider>
+        <Slider name="ButtConverge" invert="false" small="0" big="0">
+            <Data name="BaseShapeButtConverge" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeButtConverge</Data>
+            <Data name="CorsetButtConverge" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetButtConverge</Data>
+            <Data name="DressButtConverge" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressButtConverge</Data>
+        </Slider>
+        <Slider name="HipNarrow" invert="false" small="0" big="0">
+            <Data name="BaseShapeHipNarrow" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeHipNarrow</Data>
+            <Data name="CorsetHipNarrow" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetHipNarrow</Data>
+            <Data name="DressHipNarrow" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressHipNarrow</Data>
+        </Slider>
+        <Slider name="ThighApart" invert="false" small="0" big="0">
+            <Data name="BaseShapeThighApart" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeThighApart</Data>
+            <Data name="DressThighApart" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressThighApart</Data>
+        </Slider>
+        <Slider name="ThighOuter" invert="false" small="0" big="0">
+            <Data name="BaseShapeThighOuter" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeThighOuter</Data>
+            <Data name="DressThighOuter" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressThighOuter</Data>
+        </Slider>
+        <Slider name="ThighThicker" invert="false" small="0" big="0">
+            <Data name="BaseShapeThighThicker" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeThighThicker</Data>
+            <Data name="DressThighThicker" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressThighThicker</Data>
+        </Slider>
+        <Slider name="Sartorius" invert="false" small="0" big="0">
+            <Data name="BaseShapeSartorius" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeSartorius</Data>
+            <Data name="DressSartorius" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressSartorius</Data>
+        </Slider>
+        <Slider name="RectusFemoris" invert="false" small="0" big="0">
+            <Data name="BaseShapeRectusFemoris" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeRectusFemoris</Data>
+            <Data name="DressRectusFemoris" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressRectusFemoris</Data>
+        </Slider>
+        <Slider name="VastusLateralis" invert="false" small="0" big="0">
+            <Data name="BaseShapeVastusLateralis" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeVastusLateralis</Data>
+            <Data name="DressVastusLateralis" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressVastusLateralis</Data>
+        </Slider>
+        <Slider name="VastusMedialis" invert="false" small="0" big="0">
+            <Data name="BaseShapeVastusMedialis" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeVastusMedialis</Data>
+            <Data name="DressVastusMedialis" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressVastusMedialis</Data>
+        </Slider>
+        <Slider name="Hamstrings" invert="false" small="0" big="0">
+            <Data name="BaseShapeHamstrings" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeHamstrings</Data>
+            <Data name="DressHamstrings" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressHamstrings</Data>
+        </Slider>
+        <Slider name="BicepsFemoris" invert="false" small="0" big="0">
+            <Data name="BaseShapeBicepsFemoris" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeBicepsFemoris</Data>
+            <Data name="DressBicepsFemoris" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBicepsFemoris</Data>
+        </Slider>
+        <Slider name="CrotchGap" invert="false" small="0" big="0">
+            <Data name="BaseShapeCrotchGap" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeCrotchGap</Data>
+            <Data name="DressCrotchGap" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressCrotchGap</Data>
+        </Slider>
+        <Slider name="ThighInnerThicker" invert="false" small="0" big="0">
+            <Data name="BaseShapeThighInnerThicker" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeThighInnerThicker</Data>
+            <Data name="DressThighInnerThicker" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressThighInnerThicker</Data>
+        </Slider>
+        <Slider name="ThighFBThicker" invert="false" small="0" big="0">
+            <Data name="BaseShapeThighFBThicker" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeThighFBThicker</Data>
+            <Data name="DressThighFBThicker" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressThighFBThicker</Data>
+        </Slider>
+        <Slider name="LegSpread" invert="false" small="0" big="0">
+            <Data name="BaseShapeLegSpread" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeLegSpread</Data>
+            <Data name="CorsetLegSpread" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetLegSpread</Data>
+            <Data name="DressLegSpread" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressLegSpread</Data>
+        </Slider>
+        <Slider name="Soleus" invert="false" small="0" big="0">
+            <Data name="BaseShapeSoleus" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeSoleus</Data>
+            <Data name="DressSoleus" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressSoleus</Data>
+        </Slider>
+        <Slider name="AnusSize" invert="false" small="0" big="0">
+            <Data name="BaseShapeAnusSize" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeAnusSize</Data>
+        </Slider>
+        <Slider name="AnalPositionlow" invert="false" small="0" big="0">
+            <Data name="BaseShapeAnalPositionlow" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeAnalPositionlow</Data>
+        </Slider>
+        <Slider name="ClitorisPrepuce" invert="false" small="0" big="0">
+            <Data name="BaseShapeClitorisPrepuce" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeClitorisPrepuce</Data>
+            <Data name="DressClitorisPrepuce" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressClitorisPrepuce</Data>
+        </Slider>
+        <Slider name="LabiaStretch" invert="false" small="0" big="0">
+            <Data name="BaseShapeLabiaStretch" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeLabiaStretch</Data>
+        </Slider>
+        <Slider name="NeckSmooth" invert="false" small="0" big="0">
+            <Data name="BaseShapeNeckSmooth" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeNeckSmooth</Data>
+        </Slider>
+        <Slider name="Deltoid" invert="false" small="0" big="0">
+            <Data name="BaseShapeDeltoid" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeDeltoid</Data>
+            <Data name="DressDeltoid" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressDeltoid</Data>
+        </Slider>
+        <Slider name="Triceps" invert="false" small="0" big="0">
+            <Data name="BaseShapeTriceps" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeTriceps</Data>
+            <Data name="DressTriceps" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressTriceps</Data>
+        </Slider>
+        <Slider name="Brachioradialis" invert="false" small="0" big="0">
+            <Data name="BaseShapeBrachioradialis" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeBrachioradialis</Data>
+            <Data name="DressBrachioradialis" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBrachioradialis</Data>
+        </Slider>
+        <Slider name="Flexor" invert="false" small="0" big="0">
+            <Data name="BaseShapeFlexor" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeFlexor</Data>
+            <Data name="DressFlexor" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressFlexor</Data>
+        </Slider>
+        <Slider name="ExtensorDigitorum" invert="false" small="0" big="0">
+            <Data name="BaseShapeExtensorDigitorum" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeExtensorDigitorum</Data>
+            <Data name="DressExtensorDigitorum" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressExtensorDigitorum</Data>
+        </Slider>
+        <Slider name="TricepsLateral" invert="false" small="0" big="0">
+            <Data name="BaseShapeTricepsLateral" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeTricepsLateral</Data>
+            <Data name="DressTricepsLateral" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressTricepsLateral</Data>
+        </Slider>
+        <Slider name="BackTrapezius" invert="false" small="0" big="0">
+            <Data name="BaseShapeBackTrapezius" target="BaseShape" local="true">Summon Dremora Mistress Adriette Dress.osd\BaseShapeBackTrapezius</Data>
+            <Data name="CorsetBackTrapezius" target="Corset" local="true">Summon Dremora Mistress Adriette Dress.osd\CorsetBackTrapezius</Data>
+            <Data name="DressBackTrapezius" target="Dress" local="true">Summon Dremora Mistress Adriette Dress.osd\DressBackTrapezius</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
