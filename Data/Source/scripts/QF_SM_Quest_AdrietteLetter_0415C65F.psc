@@ -1,5 +1,5 @@
 ;BEGIN FRAGMENT CODE - Do not edit anything between this and the end comment
-;NEXT FRAGMENT INDEX 7
+;NEXT FRAGMENT INDEX 9
 Scriptname QF_SM_Quest_AdrietteLetter_0415C65F Extends Quest Hidden
 
 ;BEGIN ALIAS PROPERTY Letter
@@ -7,19 +7,25 @@ Scriptname QF_SM_Quest_AdrietteLetter_0415C65F Extends Quest Hidden
 ReferenceAlias Property Alias_Letter Auto
 ;END ALIAS PROPERTY
 
-;BEGIN FRAGMENT Fragment_3
-Function Fragment_3()
+;BEGIN ALIAS PROPERTY Adriette
+;ALIAS PROPERTY TYPE ReferenceAlias
+ReferenceAlias Property Alias_Adriette Auto
+;END ALIAS PROPERTY
+
+;BEGIN FRAGMENT Fragment_8
+Function Fragment_8()
 ;BEGIN CODE
 SetObjectiveCompleted(10)
-SetStage(100)
+MyActor.Enable()
+SetStage(30)
 ;END CODE
 EndFunction
 ;END FRAGMENT
 
-;BEGIN FRAGMENT Fragment_0
-Function Fragment_0()
+;BEGIN FRAGMENT Fragment_7
+Function Fragment_7()
 ;BEGIN CODE
-MyQuest.SetStage(5)
+setObjectiveDisplayed(30)
 ;END CODE
 EndFunction
 ;END FRAGMENT
@@ -33,6 +39,14 @@ Alias_Letter.ForceRefTo(game.GetPlayer().PlaceAtMe(MyNote))
 EndFunction
 ;END FRAGMENT
 
+;BEGIN FRAGMENT Fragment_1
+Function Fragment_1()
+;BEGIN CODE
+SetObjectiveDisplayed(10)
+;END CODE
+EndFunction
+;END FRAGMENT
+
 ;BEGIN FRAGMENT Fragment_4
 Function Fragment_4()
 ;BEGIN CODE
@@ -42,10 +56,10 @@ Stop()
 EndFunction
 ;END FRAGMENT
 
-;BEGIN FRAGMENT Fragment_1
-Function Fragment_1()
+;BEGIN FRAGMENT Fragment_0
+Function Fragment_0()
 ;BEGIN CODE
-SetObjectiveDisplayed(10)
+MyQuest.SetStage(5)
 ;END CODE
 EndFunction
 ;END FRAGMENT
@@ -57,3 +71,7 @@ Book Property MyNote  Auto
 Quest Property WICourier  Auto  
 
 Quest Property myQuest  Auto  
+
+ObjectReference Property AdrietteObjRef  Auto  
+
+Actor Property myActor  Auto  

@@ -1,9 +1,9 @@
 ;BEGIN FRAGMENT CODE - Do not edit anything between this and the end comment
-;NEXT FRAGMENT INDEX 1
+;NEXT FRAGMENT INDEX 2
 Scriptname TIF__041198FA Extends TopicInfo Hidden
 
-;BEGIN FRAGMENT Fragment_0
-Function Fragment_0(ObjectReference akSpeakerRef)
+;BEGIN FRAGMENT Fragment_1
+Function Fragment_1(ObjectReference akSpeakerRef)
 Actor akSpeaker = akSpeakerRef as Actor
 ;BEGIN CODE
 game.disablePlayerControls()
@@ -16,10 +16,10 @@ float newtime = currenthour + 1
 GameHour.SetValue(newtime)
 Utility.Wait(1)
 
-if playerref.GetFactionRank(SM_MistressVaeloriaRelationship) < 9
-int currentrank = playerref.GetFactionRank(SM_MistressVaeloriaRelationship)
-int newrank = currentrank + 1
-playerref.SetFactionRank(SM_MistressVaeloriaRelationship, newrank)
+if SM_RelationshipVaeloria.GetValue() < 9
+float currentrank = SM_RelationshipVaeloria.GetValue()
+float newrank = currentrank + 1
+SM_RelationshipVaeloria.SetValue(newrank)
 endif
 
 Game.EnablePlayerControls()
@@ -30,5 +30,4 @@ EndFunction
 ;END FRAGMENT CODE - Do not edit anything between this and the begin comment
 
 GlobalVariable Property GameHour  auto
-actor property playerref auto
-Faction property SM_MistressVaeloriaRelationship  auto
+GlobalVariable Property SM_RelationshipVaeloria  Auto
