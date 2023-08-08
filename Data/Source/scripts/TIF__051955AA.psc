@@ -11,10 +11,14 @@ Game.FadeOutGame(false, true, 2.0, 1.0)
 Utility.Wait(1)
 Debug.notification("Adriette helped herself.")
 Utility.Wait(1)
-GetOwningQuest().setstage(40)
 Game.EnablePlayerControls()
+
+MyQuest.SetStage(100)
+GetOwningQuest().setstage(40)
 ;END CODE
 EndFunction
 ;END FRAGMENT
 
 ;END FRAGMENT CODE - Do not edit anything between this and the begin comment
+
+Quest Property myQuest  Auto  

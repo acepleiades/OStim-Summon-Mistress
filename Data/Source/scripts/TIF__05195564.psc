@@ -14,8 +14,10 @@ float currenthour = GameHour.GetValue()
 float newtime = currenthour + 6
 GameHour.SetValue(newtime)
 Utility.Wait(1)
-GetOwningQuest().setstage(32)
 Game.EnablePlayerControls()
+
+MyQuest.SetStage(60)
+GetOwningQuest().SetStage(35)
 ;END CODE
 EndFunction
 ;END FRAGMENT
@@ -23,3 +25,5 @@ EndFunction
 ;END FRAGMENT CODE - Do not edit anything between this and the begin comment
 
 GlobalVariable Property GameHour auto
+
+Quest Property myQuest  Auto  

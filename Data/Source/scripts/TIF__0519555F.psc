@@ -6,9 +6,12 @@ Scriptname TIF__0519555F Extends TopicInfo Hidden
 Function Fragment_0(ObjectReference akSpeakerRef)
 Actor akSpeaker = akSpeakerRef as Actor
 ;BEGIN CODE
+MyQuest.SetStage(50)
 GetOwningQuest().setstage(30)
 ;END CODE
 EndFunction
 ;END FRAGMENT
 
 ;END FRAGMENT CODE - Do not edit anything between this and the begin comment
+
+Quest Property myQuest  Auto  
