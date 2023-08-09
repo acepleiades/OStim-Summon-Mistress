@@ -8,7 +8,7 @@ Actor akSpeaker = akSpeakerRef as Actor
 ;BEGIN CODE
 game.disablePlayerControls()
 
-Alias_VaeloriaMetSerana.ForceRefTo(akspeaker)
+SM_VaeloriaHasMetSerana.SetValue(1)
 
 Game.FadeOutGame(false, true, 2.0, 1.0)
 Utility.Wait(1)
@@ -25,5 +25,5 @@ EndFunction
 
 ;END FRAGMENT CODE - Do not edit anything between this and the begin comment
 
-ReferenceAlias property Alias_VaeloriaMetSerana  auto
+GlobalVariable Property SM_VaeloriaHasMetSerana  auto
 GlobalVariable Property GameHour  auto

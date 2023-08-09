@@ -18,6 +18,8 @@ Game.EnablePlayerControls()
 
 MyQuest.SetStage(60)
 GetOwningQuest().SetStage(35)
+
+akspeaker.EvaluatePackage()
 ;END CODE
 EndFunction
 ;END FRAGMENT
