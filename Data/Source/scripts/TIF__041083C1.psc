@@ -14,7 +14,7 @@ Game.FadeOutGame(false, true, 2.0, 1.0)
 Utility.Wait(1)
 Debug.notification("Serana appears to have become well acquainted with Vaeloria.")
 float currenthour = GameHour.GetValue()
-float newtime = currenthour + 1
+float newtime = currenthour + 2
 GameHour.SetValue(newtime)
 Utility.Wait(1)
 

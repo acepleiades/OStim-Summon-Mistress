@@ -1,0 +1,1187 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Summon Mistress Vespera Outfit">
+        <DataFolder>Summon Mistress Vespera Outfit</DataFolder>
+        <SourceFile>Summon Mistress Vespera Outfit.nif</SourceFile>
+        <OutputPath>Meshes\Summon_Mistress_Meshes\outfit</OutputPath>
+        <OutputFile GenWeights="true">vespera_outfit</OutputFile>
+        <Shape target="BaseShape" DataFolder="BHUNP 3BBB Advanced">BaseShape</Shape>
+        <Shape target="BaseShapeAnus" DataFolder="BHUNP 3BBB Advanced">BaseShapeAnus</Shape>
+        <Shape target="BaseShapeCanal" DataFolder="BHUNP 3BBB Advanced">BaseShapeCanal</Shape>
+        <Shape target="BaseShapeVagina" DataFolder="BHUNP 3BBB Advanced">BaseShapeVagina</Shape>
+        <Shape target="Panties">Panties</Shape>
+        <Shape target="Robes">Robes</Shape>
+        <Slider name="Breasts" invert="true" small="100" big="100">
+            <Data name="BaseShapeBreasts" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBreasts</Data>
+            <Data name="RobesBreasts" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesBreasts</Data>
+            <Data name="BaseShapeVaginaBreasts" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaBreasts</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <Data name="BaseShapeBreastsSmall" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBreastsSmall</Data>
+            <Data name="RobesBreastsSmall" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesBreastsSmall</Data>
+            <Data name="PantiesBreastsSmall" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesBreastsSmall</Data>
+            <Data name="BaseShapeVaginaBreastsSmall" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaBreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastsSH" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBreastsSH</Data>
+            <Data name="RobesBreastsSH" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesBreastsSH</Data>
+            <Data name="BaseShapeVaginaBreastsSH" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaBreastsSH</Data>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastsSSH" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBreastsSSH</Data>
+            <Data name="RobesBreastsSSH" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesBreastsSSH</Data>
+            <Data name="BaseShapeVaginaBreastsSSH" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaBreastsSSH</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastsFantasy" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBreastsFantasy</Data>
+            <Data name="RobesBreastsFantasy" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesBreastsFantasy</Data>
+            <Data name="BaseShapeVaginaBreastsFantasy" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaBreastsFantasy</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="BaseShapeDoubleMelon" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeDoubleMelon</Data>
+            <Data name="RobesDoubleMelon" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesDoubleMelon</Data>
+            <Data name="BaseShapeVaginaDoubleMelon" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaDoubleMelon</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastCleavage" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBreastCleavage</Data>
+            <Data name="RobesBreastCleavage" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesBreastCleavage</Data>
+            <Data name="BaseShapeVaginaBreastCleavage" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaBreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastFlatness" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBreastFlatness</Data>
+            <Data name="RobesBreastFlatness" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesBreastFlatness</Data>
+            <Data name="BaseShapeVaginaBreastFlatness" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaBreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastGravity" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBreastGravity</Data>
+            <Data name="RobesBreastGravity" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesBreastGravity</Data>
+            <Data name="BaseShapeVaginaBreastGravity" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaBreastGravity</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="BaseShapePushUp" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapePushUp</Data>
+            <Data name="RobesPushUp" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesPushUp</Data>
+            <Data name="BaseShapeVaginaPushUp" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaPushUp</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastHeight" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBreastHeight</Data>
+            <Data name="RobesBreastHeight" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesBreastHeight</Data>
+            <Data name="BaseShapeVaginaBreastHeight" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaBreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastPerkiness" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBreastPerkiness</Data>
+            <Data name="RobesBreastPerkiness" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesBreastPerkiness</Data>
+            <Data name="BaseShapeVaginaBreastPerkiness" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaBreastPerkiness</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastWidth" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBreastWidth</Data>
+            <Data name="RobesBreastWidth" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesBreastWidth</Data>
+            <Data name="BaseShapeVaginaBreastWidth" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaBreastWidth</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="true" small="100" big="100">
+            <Data name="BaseShapeNippleDistance" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeNippleDistance</Data>
+            <Data name="RobesNippleDistance" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesNippleDistance</Data>
+            <Data name="BaseShapeVaginaNippleDistance" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaNippleDistance</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" small="0" big="0">
+            <Data name="BaseShapeNipplePerkiness" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeNipplePerkiness</Data>
+            <Data name="RobesNipplePerkiness" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesNipplePerkiness</Data>
+            <Data name="BaseShapeVaginaNipplePerkiness" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaNipplePerkiness</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" small="0" big="0">
+            <Data name="BaseShapeNippleLength" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeNippleLength</Data>
+            <Data name="RobesNippleLength" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesNippleLength</Data>
+            <Data name="BaseShapeVaginaNippleLength" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaNippleLength</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="true" small="100" big="100">
+            <Data name="BaseShapeNippleSize" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeNippleSize</Data>
+            <Data name="RobesNippleSize" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesNippleSize</Data>
+            <Data name="BaseShapeVaginaNippleSize" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaNippleSize</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" small="0" big="0">
+            <Data name="BaseShapeNippleAreola" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeNippleAreola</Data>
+            <Data name="RobesNippleAreola" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesNippleAreola</Data>
+            <Data name="BaseShapeVaginaNippleAreola" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaNippleAreola</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="BaseShapeNippleUp" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeNippleUp</Data>
+            <Data name="RobesNippleUp" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesNippleUp</Data>
+            <Data name="BaseShapeVaginaNippleUp" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaNippleUp</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <Data name="BaseShapeNippleDown" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeNippleDown</Data>
+            <Data name="RobesNippleDown" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesNippleDown</Data>
+            <Data name="BaseShapeVaginaNippleDown" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaNippleDown</Data>
+        </Slider>
+        <Slider name="NippleTip" invert="false" small="0" big="0">
+            <Data name="BaseShapeNippleTip" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeNippleTip</Data>
+            <Data name="RobesNippleTip" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesNippleTip</Data>
+            <Data name="BaseShapeVaginaNippleTip" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaNippleTip</Data>
+        </Slider>
+        <Slider name="Arms" invert="true" small="100" big="100">
+            <Data name="BaseShapeArms" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeArms</Data>
+            <Data name="RobesArms" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesArms</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="BaseShapeChubbyArms" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeChubbyArms</Data>
+            <Data name="RobesChubbyArms" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesChubbyArms</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <Data name="BaseShapeShoulderSmooth" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeShoulderSmooth</Data>
+            <Data name="RobesShoulderSmooth" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <Data name="BaseShapeShoulderWidth" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeShoulderWidth</Data>
+            <Data name="RobesShoulderWidth" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesShoulderWidth</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="BaseShapeBigTorso" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBigTorso</Data>
+            <Data name="RobesBigTorso" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesBigTorso</Data>
+            <Data name="PantiesBigTorso" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesBigTorso</Data>
+            <Data name="BaseShapeAnusBigTorso" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusBigTorso</Data>
+            <Data name="BaseShapeVaginaBigTorso" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaBigTorso</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="0">
+            <Data name="BaseShapeWaist" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeWaist</Data>
+            <Data name="RobesWaist" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesWaist</Data>
+            <Data name="PantiesWaist" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesWaist</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <Data name="BaseShapeWideWaistLine" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeWideWaistLine</Data>
+            <Data name="RobesWideWaistLine" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesWideWaistLine</Data>
+            <Data name="PantiesWideWaistLine" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesWideWaistLine</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="BaseShapeChubbyWaist" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeChubbyWaist</Data>
+            <Data name="RobesChubbyWaist" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesChubbyWaist</Data>
+            <Data name="PantiesChubbyWaist" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesChubbyWaist</Data>
+            <Data name="BaseShapeAnusChubbyWaist" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusChubbyWaist</Data>
+            <Data name="BaseShapeVaginaChubbyWaist" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaChubbyWaist</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" small="0" big="0">
+            <Data name="BaseShapeBelly" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBelly</Data>
+            <Data name="RobesBelly" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesBelly</Data>
+            <Data name="PantiesBelly" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesBelly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <Data name="BaseShapeBigBelly" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBigBelly</Data>
+            <Data name="RobesBigBelly" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesBigBelly</Data>
+            <Data name="PantiesBigBelly" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesBigBelly</Data>
+            <Data name="BaseShapeVaginaBigBelly" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaBigBelly</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="BaseShapePregnancyBelly" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapePregnancyBelly</Data>
+            <Data name="RobesPregnancyBelly" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesPregnancyBelly</Data>
+            <Data name="PantiesPregnancyBelly" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesPregnancyBelly</Data>
+            <Data name="BaseShapeCanalPregnancyBelly" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalPregnancyBelly</Data>
+            <Data name="BaseShapeVaginaPregnancyBelly" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaPregnancyBelly</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <Data name="BaseShapeTummyTuck" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeTummyTuck</Data>
+            <Data name="RobesTummyTuck" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesTummyTuck</Data>
+            <Data name="PantiesTummyTuck" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesTummyTuck</Data>
+            <Data name="BaseShapeVaginaTummyTuck" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaTummyTuck</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="BaseShapeBack" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBack</Data>
+            <Data name="RobesBack" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesBack</Data>
+            <Data name="PantiesBack" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesBack</Data>
+            <Data name="BaseShapeAnusBack" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusBack</Data>
+        </Slider>
+        <Slider name="Hipbone" invert="false" small="0" big="0">
+            <Data name="RobesHipbone" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesHipbone</Data>
+            <Data name="PantiesHipbone" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesHipbone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="BaseShapeHips" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeHips</Data>
+            <Data name="RobesHips" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesHips</Data>
+            <Data name="PantiesHips" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesHips</Data>
+            <Data name="BaseShapeCanalHips" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalHips</Data>
+            <Data name="BaseShapeAnusHips" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusHips</Data>
+            <Data name="BaseShapeVaginaHips" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaHips</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="true" small="100" big="100">
+            <Data name="BaseShapeButtCrack" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeButtCrack</Data>
+            <Data name="RobesButtCrack" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesButtCrack</Data>
+            <Data name="PantiesButtCrack" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesButtCrack</Data>
+            <Data name="BaseShapeCanalButtCrack" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalButtCrack</Data>
+            <Data name="BaseShapeAnusButtCrack" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusButtCrack</Data>
+            <Data name="BaseShapeVaginaButtCrack" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaButtCrack</Data>
+        </Slider>
+        <Slider name="Butt" invert="true" small="100" big="100">
+            <Data name="BaseShapeButt" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeButt</Data>
+            <Data name="RobesButt" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesButt</Data>
+            <Data name="PantiesButt" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesButt</Data>
+            <Data name="BaseShapeCanalButt" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalButt</Data>
+            <Data name="BaseShapeAnusButt" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusButt</Data>
+            <Data name="BaseShapeVaginaButt" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaButt</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="true" small="100" big="100">
+            <Data name="BaseShapeButtSmall" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeButtSmall</Data>
+            <Data name="RobesButtSmall" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesButtSmall</Data>
+            <Data name="PantiesButtSmall" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesButtSmall</Data>
+            <Data name="BaseShapeCanalButtSmall" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalButtSmall</Data>
+            <Data name="BaseShapeAnusButtSmall" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusButtSmall</Data>
+            <Data name="BaseShapeVaginaButtSmall" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaButtSmall</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="BaseShapeButtShape2" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeButtShape2</Data>
+            <Data name="RobesButtShape2" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesButtShape2</Data>
+            <Data name="PantiesButtShape2" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesButtShape2</Data>
+            <Data name="BaseShapeCanalButtShape2" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalButtShape2</Data>
+            <Data name="BaseShapeAnusButtShape2" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusButtShape2</Data>
+            <Data name="BaseShapeVaginaButtShape2" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaButtShape2</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="BaseShapeBigButt" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBigButt</Data>
+            <Data name="RobesBigButt" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesBigButt</Data>
+            <Data name="PantiesBigButt" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesBigButt</Data>
+            <Data name="BaseShapeCanalBigButt" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalBigButt</Data>
+            <Data name="BaseShapeAnusBigButt" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusBigButt</Data>
+            <Data name="BaseShapeVaginaBigButt" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaBigButt</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="BaseShapeChubbyButt" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeChubbyButt</Data>
+            <Data name="RobesChubbyButt" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesChubbyButt</Data>
+            <Data name="PantiesChubbyButt" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesChubbyButt</Data>
+            <Data name="BaseShapeCanalChubbyButt" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalChubbyButt</Data>
+            <Data name="BaseShapeAnusChubbyButt" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusChubbyButt</Data>
+            <Data name="BaseShapeVaginaChubbyButt" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaChubbyButt</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <Data name="BaseShapeAppleCheeks" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAppleCheeks</Data>
+            <Data name="RobesAppleCheeks" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesAppleCheeks</Data>
+            <Data name="PantiesAppleCheeks" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesAppleCheeks</Data>
+            <Data name="BaseShapeCanalAppleCheeks" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalAppleCheeks</Data>
+            <Data name="BaseShapeAnusAppleCheeks" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusAppleCheeks</Data>
+            <Data name="BaseShapeVaginaAppleCheeks" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaAppleCheeks</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <Data name="BaseShapeRoundAss" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeRoundAss</Data>
+            <Data name="RobesRoundAss" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesRoundAss</Data>
+            <Data name="PantiesRoundAss" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesRoundAss</Data>
+            <Data name="BaseShapeCanalRoundAss" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalRoundAss</Data>
+            <Data name="BaseShapeAnusRoundAss" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusRoundAss</Data>
+            <Data name="BaseShapeVaginaRoundAss" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaRoundAss</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="BaseShapeSlimThighs" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeSlimThighs</Data>
+            <Data name="RobesSlimThighs" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesSlimThighs</Data>
+            <Data name="PantiesSlimThighs" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesSlimThighs</Data>
+            <Data name="BaseShapeCanalSlimThighs" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalSlimThighs</Data>
+            <Data name="BaseShapeAnusSlimThighs" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusSlimThighs</Data>
+            <Data name="BaseShapeVaginaSlimThighs" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaSlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="BaseShapeThighs" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeThighs</Data>
+            <Data name="RobesThighs" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesThighs</Data>
+            <Data name="PantiesThighs" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesThighs</Data>
+            <Data name="BaseShapeCanalThighs" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalThighs</Data>
+            <Data name="BaseShapeAnusThighs" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusThighs</Data>
+            <Data name="BaseShapeVaginaThighs" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaThighs</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="BaseShapeChubbyLegs" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeChubbyLegs</Data>
+            <Data name="RobesChubbyLegs" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesChubbyLegs</Data>
+            <Data name="PantiesChubbyLegs" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesChubbyLegs</Data>
+            <Data name="BaseShapeCanalChubbyLegs" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalChubbyLegs</Data>
+            <Data name="BaseShapeAnusChubbyLegs" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusChubbyLegs</Data>
+            <Data name="BaseShapeVaginaChubbyLegs" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaChubbyLegs</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="BaseShapeLegs" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeLegs</Data>
+            <Data name="RobesLegs" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesLegs</Data>
+            <Data name="PantiesLegs" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesLegs</Data>
+            <Data name="BaseShapeCanalLegs" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalLegs</Data>
+            <Data name="BaseShapeAnusLegs" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusLegs</Data>
+            <Data name="BaseShapeVaginaLegs" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="BaseShapeKneeHeight" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeKneeHeight</Data>
+            <Data name="RobesKneeHeight" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesKneeHeight</Data>
+            <Data name="PantiesKneeHeight" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesKneeHeight</Data>
+            <Data name="BaseShapeCanalKneeHeight" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalKneeHeight</Data>
+        </Slider>
+        <Slider name="Neck" invert="false" small="100" big="0" hidden="true">
+            <Data name="BaseShapeNeck" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeNeck</Data>
+            <Data name="RobesNeck" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesNeck</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="BaseShape7B Low" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShape7B Low</Data>
+            <Data name="Robes7B Low" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\Robes7B Low</Data>
+            <Data name="Panties7B Low" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\Panties7B Low</Data>
+            <Data name="BaseShapeCanal7B Low" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanal7B Low</Data>
+            <Data name="BaseShapeAnus7B Low" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnus7B Low</Data>
+            <Data name="BaseShapeVagina7B Low" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVagina7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="BaseShape7B High" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShape7B High</Data>
+            <Data name="Robes7B High" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\Robes7B High</Data>
+            <Data name="Panties7B High" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\Panties7B High</Data>
+            <Data name="BaseShapeCanal7B High" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanal7B High</Data>
+            <Data name="BaseShapeAnus7B High" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnus7B High</Data>
+            <Data name="BaseShapeVagina7B High" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVagina7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="BaseShape7B Bombshell Low" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShape7B Bombshell Low</Data>
+            <Data name="Robes7B Bombshell Low" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\Robes7B Bombshell Low</Data>
+            <Data name="Panties7B Bombshell Low" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\Panties7B Bombshell Low</Data>
+            <Data name="BaseShapeCanal7B Bombshell Low" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanal7B Bombshell Low</Data>
+            <Data name="BaseShapeAnus7B Bombshell Low" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnus7B Bombshell Low</Data>
+            <Data name="BaseShapeVagina7B Bombshell Low" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVagina7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="BaseShape7B Bombshell High" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShape7B Bombshell High</Data>
+            <Data name="Robes7B Bombshell High" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\Robes7B Bombshell High</Data>
+            <Data name="Panties7B Bombshell High" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\Panties7B Bombshell High</Data>
+            <Data name="BaseShapeCanal7B Bombshell High" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanal7B Bombshell High</Data>
+            <Data name="BaseShapeAnus7B Bombshell High" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnus7B Bombshell High</Data>
+            <Data name="BaseShapeVagina7B Bombshell High" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVagina7B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="Robes7B Natural Low" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\Robes7B Natural Low</Data>
+            <Data name="Panties7B Natural Low" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\Panties7B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="Robes7B Natural High" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\Robes7B Natural High</Data>
+            <Data name="Panties7B Natural High" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\Panties7B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="Robes7B Cleavage Low" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\Robes7B Cleavage Low</Data>
+            <Data name="Panties7B Cleavage Low" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\Panties7B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="Robes7B Cleavage High" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\Robes7B Cleavage High</Data>
+            <Data name="Panties7B Cleavage High" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\Panties7B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="Robes7B BCup Low" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\Robes7B BCup Low</Data>
+            <Data name="Panties7B BCup Low" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\Panties7B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="Robes7B BCup High" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\Robes7B BCup High</Data>
+            <Data name="Panties7B BCup High" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\Panties7B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="Robes7BUNP Low" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\Robes7BUNP Low</Data>
+            <Data name="Panties7BUNP Low" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\Panties7BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="Robes7BUNP High" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\Robes7BUNP High</Data>
+            <Data name="Panties7BUNP High" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\Panties7BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="Robes7B Oppai Low" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\Robes7B Oppai Low</Data>
+            <Data name="Panties7B Oppai Low" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\Panties7B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="Robes7B Oppai High" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\Robes7B Oppai High</Data>
+            <Data name="Panties7B Oppai High" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\Panties7B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="Robes7B CH Low" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\Robes7B CH Low</Data>
+            <Data name="Panties7B CH Low" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\Panties7B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="Robes7B CH High" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\Robes7B CH High</Data>
+            <Data name="Panties7B CH High" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\Panties7B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="BaseShapeUNP Low" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeUNP Low</Data>
+            <Data name="RobesUNP Low" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesUNP Low</Data>
+            <Data name="PantiesUNP Low" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesUNP Low</Data>
+            <Data name="BaseShapeCanalUNP Low" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalUNP Low</Data>
+            <Data name="BaseShapeAnusUNP Low" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusUNP Low</Data>
+            <Data name="BaseShapeVaginaUNP Low" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="BaseShapeUNP High" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeUNP High</Data>
+            <Data name="RobesUNP High" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesUNP High</Data>
+            <Data name="PantiesUNP High" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesUNP High</Data>
+            <Data name="BaseShapeCanalUNP High" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalUNP High</Data>
+            <Data name="BaseShapeAnusUNP High" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusUNP High</Data>
+            <Data name="BaseShapeVaginaUNP High" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaUNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="RobesUNP Pushup Low" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesUNP Pushup Low</Data>
+            <Data name="PantiesUNP Pushup Low" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesUNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="RobesUNP Pushup High" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesUNP Pushup High</Data>
+            <Data name="PantiesUNP Pushup High" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesUNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="RobesUNP Skinny Low" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesUNP Skinny Low</Data>
+            <Data name="PantiesUNP Skinny Low" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesUNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="RobesUNP Skinny High" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesUNP Skinny High</Data>
+            <Data name="PantiesUNP Skinny High" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesUNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="RobesUNP Perky Low" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesUNP Perky Low</Data>
+            <Data name="PantiesUNP Perky Low" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesUNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="RobesUNP Perky High" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesUNP Perky High</Data>
+            <Data name="PantiesUNP Perky High" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesUNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="BaseShapeUNPB Low" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeUNPB Low</Data>
+            <Data name="RobesUNPB Low" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesUNPB Low</Data>
+            <Data name="PantiesUNPB Low" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesUNPB Low</Data>
+            <Data name="BaseShapeCanalUNPB Low" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalUNPB Low</Data>
+            <Data name="BaseShapeAnusUNPB Low" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusUNPB Low</Data>
+            <Data name="BaseShapeVaginaUNPB Low" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="BaseShapeUNPB High" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeUNPB High</Data>
+            <Data name="RobesUNPB High" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesUNPB High</Data>
+            <Data name="PantiesUNPB High" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesUNPB High</Data>
+            <Data name="BaseShapeCanalUNPB High" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalUNPB High</Data>
+            <Data name="BaseShapeAnusUNPB High" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusUNPB High</Data>
+            <Data name="BaseShapeVaginaUNPB High" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="RobesUNPB Chapi" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesUNPB Chapi</Data>
+            <Data name="PantiesUNPB Chapi" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesUNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="RobesUNPB Oppai v1" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesUNPB Oppai v1</Data>
+            <Data name="PantiesUNPB Oppai v1" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesUNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="BaseShapeUNPB Oppai v3.2 Low" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeUNPB Oppai v3.2 Low</Data>
+            <Data name="RobesUNPB Oppai v3.2 Low" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesUNPB Oppai v3.2 Low</Data>
+            <Data name="PantiesUNPB Oppai v3.2 Low" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesUNPB Oppai v3.2 Low</Data>
+            <Data name="BaseShapeCanalUNPB Oppai v3.2 Low" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalUNPB Oppai v3.2 Low</Data>
+            <Data name="BaseShapeAnusUNPB Oppai v3.2 Low" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusUNPB Oppai v3.2 Low</Data>
+            <Data name="BaseShapeVaginaUNPB Oppai v3.2 Low" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="BaseShapeUNPB Oppai v3.2 High" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeUNPB Oppai v3.2 High</Data>
+            <Data name="RobesUNPB Oppai v3.2 High" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesUNPB Oppai v3.2 High</Data>
+            <Data name="PantiesUNPB Oppai v3.2 High" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesUNPB Oppai v3.2 High</Data>
+            <Data name="BaseShapeCanalUNPB Oppai v3.2 High" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalUNPB Oppai v3.2 High</Data>
+            <Data name="BaseShapeAnusUNPB Oppai v3.2 High" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusUNPB Oppai v3.2 High</Data>
+            <Data name="BaseShapeVaginaUNPB Oppai v3.2 High" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="RobesUNPetite Low" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesUNPetite Low</Data>
+            <Data name="PantiesUNPetite Low" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesUNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="RobesUNPetite High" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesUNPetite High</Data>
+            <Data name="PantiesUNPetite High" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesUNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="BaseShapeUNPC Low" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeUNPC Low</Data>
+            <Data name="RobesUNPC Low" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesUNPC Low</Data>
+            <Data name="PantiesUNPC Low" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesUNPC Low</Data>
+            <Data name="BaseShapeCanalUNPC Low" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalUNPC Low</Data>
+            <Data name="BaseShapeAnusUNPC Low" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusUNPC Low</Data>
+            <Data name="BaseShapeVaginaUNPC Low" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="BaseShapeUNPC High" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeUNPC High</Data>
+            <Data name="RobesUNPC High" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesUNPC High</Data>
+            <Data name="PantiesUNPC High" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesUNPC High</Data>
+            <Data name="BaseShapeCanalUNPC High" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalUNPC High</Data>
+            <Data name="BaseShapeAnusUNPC High" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusUNPC High</Data>
+            <Data name="BaseShapeVaginaUNPC High" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaUNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="RobesUNPCM Low" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesUNPCM Low</Data>
+            <Data name="PantiesUNPCM Low" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesUNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="RobesUNPCM High" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesUNPCM High</Data>
+            <Data name="PantiesUNPCM High" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesUNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="RobesUNPSH Low" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesUNPSH Low</Data>
+            <Data name="PantiesUNPSH Low" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesUNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="RobesUNPSH High" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesUNPSH High</Data>
+            <Data name="PantiesUNPSH High" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesUNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="RobesUNPK Low" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesUNPK Low</Data>
+            <Data name="PantiesUNPK Low" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesUNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="RobesUNPK High" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesUNPK High</Data>
+            <Data name="PantiesUNPK High" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesUNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="RobesUNPK Bonus Low" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesUNPK Bonus Low</Data>
+            <Data name="PantiesUNPK Bonus Low" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesUNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="RobesUNPK Bonus High" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesUNPK Bonus High</Data>
+            <Data name="PantiesUNPK Bonus High" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesUNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="RobesUN7B Low" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesUN7B Low</Data>
+            <Data name="PantiesUN7B Low" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesUN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="RobesUN7B High" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesUN7B High</Data>
+            <Data name="PantiesUN7B High" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesUN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="RobesUNPBB Low" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesUNPBB Low</Data>
+            <Data name="PantiesUNPBB Low" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesUNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="RobesUNPBB High" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesUNPBB High</Data>
+            <Data name="PantiesUNPBB High" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesUNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="RobesSeraphim Low" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesSeraphim Low</Data>
+            <Data name="PantiesSeraphim Low" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesSeraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="RobesSeraphim High" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesSeraphim High</Data>
+            <Data name="PantiesSeraphim High" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesSeraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="RobesDemonfet Low" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesDemonfet Low</Data>
+            <Data name="PantiesDemonfet Low" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesDemonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="RobesDemonfet High" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesDemonfet High</Data>
+            <Data name="PantiesDemonfet High" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesDemonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="RobesDream Girl Low" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesDream Girl Low</Data>
+            <Data name="PantiesDream Girl Low" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesDream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="RobesDream Girl High" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesDream Girl High</Data>
+            <Data name="PantiesDream Girl High" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesDream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="BaseShapeTop Model Low" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeTop Model Low</Data>
+            <Data name="RobesTop Model Low" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesTop Model Low</Data>
+            <Data name="PantiesTop Model Low" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesTop Model Low</Data>
+            <Data name="BaseShapeCanalTop Model Low" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalTop Model Low</Data>
+            <Data name="BaseShapeAnusTop Model Low" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusTop Model Low</Data>
+            <Data name="BaseShapeVaginaTop Model Low" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="BaseShapeTop Model High" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeTop Model High</Data>
+            <Data name="RobesTop Model High" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesTop Model High</Data>
+            <Data name="PantiesTop Model High" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesTop Model High</Data>
+            <Data name="BaseShapeCanalTop Model High" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalTop Model High</Data>
+            <Data name="BaseShapeAnusTop Model High" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusTop Model High</Data>
+            <Data name="BaseShapeVaginaTop Model High" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaTop Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="RobesLeito Low" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesLeito Low</Data>
+            <Data name="PantiesLeito Low" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesLeito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="RobesLeito High" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesLeito High</Data>
+            <Data name="PantiesLeito High" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesLeito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="RobesUNPF Low" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesUNPF Low</Data>
+            <Data name="PantiesUNPF Low" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesUNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="RobesUNPF High" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesUNPF High</Data>
+            <Data name="PantiesUNPF High" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesUNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="RobesUNPFx Low" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesUNPFx Low</Data>
+            <Data name="PantiesUNPFx Low" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesUNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="RobesUNPFx High" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesUNPFx High</Data>
+            <Data name="PantiesUNPFx High" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesUNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="RobesCNHF Low" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesCNHF Low</Data>
+            <Data name="PantiesCNHF Low" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesCNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="RobesCNHF High" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesCNHF High</Data>
+            <Data name="PantiesCNHF High" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesCNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="RobesCNHF Bonus Low" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesCNHF Bonus Low</Data>
+            <Data name="PantiesCNHF Bonus Low" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesCNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="RobesCNHF Bonus High" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesCNHF Bonus High</Data>
+            <Data name="PantiesCNHF Bonus High" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesCNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="RobesMCBM Low" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesMCBM Low</Data>
+            <Data name="PantiesMCBM Low" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesMCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="RobesMCBM High" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesMCBM High</Data>
+            <Data name="PantiesMCBM High" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesMCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="RobesVenus Low" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesVenus Low</Data>
+            <Data name="PantiesVenus Low" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesVenus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="RobesVenus High" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesVenus High</Data>
+            <Data name="PantiesVenus High" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesVenus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="RobesZGGB-R2 Low" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesZGGB-R2 Low</Data>
+            <Data name="PantiesZGGB-R2 Low" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="RobesZGGB-R2 High" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesZGGB-R2 High</Data>
+            <Data name="PantiesZGGB-R2 High" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="RobesManga Low" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesManga Low</Data>
+            <Data name="PantiesManga Low" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesManga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="RobesManga High" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesManga High</Data>
+            <Data name="PantiesManga High" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesManga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="RobesCHSBHC Low" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesCHSBHC Low</Data>
+            <Data name="PantiesCHSBHC Low" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesCHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="RobesCHSBHC High" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesCHSBHC High</Data>
+            <Data name="PantiesCHSBHC High" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesCHSBHC High</Data>
+        </Slider>
+        <Slider name="Aruru6Duck Low" invert="false" small="0" big="0">
+            <Data name="BaseShapeAruru6Duck Low" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAruru6Duck Low</Data>
+            <Data name="RobesAruru6Duck Low" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesAruru6Duck Low</Data>
+            <Data name="PantiesAruru6Duck Low" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesAruru6Duck Low</Data>
+            <Data name="BaseShapeCanalAruru6Duck Low" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalAruru6Duck Low</Data>
+            <Data name="BaseShapeAnusAruru6Duck Low" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusAruru6Duck Low</Data>
+            <Data name="BaseShapeVaginaAruru6Duck Low" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaAruru6Duck Low</Data>
+        </Slider>
+        <Slider name="Aruru6Duck High" invert="false" small="0" big="0">
+            <Data name="BaseShapeAruru6Duck High" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAruru6Duck High</Data>
+            <Data name="RobesAruru6Duck High" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesAruru6Duck High</Data>
+            <Data name="PantiesAruru6Duck High" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesAruru6Duck High</Data>
+            <Data name="BaseShapeCanalAruru6Duck High" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalAruru6Duck High</Data>
+            <Data name="BaseShapeAnusAruru6Duck High" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusAruru6Duck High</Data>
+            <Data name="BaseShapeVaginaAruru6Duck High" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaAruru6Duck High</Data>
+        </Slider>
+        <Slider name="NippleErection" invert="false" small="0" big="0">
+            <Data name="BaseShapeNippleErection" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeNippleErection</Data>
+            <Data name="RobesNippleErection" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesNippleErection</Data>
+            <Data name="PantiesNippleErection" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesNippleErection</Data>
+        </Slider>
+        <Slider name="BreastConverge" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastConverge" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBreastConverge</Data>
+            <Data name="RobesBreastConverge" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesBreastConverge</Data>
+            <Data name="PantiesBreastConverge" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesBreastConverge</Data>
+            <Data name="BaseShapeCanalBreastConverge" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalBreastConverge</Data>
+            <Data name="BaseShapeAnusBreastConverge" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusBreastConverge</Data>
+            <Data name="BaseShapeVaginaBreastConverge" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaBreastConverge</Data>
+        </Slider>
+        <Slider name="PussyCute" invert="false" small="0" big="0">
+            <Data name="BaseShapePussyCute" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapePussyCute</Data>
+            <Data name="RobesPussyCute" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesPussyCute</Data>
+            <Data name="PantiesPussyCute" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesPussyCute</Data>
+            <Data name="BaseShapeCanalPussyCute" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalPussyCute</Data>
+            <Data name="BaseShapeAnusPussyCute" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusPussyCute</Data>
+            <Data name="BaseShapeVaginaPussyCute" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaPussyCute</Data>
+        </Slider>
+        <Slider name="PussyHilly" invert="false" small="0" big="0">
+            <Data name="BaseShapePussyHilly" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapePussyHilly</Data>
+            <Data name="RobesPussyHilly" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesPussyHilly</Data>
+            <Data name="PantiesPussyHilly" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesPussyHilly</Data>
+            <Data name="BaseShapeVaginaPussyHilly" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaPussyHilly</Data>
+        </Slider>
+        <Slider name="ClitorisErection" invert="false" small="0" big="0">
+            <Data name="BaseShapeClitorisErection" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeClitorisErection</Data>
+            <Data name="RobesClitorisErection" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesClitorisErection</Data>
+            <Data name="PantiesClitorisErection" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesClitorisErection</Data>
+            <Data name="BaseShapeVaginaClitorisErection" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaClitorisErection</Data>
+        </Slider>
+        <Slider name="PussyMajora" invert="false" small="0" big="0">
+            <Data name="BaseShapePussyMajora" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapePussyMajora</Data>
+            <Data name="RobesPussyMajora" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesPussyMajora</Data>
+            <Data name="PantiesPussyMajora" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesPussyMajora</Data>
+            <Data name="BaseShapeCanalPussyMajora" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalPussyMajora</Data>
+            <Data name="BaseShapeVaginaPussyMajora" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaPussyMajora</Data>
+        </Slider>
+        <Slider name="PussyMinora" invert="false" small="0" big="0">
+            <Data name="BaseShapePussyMinora" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapePussyMinora</Data>
+            <Data name="PantiesPussyMinora" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesPussyMinora</Data>
+            <Data name="BaseShapeCanalPussyMinora" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalPussyMinora</Data>
+            <Data name="BaseShapeVaginaPussyMinora" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaPussyMinora</Data>
+        </Slider>
+        <Slider name="PussyMajoraBig" invert="false" small="0" big="0">
+            <Data name="BaseShapePussyMajoraBig" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapePussyMajoraBig</Data>
+            <Data name="RobesPussyMajoraBig" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesPussyMajoraBig</Data>
+            <Data name="PantiesPussyMajoraBig" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesPussyMajoraBig</Data>
+            <Data name="BaseShapeCanalPussyMajoraBig" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalPussyMajoraBig</Data>
+            <Data name="BaseShapeVaginaPussyMajoraBig" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaPussyMajoraBig</Data>
+        </Slider>
+        <Slider name="BackArch" invert="false" small="0" big="0">
+            <Data name="BaseShapeBackArch" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBackArch</Data>
+            <Data name="RobesBackArch" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesBackArch</Data>
+            <Data name="PantiesBackArch" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesBackArch</Data>
+            <Data name="BaseShapeAnusBackArch" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusBackArch</Data>
+        </Slider>
+        <Slider name="BreastCenter" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastCenter" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBreastCenter</Data>
+            <Data name="RobesBreastCenter" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesBreastCenter</Data>
+        </Slider>
+        <Slider name="BreastCenterBig" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastCenterBig" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBreastCenterBig</Data>
+            <Data name="RobesBreastCenterBig" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesBreastCenterBig</Data>
+        </Slider>
+        <Slider name="BotePregnancy" invert="false" small="0" big="0">
+            <Data name="BaseShapeBotePregnancy" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBotePregnancy</Data>
+            <Data name="RobesBotePregnancy" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesBotePregnancy</Data>
+            <Data name="PantiesBotePregnancy" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesBotePregnancy</Data>
+            <Data name="BaseShapeVaginaBotePregnancy" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaBotePregnancy</Data>
+        </Slider>
+        <Slider name="ChestDepth" invert="false" small="0" big="0">
+            <Data name="BaseShapeChestDepth" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeChestDepth</Data>
+            <Data name="RobesChestDepth" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesChestDepth</Data>
+            <Data name="PantiesChestDepth" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesChestDepth</Data>
+        </Slider>
+        <Slider name="ChestWidth" invert="false" small="0" big="0">
+            <Data name="BaseShapeChestWidth" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeChestWidth</Data>
+            <Data name="RobesChestWidth" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesChestWidth</Data>
+            <Data name="PantiesChestWidth" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesChestWidth</Data>
+        </Slider>
+        <Slider name="CrotchBack" invert="false" small="0" big="0">
+            <Data name="BaseShapeCrotchBack" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCrotchBack</Data>
+            <Data name="RobesCrotchBack" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesCrotchBack</Data>
+            <Data name="PantiesCrotchBack" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesCrotchBack</Data>
+            <Data name="BaseShapeCanalCrotchBack" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalCrotchBack</Data>
+            <Data name="BaseShapeAnusCrotchBack" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusCrotchBack</Data>
+            <Data name="BaseShapeVaginaCrotchBack" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaCrotchBack</Data>
+        </Slider>
+        <Slider name="ForearmSize" invert="false" small="0" big="0">
+            <Data name="BaseShapeForearmSize" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeForearmSize</Data>
+            <Data name="RobesForearmSize" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesForearmSize</Data>
+        </Slider>
+        <Slider name="Groin" invert="false" small="0" big="0">
+            <Data name="BaseShapeGroin" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeGroin</Data>
+            <Data name="RobesGroin" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesGroin</Data>
+            <Data name="PantiesGroin" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesGroin</Data>
+            <Data name="BaseShapeCanalGroin" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalGroin</Data>
+            <Data name="BaseShapeAnusGroin" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusGroin</Data>
+            <Data name="BaseShapeVaginaGroin" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaGroin</Data>
+        </Slider>
+        <Slider name="HipBone" invert="false" small="0" big="0">
+            <Data name="BaseShapeHipBone" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeHipBone</Data>
+            <Data name="RobesHipBone" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesHipBone</Data>
+            <Data name="PantiesHipBone" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesHipBone</Data>
+            <Data name="BaseShapeCanalHipBone" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalHipBone</Data>
+            <Data name="BaseShapeVaginaHipBone" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaHipBone</Data>
+        </Slider>
+        <Slider name="HipForward" invert="false" small="0" big="0">
+            <Data name="BaseShapeHipForward" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeHipForward</Data>
+            <Data name="RobesHipForward" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesHipForward</Data>
+            <Data name="PantiesHipForward" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesHipForward</Data>
+            <Data name="BaseShapeCanalHipForward" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalHipForward</Data>
+            <Data name="BaseShapeAnusHipForward" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusHipForward</Data>
+            <Data name="BaseShapeVaginaHipForward" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaHipForward</Data>
+        </Slider>
+        <Slider name="HipUpperWidth" invert="false" small="0" big="0">
+            <Data name="BaseShapeHipUpperWidth" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeHipUpperWidth</Data>
+            <Data name="RobesHipUpperWidth" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesHipUpperWidth</Data>
+            <Data name="PantiesHipUpperWidth" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesHipUpperWidth</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" small="0" big="0">
+            <Data name="BaseShapeLegsThin" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeLegsThin</Data>
+            <Data name="RobesLegsThin" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesLegsThin</Data>
+            <Data name="PantiesLegsThin" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesLegsThin</Data>
+        </Slider>
+        <Slider name="MuscleArms" invert="false" small="0" big="0">
+            <Data name="BaseShapeMuscleArms" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeMuscleArms</Data>
+            <Data name="RobesMuscleArms" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesMuscleArms</Data>
+        </Slider>
+        <Slider name="MuscleLegs" invert="false" small="0" big="0">
+            <Data name="BaseShapeMuscleLegs" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeMuscleLegs</Data>
+            <Data name="RobesMuscleLegs" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesMuscleLegs</Data>
+            <Data name="PantiesMuscleLegs" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesMuscleLegs</Data>
+            <Data name="BaseShapeCanalMuscleLegs" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalMuscleLegs</Data>
+            <Data name="BaseShapeVaginaMuscleLegs" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaMuscleLegs</Data>
+        </Slider>
+        <Slider name="MuscleButt" invert="false" small="0" big="0">
+            <Data name="BaseShapeMuscleButt" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeMuscleButt</Data>
+            <Data name="RobesMuscleButt" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesMuscleButt</Data>
+            <Data name="PantiesMuscleButt" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesMuscleButt</Data>
+            <Data name="BaseShapeAnusMuscleButt" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusMuscleButt</Data>
+        </Slider>
+        <Slider name="MusclePecs" invert="false" small="0" big="0">
+            <Data name="BaseShapeMusclePecs" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeMusclePecs</Data>
+            <Data name="RobesMusclePecs" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesMusclePecs</Data>
+        </Slider>
+        <Slider name="MuscleAbs" invert="false" small="0" big="0">
+            <Data name="BaseShapeMuscleAbs" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeMuscleAbs</Data>
+            <Data name="RobesMuscleAbs" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesMuscleAbs</Data>
+            <Data name="PantiesMuscleAbs" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesMuscleAbs</Data>
+            <Data name="BaseShapeCanalMuscleAbs" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalMuscleAbs</Data>
+        </Slider>
+        <Slider name="NipplePuffyAreola" invert="false" small="0" big="0">
+            <Data name="BaseShapeNipplePuffyAreola" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeNipplePuffyAreola</Data>
+            <Data name="RobesNipplePuffyAreola" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesNipplePuffyAreola</Data>
+        </Slider>
+        <Slider name="PussyOpen" invert="false" small="0" big="0">
+            <Data name="BaseShapePussyOpen" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapePussyOpen</Data>
+            <Data name="RobesPussyOpen" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesPussyOpen</Data>
+            <Data name="PantiesPussyOpen" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesPussyOpen</Data>
+            <Data name="BaseShapeCanalPussyOpen" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalPussyOpen</Data>
+            <Data name="BaseShapeVaginaPussyOpen" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaPussyOpen</Data>
+        </Slider>
+        <Slider name="PussyWide" invert="false" small="0" big="0">
+            <Data name="PantiesPussyWide" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesPussyWide</Data>
+            <Data name="BaseShapeCanalPussyWide" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalPussyWide</Data>
+            <Data name="BaseShapeVaginaPussyWide" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaPussyWide</Data>
+        </Slider>
+        <Slider name="RibsProminance" invert="false" small="0" big="0">
+            <Data name="BaseShapeRibsProminance" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeRibsProminance</Data>
+            <Data name="RobesRibsProminance" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesRibsProminance</Data>
+        </Slider>
+        <Slider name="ShoulderTweak" invert="false" small="0" big="0">
+            <Data name="BaseShapeShoulderTweak" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeShoulderTweak</Data>
+            <Data name="RobesShoulderTweak" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesShoulderTweak</Data>
+        </Slider>
+        <Slider name="SternumDepth" invert="false" small="0" big="0">
+            <Data name="BaseShapeSternumDepth" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeSternumDepth</Data>
+            <Data name="RobesSternumDepth" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesSternumDepth</Data>
+        </Slider>
+        <Slider name="SternumHeight" invert="false" small="0" big="0">
+            <Data name="BaseShapeSternumHeight" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeSternumHeight</Data>
+            <Data name="RobesSternumHeight" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesSternumHeight</Data>
+        </Slider>
+        <Slider name="Top Slope" invert="false" small="0" big="0">
+            <Data name="BaseShapeTop Slope" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeTop Slope</Data>
+            <Data name="RobesTop Slope" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesTop Slope</Data>
+        </Slider>
+        <Slider name="WaistHeight" invert="false" small="0" big="0">
+            <Data name="BaseShapeWaistHeight" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeWaistHeight</Data>
+            <Data name="RobesWaistHeight" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesWaistHeight</Data>
+            <Data name="PantiesWaistHeight" target="Panties" local="true">Summon Mistress Vespera Outfit.osd\PantiesWaistHeight</Data>
+            <Data name="BaseShapeAnusWaistHeight" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusWaistHeight</Data>
+            <Data name="BaseShapeVaginaWaistHeight" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaWaistHeight</Data>
+        </Slider>
+        <Slider name="BreastsGone" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastsGone" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBreastsGone</Data>
+            <Data name="RobesBreastsGone" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesBreastsGone</Data>
+        </Slider>
+        <Slider name="BreastsPressed" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastsPressed" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBreastsPressed</Data>
+            <Data name="RobesBreastsPressed" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesBreastsPressed</Data>
+        </Slider>
+        <Slider name="ClitSpread" invert="false" small="0" big="0">
+            <Data name="BaseShapeClitSpread" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeClitSpread</Data>
+            <Data name="RobesClitSpread" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesClitSpread</Data>
+            <Data name="BaseShapeVaginaClitSpread" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaClitSpread</Data>
+        </Slider>
+        <Slider name="BellyObesity" invert="false" small="0" big="0">
+            <Data name="BaseShapeBellyObesity" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBellyObesity</Data>
+            <Data name="RobesBellyObesity" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesBellyObesity</Data>
+            <Data name="BaseShapeVaginaBellyObesity" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaBellyObesity</Data>
+        </Slider>
+        <Slider name="BellyLowerSwell1" invert="false" small="0" big="0">
+            <Data name="BaseShapeBellyLowerSwell1" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBellyLowerSwell1</Data>
+            <Data name="RobesBellyLowerSwell1" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesBellyLowerSwell1</Data>
+        </Slider>
+        <Slider name="BellyLowerSwell2" invert="false" small="0" big="0">
+            <Data name="BaseShapeBellyLowerSwell2" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBellyLowerSwell2</Data>
+            <Data name="RobesBellyLowerSwell2" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesBellyLowerSwell2</Data>
+            <Data name="BaseShapeVaginaBellyLowerSwell2" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaBellyLowerSwell2</Data>
+        </Slider>
+        <Slider name="BellyLowerSwell3" invert="false" small="0" big="0">
+            <Data name="BaseShapeBellyLowerSwell3" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBellyLowerSwell3</Data>
+            <Data name="RobesBellyLowerSwell3" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesBellyLowerSwell3</Data>
+            <Data name="BaseShapeVaginaBellyLowerSwell3" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaBellyLowerSwell3</Data>
+        </Slider>
+        <Slider name="BellyCenterProtrude" invert="false" small="0" big="0">
+            <Data name="BaseShapeBellyCenterProtrude" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBellyCenterProtrude</Data>
+            <Data name="RobesBellyCenterProtrude" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesBellyCenterProtrude</Data>
+            <Data name="BaseShapeVaginaBellyCenterProtrude" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaBellyCenterProtrude</Data>
+        </Slider>
+        <Slider name="BellyBalls" invert="false" small="0" big="0">
+            <Data name="BaseShapeBellyBalls" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBellyBalls</Data>
+            <Data name="RobesBellyBalls" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesBellyBalls</Data>
+        </Slider>
+        <Slider name="BellyCenterUpperProtrude" invert="false" small="0" big="0">
+            <Data name="BaseShapeBellyCenterUpperProtrude" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBellyCenterUpperProtrude</Data>
+            <Data name="RobesBellyCenterUpperProtrude" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesBellyCenterUpperProtrude</Data>
+        </Slider>
+        <Slider name="NippleRightPinch" invert="false" small="0" big="0">
+            <Data name="BaseShapeNippleRightPinch" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeNippleRightPinch</Data>
+            <Data name="RobesNippleRightPinch" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesNippleRightPinch</Data>
+        </Slider>
+        <Slider name="NippleLeftPinch" invert="false" small="0" big="0">
+            <Data name="BaseShapeNippleLeftPinch" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeNippleLeftPinch</Data>
+            <Data name="RobesNippleLeftPinch" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesNippleLeftPinch</Data>
+        </Slider>
+        <Slider name="BellyFatLower" invert="false" small="0" big="0">
+            <Data name="BaseShapeBellyFatLower" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBellyFatLower</Data>
+            <Data name="RobesBellyFatLower" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesBellyFatLower</Data>
+            <Data name="BaseShapeVaginaBellyFatLower" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaBellyFatLower</Data>
+        </Slider>
+        <Slider name="BellyFatUpper" invert="false" small="0" big="0">
+            <Data name="BaseShapeBellyFatUpper" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBellyFatUpper</Data>
+            <Data name="RobesBellyFatUpper" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesBellyFatUpper</Data>
+        </Slider>
+        <Slider name="Clit" invert="false" small="0" big="0">
+            <Data name="RobesClit" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesClit</Data>
+            <Data name="BaseShapeVaginaClit" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaClit</Data>
+        </Slider>
+        <Slider name="BellyUnder" invert="false" small="0" big="0">
+            <Data name="BaseShapeBellyUnder" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBellyUnder</Data>
+            <Data name="RobesBellyUnder" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesBellyUnder</Data>
+        </Slider>
+        <Slider name="ButtSaggy" invert="false" small="0" big="0">
+            <Data name="BaseShapeButtSaggy" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeButtSaggy</Data>
+            <Data name="RobesButtSaggy" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesButtSaggy</Data>
+            <Data name="BaseShapeAnusButtSaggy" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusButtSaggy</Data>
+        </Slider>
+        <Slider name="ButtDimples" invert="false" small="0" big="0">
+            <Data name="BaseShapeButtDimples" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeButtDimples</Data>
+            <Data name="RobesButtDimples" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesButtDimples</Data>
+        </Slider>
+        <Slider name="ButtUnderFold" invert="false" small="0" big="0">
+            <Data name="BaseShapeButtUnderFold" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeButtUnderFold</Data>
+            <Data name="RobesButtUnderFold" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesButtUnderFold</Data>
+        </Slider>
+        <Slider name="HipCarved" invert="false" small="0" big="0">
+            <Data name="BaseShapeHipCarved" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeHipCarved</Data>
+            <Data name="RobesHipCarved" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesHipCarved</Data>
+        </Slider>
+        <Slider name="HipNarrow" invert="false" small="0" big="0">
+            <Data name="BaseShapeHipNarrow" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeHipNarrow</Data>
+            <Data name="RobesHipNarrow" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesHipNarrow</Data>
+        </Slider>
+        <Slider name="NavelEven" invert="false" small="0" big="0">
+            <Data name="BaseShapeNavelEven" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeNavelEven</Data>
+            <Data name="RobesNavelEven" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesNavelEven</Data>
+        </Slider>
+        <Slider name="NipplePerkManga" invert="false" small="0" big="0">
+            <Data name="BaseShapeNipplePerkManga" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeNipplePerkManga</Data>
+            <Data name="RobesNipplePerkManga" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesNipplePerkManga</Data>
+        </Slider>
+        <Slider name="NippleThicc" invert="false" small="0" big="0">
+            <Data name="BaseShapeNippleThicc" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeNippleThicc</Data>
+            <Data name="RobesNippleThicc" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesNippleThicc</Data>
+        </Slider>
+        <Slider name="RibsMore" invert="false" small="0" big="0">
+            <Data name="BaseShapeRibsMore" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeRibsMore</Data>
+            <Data name="RobesRibsMore" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesRibsMore</Data>
+        </Slider>
+        <Slider name="ThighInnerThicker" invert="false" small="0" big="0">
+            <Data name="BaseShapeThighInnerThicker" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeThighInnerThicker</Data>
+            <Data name="RobesThighInnerThicker" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesThighInnerThicker</Data>
+        </Slider>
+        <Slider name="ThighFBThicker" invert="false" small="0" big="0">
+            <Data name="BaseShapeThighFBThicker" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeThighFBThicker</Data>
+            <Data name="RobesThighFBThicker" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesThighFBThicker</Data>
+        </Slider>
+        <Slider name="LegSpread" invert="false" small="0" big="0">
+            <Data name="BaseShapeLegSpread" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeLegSpread</Data>
+            <Data name="RobesLegSpread" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesLegSpread</Data>
+            <Data name="BaseShapeVaginaLegSpread" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaLegSpread</Data>
+        </Slider>
+        <Slider name="BreastSaggy" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastSaggy" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBreastSaggy</Data>
+            <Data name="RobesBreastSaggy" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesBreastSaggy</Data>
+        </Slider>
+        <Slider name="BreastsSpread" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastsSpread" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBreastsSpread</Data>
+            <Data name="RobesBreastsSpread" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesBreastsSpread</Data>
+        </Slider>
+        <Slider name="ButtConverge" invert="false" small="0" big="0">
+            <Data name="BaseShapeButtConverge" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeButtConverge</Data>
+            <Data name="RobesButtConverge" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesButtConverge</Data>
+        </Slider>
+        <Slider name="AnalPositionlow" invert="false" small="0" big="0">
+            <Data name="BaseShapeAnalPositionlow" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnalPositionlow</Data>
+            <Data name="RobesAnalPositionlow" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesAnalPositionlow</Data>
+            <Data name="BaseShapeAnusAnalPositionlow" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusAnalPositionlow</Data>
+        </Slider>
+        <Slider name="CrotchGap" invert="false" small="0" big="0">
+            <Data name="BaseShapeCrotchGap" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCrotchGap</Data>
+            <Data name="RobesCrotchGap" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesCrotchGap</Data>
+            <Data name="BaseShapeCanalCrotchGap" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalCrotchGap</Data>
+            <Data name="BaseShapeAnusCrotchGap" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusCrotchGap</Data>
+            <Data name="BaseShapeVaginaCrotchGap" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaCrotchGap</Data>
+        </Slider>
+        <Slider name="ArmpitShape" invert="false" small="0" big="0">
+            <Data name="BaseShapeArmpitShape" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeArmpitShape</Data>
+            <Data name="RobesArmpitShape" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesArmpitShape</Data>
+        </Slider>
+        <Slider name="ClitorisPrepuce" invert="false" small="0" big="0">
+            <Data name="BaseShapeClitorisPrepuce" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeClitorisPrepuce</Data>
+            <Data name="RobesClitorisPrepuce" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesClitorisPrepuce</Data>
+            <Data name="BaseShapeVaginaClitorisPrepuce" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaClitorisPrepuce</Data>
+        </Slider>
+        <Slider name="BreastDiameter" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastDiameter" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBreastDiameter</Data>
+            <Data name="RobesBreastDiameter" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesBreastDiameter</Data>
+        </Slider>
+        <Slider name="Biceps" invert="false" small="0" big="0">
+            <Data name="BaseShapeBiceps" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBiceps</Data>
+            <Data name="RobesBiceps" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesBiceps</Data>
+        </Slider>
+        <Slider name="ClaviclesSize" invert="false" small="0" big="0">
+            <Data name="BaseShapeClaviclesSize" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeClaviclesSize</Data>
+            <Data name="RobesClaviclesSize" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesClaviclesSize</Data>
+        </Slider>
+        <Slider name="ClaviclesFront" invert="false" small="0" big="0">
+            <Data name="BaseShapeClaviclesFront" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeClaviclesFront</Data>
+            <Data name="RobesClaviclesFront" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesClaviclesFront</Data>
+        </Slider>
+        <Slider name="ClaviclesAngle" invert="false" small="0" big="0">
+            <Data name="BaseShapeClaviclesAngle" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeClaviclesAngle</Data>
+            <Data name="RobesClaviclesAngle" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesClaviclesAngle</Data>
+        </Slider>
+        <Slider name="BellyDefine" invert="false" small="0" big="0">
+            <Data name="BaseShapeBellyDefine" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBellyDefine</Data>
+            <Data name="RobesBellyDefine" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesBellyDefine</Data>
+        </Slider>
+        <Slider name="RectusOuterDetail" invert="false" small="0" big="0">
+            <Data name="BaseShapeRectusOuterDetail" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeRectusOuterDetail</Data>
+            <Data name="RobesRectusOuterDetail" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesRectusOuterDetail</Data>
+        </Slider>
+        <Slider name="RectusAbdominis" invert="false" small="0" big="0">
+            <Data name="BaseShapeRectusAbdominis" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeRectusAbdominis</Data>
+            <Data name="RobesRectusAbdominis" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesRectusAbdominis</Data>
+        </Slider>
+        <Slider name="AnusSize" invert="false" small="0" big="0">
+            <Data name="BaseShapeAnusSize" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusSize</Data>
+            <Data name="RobesAnusSize" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesAnusSize</Data>
+            <Data name="BaseShapeAnusAnusSize" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusAnusSize</Data>
+        </Slider>
+        <Slider name="ThighApart" invert="false" small="0" big="0">
+            <Data name="BaseShapeThighApart" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeThighApart</Data>
+            <Data name="RobesThighApart" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesThighApart</Data>
+            <Data name="BaseShapeCanalThighApart" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalThighApart</Data>
+            <Data name="BaseShapeVaginaThighApart" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaThighApart</Data>
+        </Slider>
+        <Slider name="ThighOuter" invert="false" small="0" big="0">
+            <Data name="BaseShapeThighOuter" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeThighOuter</Data>
+            <Data name="RobesThighOuter" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesThighOuter</Data>
+        </Slider>
+        <Slider name="ThighThicker" invert="false" small="0" big="0">
+            <Data name="BaseShapeThighThicker" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeThighThicker</Data>
+            <Data name="RobesThighThicker" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesThighThicker</Data>
+        </Slider>
+        <Slider name="Sartorius" invert="false" small="0" big="0">
+            <Data name="BaseShapeSartorius" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeSartorius</Data>
+            <Data name="RobesSartorius" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesSartorius</Data>
+        </Slider>
+        <Slider name="RectusFemoris" invert="false" small="0" big="0">
+            <Data name="BaseShapeRectusFemoris" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeRectusFemoris</Data>
+            <Data name="RobesRectusFemoris" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesRectusFemoris</Data>
+        </Slider>
+        <Slider name="VastusLateralis" invert="false" small="0" big="0">
+            <Data name="BaseShapeVastusLateralis" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVastusLateralis</Data>
+            <Data name="RobesVastusLateralis" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesVastusLateralis</Data>
+        </Slider>
+        <Slider name="VastusMedialis" invert="false" small="0" big="0">
+            <Data name="BaseShapeVastusMedialis" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVastusMedialis</Data>
+            <Data name="RobesVastusMedialis" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesVastusMedialis</Data>
+        </Slider>
+        <Slider name="Hamstrings" invert="false" small="0" big="0">
+            <Data name="BaseShapeHamstrings" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeHamstrings</Data>
+            <Data name="RobesHamstrings" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesHamstrings</Data>
+        </Slider>
+        <Slider name="BicepsFemoris" invert="false" small="0" big="0">
+            <Data name="BaseShapeBicepsFemoris" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBicepsFemoris</Data>
+            <Data name="RobesBicepsFemoris" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesBicepsFemoris</Data>
+        </Slider>
+        <Slider name="Clavicle" invert="false" small="0" big="0">
+            <Data name="BaseShapeClavicle" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeClavicle</Data>
+            <Data name="RobesClavicle" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesClavicle</Data>
+        </Slider>
+        <Slider name="AreolaPull" invert="false" small="0" big="0">
+            <Data name="BaseShapeAreolaPull" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAreolaPull</Data>
+            <Data name="RobesAreolaPull" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesAreolaPull</Data>
+        </Slider>
+        <Slider name="BackValley" invert="false" small="0" big="0">
+            <Data name="BaseShapeBackValley" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBackValley</Data>
+            <Data name="RobesBackValley" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesBackValley</Data>
+        </Slider>
+        <Slider name="BackWing" invert="false" small="0" big="0">
+            <Data name="BaseShapeBackWing" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBackWing</Data>
+            <Data name="RobesBackWing" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesBackWing</Data>
+        </Slider>
+        <Slider name="BreastSideShape" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastSideShape" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBreastSideShape</Data>
+            <Data name="RobesBreastSideShape" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesBreastSideShape</Data>
+        </Slider>
+        <Slider name="BreastUnderDepth" invert="false" small="0" big="0">
+            <Data name="BaseShapeBreastUnderDepth" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBreastUnderDepth</Data>
+            <Data name="RobesBreastUnderDepth" target="Robes" local="true">Summon Mistress Vespera Outfit.osd\RobesBreastUnderDepth</Data>
+        </Slider>
+        <Slider name="AnusSpread" invert="false" small="0" big="0">
+            <Data name="BaseShapeAnusSpread" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusSpread</Data>
+            <Data name="BaseShapeCanalAnusSpread" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalAnusSpread</Data>
+            <Data name="BaseShapeAnusAnusSpread" target="BaseShapeAnus">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeAnusAnusSpread</Data>
+        </Slider>
+        <Slider name="BellyPressed" invert="false" small="0" big="0">
+            <Data name="BaseShapeBellyPressed" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeBellyPressed</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="BaseShapeCalfSize" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="BaseShapeCalfSmooth" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCalfSmooth</Data>
+        </Slider>
+        <Slider name="KneeShape" invert="false" small="0" big="0">
+            <Data name="BaseShapeKneeShape" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeKneeShape</Data>
+        </Slider>
+        <Slider name="KneeSlim" invert="false" small="0" big="0">
+            <Data name="BaseShapeKneeSlim" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeKneeSlim</Data>
+        </Slider>
+        <Slider name="LeftBreastFuck" invert="false" small="0" big="0">
+            <Data name="BaseShapeLeftBreastFuck" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeLeftBreastFuck</Data>
+            <Data name="BaseShapeVaginaLeftBreastFuck" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaLeftBreastFuck</Data>
+        </Slider>
+        <Slider name="NipBGone" invert="false" small="0" big="0">
+            <Data name="BaseShapeNipBGone" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeNipBGone</Data>
+        </Slider>
+        <Slider name="NippleInverted" invert="false" small="0" big="0">
+            <Data name="BaseShapeNippleInverted" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeNippleInverted</Data>
+        </Slider>
+        <Slider name="NippleLeftPressed" invert="false" small="0" big="0">
+            <Data name="BaseShapeNippleLeftPressed" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeNippleLeftPressed</Data>
+        </Slider>
+        <Slider name="NippleRightPressed" invert="false" small="0" big="0">
+            <Data name="BaseShapeNippleRightPressed" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeNippleRightPressed</Data>
+        </Slider>
+        <Slider name="PussyClipFix" invert="false" small="0" big="0">
+            <Data name="BaseShapePussyClipFix" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapePussyClipFix</Data>
+            <Data name="BaseShapeCanalPussyClipFix" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalPussyClipFix</Data>
+            <Data name="BaseShapeVaginaPussyClipFix" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaPussyClipFix</Data>
+        </Slider>
+        <Slider name="RightBreastFuck" invert="false" small="0" big="0">
+            <Data name="BaseShapeRightBreastFuck" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeRightBreastFuck</Data>
+            <Data name="BaseShapeVaginaRightBreastFuck" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaRightBreastFuck</Data>
+        </Slider>
+        <Slider name="Soleus" invert="false" small="0" big="0">
+            <Data name="BaseShapeSoleus" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeSoleus</Data>
+        </Slider>
+        <Slider name="PussyClosed" invert="false" small="0" big="0">
+            <Data name="BaseShapeCanalPussyClosed" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalPussyClosed</Data>
+            <Data name="BaseShapeVaginaPussyClosed" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaPussyClosed</Data>
+        </Slider>
+        <Slider name="LabiaStretch" invert="false" small="0" big="0">
+            <Data name="BaseShapeLabiaStretch" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeLabiaStretch</Data>
+            <Data name="BaseShapeCanalLabiaStretch" target="BaseShapeCanal">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeCanalLabiaStretch</Data>
+            <Data name="BaseShapeVaginaLabiaStretch" target="BaseShapeVagina">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeVaginaLabiaStretch</Data>
+        </Slider>
+        <Slider name="NeckSmooth" invert="false" small="0" big="0">
+            <Data name="BaseShapeNeckSmooth" target="BaseShape">BHUNP 3BBB Advanced Ver 3.osd\BaseShapeNeckSmooth</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Summon Mistress Vespera Boots">
+        <DataFolder>Summon Mistress Vespera Boots</DataFolder>
+        <SourceFile>Summon Mistress Vespera Boots.nif</SourceFile>
+        <OutputPath>Meshes\Summon_Mistress_Meshes\outfit</OutputPath>
+        <OutputFile GenWeights="true">vespera_boots</OutputFile>
+        <Shape target="Boots">Boots</Shape>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="Boots7B Low" target="Boots" local="true">Summon Mistress Vespera Boots.osd\Boots7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="Boots7B High" target="Boots" local="true">Summon Mistress Vespera Boots.osd\Boots7B High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="Boots7BUNP Low" target="Boots" local="true">Summon Mistress Vespera Boots.osd\Boots7BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="Boots7BUNP High" target="Boots" local="true">Summon Mistress Vespera Boots.osd\Boots7BUNP High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="Boots7B Bombshell Low" target="Boots" local="true">Summon Mistress Vespera Boots.osd\Boots7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="Boots7B Bombshell High" target="Boots" local="true">Summon Mistress Vespera Boots.osd\Boots7B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="Boots7B Natural Low" target="Boots" local="true">Summon Mistress Vespera Boots.osd\Boots7B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="Boots7B Natural High" target="Boots" local="true">Summon Mistress Vespera Boots.osd\Boots7B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="Boots7B Cleavage Low" target="Boots" local="true">Summon Mistress Vespera Boots.osd\Boots7B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="Boots7B Cleavage High" target="Boots" local="true">Summon Mistress Vespera Boots.osd\Boots7B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="Boots7B BCup Low" target="Boots" local="true">Summon Mistress Vespera Boots.osd\Boots7B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="Boots7B BCup High" target="Boots" local="true">Summon Mistress Vespera Boots.osd\Boots7B BCup High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="Boots7B Oppai Low" target="Boots" local="true">Summon Mistress Vespera Boots.osd\Boots7B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="Boots7B Oppai High" target="Boots" local="true">Summon Mistress Vespera Boots.osd\Boots7B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="Boots7B CH Low" target="Boots" local="true">Summon Mistress Vespera Boots.osd\Boots7B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="Boots7B CH High" target="Boots" local="true">Summon Mistress Vespera Boots.osd\Boots7B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="BootsUNP Low" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="BootsUNP High" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsUNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="BootsUNP Pushup Low" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsUNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="BootsUNP Pushup High" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsUNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="BootsUNP Skinny Low" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsUNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="BootsUNP Skinny High" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsUNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="BootsUNP Perky Low" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsUNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="BootsUNP Perky High" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsUNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="BootsUNPB Low" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="BootsUNPB High" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="BootsUNPB Oppai v3.2 Low" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="BootsUNPB Oppai v3.2 High" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="BootsUNPetite Low" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsUNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="BootsUNPetite High" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsUNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="BootsUNPC Low" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="BootsUNPC High" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsUNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="BootsUNPCM Low" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsUNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="BootsUNPCM High" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsUNPCM High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="BootsUNPK Low" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsUNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="BootsUNPK High" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsUNPK High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="BootsUN7B Low" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsUN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="BootsUN7B High" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsUN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="BootsUNPBB Low" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsUNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="BootsUNPBB High" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsUNPBB High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="BootsTop Model Low" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="BootsTop Model High" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsTop Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="BootsLeito Low" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsLeito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="BootsLeito High" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsLeito High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="BootsMCBM Low" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsMCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="BootsMCBM High" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsMCBM High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="BootsManga Low" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsManga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="BootsManga High" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsManga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="BootsCHSBHC Low" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsCHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="BootsCHSBHC High" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsCHSBHC High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="BootsZGGB-R2 Low" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="BootsZGGB-R2 High" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Aruru6Duck Low" invert="false" small="0" big="0">
+            <Data name="BootsAruru6Duck Low" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsAruru6Duck Low</Data>
+        </Slider>
+        <Slider name="Aruru6Duck High" invert="false" small="0" big="0">
+            <Data name="BootsAruru6Duck High" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsAruru6Duck High</Data>
+        </Slider>
+        <Slider name="BellyObesity" invert="false" small="0" big="0">
+            <Data name="BootsBellyObesity" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsBellyObesity</Data>
+        </Slider>
+        <Slider name="BreastConverge" invert="false" small="0" big="0">
+            <Data name="BootsBreastConverge" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsBreastConverge</Data>
+        </Slider>
+        <Slider name="Butt" invert="true" small="100" big="100">
+            <Data name="BootsButt" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsButt</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="true" small="100" big="100">
+            <Data name="BootsButtSmall" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsButtSmall</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="BootsCalfSize" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="BootsCalfSmooth" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsCalfSmooth</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="BootsChubbyLegs" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsChubbyLegs</Data>
+        </Slider>
+        <Slider name="CrotchBack" invert="false" small="0" big="0">
+            <Data name="BootsCrotchBack" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsCrotchBack</Data>
+        </Slider>
+        <Slider name="HipForward" invert="false" small="0" big="0">
+            <Data name="BootsHipForward" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsHipForward</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="BootsKneeHeight" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsKneeHeight</Data>
+        </Slider>
+        <Slider name="KneeShape" invert="false" small="0" big="0">
+            <Data name="BootsKneeShape" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsKneeShape</Data>
+        </Slider>
+        <Slider name="KneeSlim" invert="false" small="0" big="0">
+            <Data name="BootsKneeSlim" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsKneeSlim</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="BootsLegs" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsLegs</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" small="0" big="0">
+            <Data name="BootsLegsThin" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsLegsThin</Data>
+        </Slider>
+        <Slider name="MuscleLegs" invert="false" small="0" big="0">
+            <Data name="BootsMuscleLegs" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsMuscleLegs</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="BootsSlimThighs" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsSlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="BootsThighs" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsThighs</Data>
+        </Slider>
+        <Slider name="HighHeel" invert="false" small="0" big="0">
+            <Data name="BootsHighHeel" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsHighHeel</Data>
+        </Slider>
+        <Slider name="ThighInnerThicker" invert="false" small="0" big="0">
+            <Data name="BootsThighInnerThicker" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsThighInnerThicker</Data>
+        </Slider>
+        <Slider name="ThighFBThicker" invert="false" small="0" big="0">
+            <Data name="BootsThighFBThicker" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsThighFBThicker</Data>
+        </Slider>
+        <Slider name="LegSpread" invert="false" small="0" big="0">
+            <Data name="BootsLegSpread" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsLegSpread</Data>
+        </Slider>
+        <Slider name="ThighApart" invert="false" small="0" big="0">
+            <Data name="BootsThighApart" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsThighApart</Data>
+        </Slider>
+        <Slider name="ThighOuter" invert="false" small="0" big="0">
+            <Data name="BootsThighOuter" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsThighOuter</Data>
+        </Slider>
+        <Slider name="ThighThicker" invert="false" small="0" big="0">
+            <Data name="BootsThighThicker" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsThighThicker</Data>
+        </Slider>
+        <Slider name="Sartorius" invert="false" small="0" big="0">
+            <Data name="BootsSartorius" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsSartorius</Data>
+        </Slider>
+        <Slider name="RectusFemoris" invert="false" small="0" big="0">
+            <Data name="BootsRectusFemoris" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsRectusFemoris</Data>
+        </Slider>
+        <Slider name="VastusLateralis" invert="false" small="0" big="0">
+            <Data name="BootsVastusLateralis" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsVastusLateralis</Data>
+        </Slider>
+        <Slider name="VastusMedialis" invert="false" small="0" big="0">
+            <Data name="BootsVastusMedialis" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsVastusMedialis</Data>
+        </Slider>
+        <Slider name="Hamstrings" invert="false" small="0" big="0">
+            <Data name="BootsHamstrings" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsHamstrings</Data>
+        </Slider>
+        <Slider name="BicepsFemoris" invert="false" small="0" big="0">
+            <Data name="BootsBicepsFemoris" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsBicepsFemoris</Data>
+        </Slider>
+        <Slider name="Soleus" invert="false" small="0" big="0">
+            <Data name="BootsSoleus" target="Boots" local="true">Summon Mistress Vespera Boots.osd\BootsSoleus</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
