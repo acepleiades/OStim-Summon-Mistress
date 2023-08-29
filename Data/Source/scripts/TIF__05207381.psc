@@ -10,7 +10,7 @@ game.disablePlayerControls()
 
 Game.FadeOutGame(false, true, 2.0, 1.0)
 Utility.Wait(1)
-Debug.notification("You spent some time with Adriette.")
+Debug.notification("You spent some time with Vespera.")
 float currenthour = GameHour.GetValue()
 float newtime = currenthour + 2
 GameHour.SetValue(newtime)

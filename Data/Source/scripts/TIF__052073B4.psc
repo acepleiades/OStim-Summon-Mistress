@@ -2,16 +2,6 @@
 ;NEXT FRAGMENT INDEX 1
 Scriptname TIF__052073B4 Extends TopicInfo Hidden
 
-;BEGIN FRAGMENT Fragment_0
-Function Fragment_0(ObjectReference akSpeakerRef)
-Actor akSpeaker = akSpeakerRef as Actor
-;BEGIN CODE
-MyQuest.setstage(30)
-GetOwningQuest().setstage(60)
-;END CODE
-EndFunction
-;END FRAGMENT
-
 ;END FRAGMENT CODE - Do not edit anything between this and the begin comment
 
 Quest Property myQuest  Auto  
