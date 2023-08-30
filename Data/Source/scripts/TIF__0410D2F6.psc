@@ -10,8 +10,8 @@ osexintegrationmain OStim = OUtils.GetOStim()
 Actor[] actors = new actor[3]
 Actors[0] = playerref
 Actors[1] = akSpeaker
-Actors[2] = Serana
-Ostim.StartScene(playerref, akSpeaker, zThirdActor = Serana)
+Actors[2] = MyActor
+OThread.QuickStart(Actors)
 ;END CODE
 EndFunction
 ;END FRAGMENT
@@ -19,4 +19,4 @@ EndFunction
 ;END FRAGMENT CODE - Do not edit anything between this and the begin comment
 
 actor property playerref auto
-Actor Property Serana Auto
+actor property MyActor auto

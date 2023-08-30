@@ -1,6 +1,6 @@
 ;BEGIN FRAGMENT CODE - Do not edit anything between this and the end comment
 ;NEXT FRAGMENT INDEX 1
-Scriptname TIF__0519559C Extends TopicInfo Hidden
+Scriptname TIF__052073AD Extends TopicInfo Hidden
 
 ;BEGIN FRAGMENT Fragment_0
 Function Fragment_0(ObjectReference akSpeakerRef)
@@ -10,7 +10,7 @@ osexintegrationmain OStim = OUtils.GetOStim()
 Actor[] actors = new actor[3]
 Actors[0] = playerref
 Actors[1] = akSpeaker
-Actors[2] = MyActor
+Actors[2] = MyActor1
 OThread.QuickStart(Actors)
 ;END CODE
 EndFunction
@@ -19,4 +19,4 @@ EndFunction
 ;END FRAGMENT CODE - Do not edit anything between this and the begin comment
 
 actor property playerref auto
-Actor Property MyActor Auto
+actor property MyActor1 auto
