@@ -59,21 +59,3 @@ Actors[1] = akSpeaker
 string sceneID = OLibrary.GetRandomSceneSuperloadCSV(Actors, AnyActionType="blowjob", AnyActorTagForAny="standing")
 Ostim.StartScene(playerref, akSpeaker, zStartingAnimation = sceneID)
 
-	The following is an example for 3P scene start.
-
-osexintegrationmain OStim = OUtils.GetOStim()
-Actor[] actors = new actor[3]
-Actors[0] = playerref
-Actors[1] = akSpeaker
-Actors[2] = MyActor
-OThread.QuickStart(Actors)
-
----------------------------------
-actor property playerref auto
-
-actor property playerref auto
-actor property MyActor auto
-
-actor property playerref auto
-actor property MyActor1 auto
-actor property MyActor2 auto
